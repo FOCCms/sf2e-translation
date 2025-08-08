@@ -89,7 +89,7 @@ Licensor warrants, represents, acknowledges, and agrees that upon publication of
 
 **c. Construction.** This ORC License is published simultaneously with an answers and explanations document (“AxE”) that is filed under the same US Copyright registration as this ORC License. One purpose of the AxE is to provide a general indication of the drafters’ intentions in interpreting the ORC License and in the event of a dispute, the AxE is intended to be admissible to and used by any adjudicating body for such purpose. The ORC License may be translated into other languages. You and Licensor acknowledge and agree that if there is any conflict between this ORC License, the AxE, and such translated version, the terms of the English language ORC License registered by Azora Law PLLC with the US Copyright Office shall control. Subsequent versions of the AxE shall not be admissible for purposes of determining the drafters’ intentions with respect to the ORC License. To the extent possible, if any provision of this ORC License is deemed unenforceable by a court of law, it shall be automatically reformed to the minimum extent necessary to make it enforceable on a case-bycase basis. If such provision cannot be reformed, it shall be severed from this ORC License without affecting the enforceability of the remaining terms and conditions. No term or condition of this ORC License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor. Nothing in this ORC License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
-## ## Rulebooks
+## Rulebooks
 
 ### Core Rulebooks
 
