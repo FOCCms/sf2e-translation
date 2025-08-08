@@ -8,16 +8,17 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "SF2E Translate",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: null,
+    // analytics: {
+    //   provider: "plausible",
+    // },
+    locale: "ru-RU",
+    baseUrl: "foccms.github.io/sf2e-translate",
+    ignorePatterns: ["private", "templates", ".obsidian", ".space"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
