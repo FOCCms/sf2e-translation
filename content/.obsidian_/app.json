@@ -1,0 +1,8 @@
+{
+  "newLinkFormat": "absolute",
+  "showLineNumber": true,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "source"
+}
