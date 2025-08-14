@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "SF2E Translate",
+    pageTitle: "SF2E Translation",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -18,7 +18,6 @@ const config: QuartzConfig = {
       provider: "yandex",
     },
     locale: "ru-RU",
-    // baseUrl: "foccms.github.io/sf2e-translate",
     baseUrl: "sf2e-translation.ru",
     ignorePatterns: ["private", "templates", ".obsidian", ".space"],
     defaultDateType: "modified",
@@ -102,7 +101,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }
