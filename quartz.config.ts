@@ -12,10 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
-    // analytics: {
-    //   provider: "plausible",
-    // },
+    // analytics: null,
+    analytics: {
+      provider: "yandex",
+    },
     locale: "ru-RU",
     baseUrl: "foccms.github.io/sf2e-translate",
     ignorePatterns: ["private", "templates", ".obsidian", ".space"],
