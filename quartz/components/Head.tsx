@@ -98,7 +98,7 @@ export default (() => {
             return resource
           }
         })}
-        <meta name="yandex-verification" content="0cce6e5700ee8e31" />
+        <meta name="yandex-verification" content="06732109df74e9b6" />
       </head>
     )
   }

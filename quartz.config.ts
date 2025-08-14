@@ -17,7 +17,8 @@ const config: QuartzConfig = {
       provider: "yandex",
     },
     locale: "ru-RU",
-    baseUrl: "foccms.github.io/sf2e-translate",
+    // baseUrl: "foccms.github.io/sf2e-translate",
+    baseUrl: "sf2e-translation.ru",
     ignorePatterns: ["private", "templates", ".obsidian", ".space"],
     defaultDateType: "modified",
     theme: {
