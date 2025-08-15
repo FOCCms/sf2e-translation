@@ -6,6 +6,7 @@ title: Русско-английский глоссарий
 ```json
 {
   "ability": "умение",
+  "rank": "ранг",
   "proficiency rank": "ранг мастерства",
   "special ability": "особое умение",
   "Armor Class (AC)": "Класс Брони (AC/КБ)",
@@ -94,6 +95,14 @@ title: Русско-английский глоссарий
   "dedication": "посвящение",
 }
 ```
+
+Back Off - Реверс
+Evade - Уклонение
+Flip and Burn - Поворот на ходу
+Barrel Roll - Бочка
+Flyby - Пролёт
+Drift - Дрифт
+Turn in Place - Поворот на месте
 
 
 Солариан
