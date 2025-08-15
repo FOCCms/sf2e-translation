@@ -6,6 +6,7 @@ title: Русско-английский глоссарий
 ```json
 {
   "ability": "умение",
+  "proficiency rank": "ранг мастерства",
   "special ability": "особое умение",
   "Armor Class (AC)": "Класс Брони (AC/КБ)",
   "anathema": "анафема",
@@ -30,6 +31,7 @@ title: Русско-английский глоссарий
   "exploration": "исследование",
   "failure": "провал",
   "feat": "способность",
+  "class features": "особенности класса"
   "Fortitude":"Стойкость",
   "free action": "свободное действие",
   "Gap": "Разрыв",
@@ -87,6 +89,9 @@ title: Русско-английский глоссарий
   "Solarian": "Солариан",
   "Soldier": "Солдат",
   "Witchwarper": "Исказитель",
+  "Sanctification": "Инвеститура",
+  "sanctified": "инвеститурный",
+  "dedication": "посвящение",
 }
 ```
 
