@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.Graph(),
+    Component.DesktopOnly(Component.Graph()),
     Component.Backlinks(),
   ],
   right: [
