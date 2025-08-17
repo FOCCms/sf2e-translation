@@ -15,15 +15,8 @@
   .page { max-width: 1800px; } /* под 2K/4K можно поднять до 1800–2000px */
 }
 
-/* Скрыть первый h1 заголовок (дублируется с названием) */
-.popover-hint h1:first-child {
-  display: none;
-  margin: 0;
-}
-
+// Делает h1 заголовок из вставок заметок высотой 1rem (как у h6)
 .transclude h1:first-child {
-  display: block;
-  margin: 0;
   font-size: 1rem;
 }
 
