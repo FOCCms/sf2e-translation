@@ -9,7 +9,7 @@ title: Русско-английский глоссарий
   "rank": "ранг",
   "proficiency rank": "ранг мастерства",
   "special ability": "особое умение",
-  "Armor Class (AC)": "Класс Брони (AC/КБ)",
+  "Armor Class (AC)": "Класс Брони (КБ)",
   "anathema": "анафема",
   "Ancestry": "Родословная",
   "activity": "активность",
@@ -103,7 +103,8 @@ title: Русско-английский глоссарий
   "paragon": "образцовый",
   "UPB": "УПО",
   "Hardness": "Твёрдость",
-  "Broken Threshold": "Предел Поломки"
+  "Broken Threshold": "Предел Поломки",
+  "Environmental Protection": "Жизнеобеспечение",
 }
 ```
 
