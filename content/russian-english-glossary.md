@@ -93,6 +93,17 @@ title: Русско-английский глоссарий
   "Sanctification": "Инвеститура",
   "sanctified": "инвеститурный",
   "dedication": "посвящение",
+  "grade": "градация",
+  "commercial": "коммерческий",
+  "tactical": "тактический",
+  "advanced": "улучшенный",
+  "superior": "превосходный",
+  "elite": "элитный",
+  "ultimate": "абсолютный",
+  "paragon": "образцовый",
+  "UPB": "УПО",
+  "Hardness": "Твёрдость",
+  "Broken Threshold": "Предел Поломки"
 }
 ```
 
