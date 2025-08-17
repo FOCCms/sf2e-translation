@@ -1,7 +1,7 @@
 ---
-title: Сменить Руки (Switch Hands) 🔷
+title: Сменить Руки (Switch Hands) ◆
 ---
-# Сменить Руки (Switch Hands) 🔷
+# Сменить Руки (Switch Hands) ◆
 
 **Источник** Player Core pg. 411
 
