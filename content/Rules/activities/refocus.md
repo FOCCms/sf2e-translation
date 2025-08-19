@@ -2,7 +2,7 @@
 title: Сфокусироваться (Refocus)
 ---
 # Сфокусироваться (Refocus)
-[[Rules/traits/сoncentrate#Концентрация (Concentrate)|Концентрация]] [[Rules/traits/exploration#Исследование (Exploration)|Исследование]]
+[[Rules/traits/concentrate#Концентрация (Concentrate)|Концентрация]] [[Rules/traits/exploration#Исследование (Exploration)|Исследование]]
 
 **Источник** Player Core pg. 296
 **Требования**: У вас есть запас очков фокусировки.
