@@ -21,12 +21,12 @@
 }
 
 /* Бейджи для ссылок на признаки */
-a[href^="/traits/"] {
+a.internal [href^="/traits/"] {
   display: inline-block;
   padding: .05em .55em;
   border: 1px solid var(--accent, currentColor);
   border-radius: 999px;
-  background: rgba(127,127,127,.08);
+  background: rgba(194, 30, 30, 0.644);
   font-weight: 600;
   text-decoration: none;
 }
