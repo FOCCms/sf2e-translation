@@ -80,17 +80,13 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage({sort(a, b) {
-        const nameA = 
-          a.slug?.[a.slug.length - 1] ??
-          a.frontmatter?.title ??
-          ""
-        const nameB = 
-          b.slug?.[b.slug.length - 1] ??
-          b.frontmatter?.title ??
-          ""
-        return nameA.localeCompare(nameB, "ru", {numeric: true, sensitivity: "base"})
-      },}),
+      Plugin.FolderPage(
+        {sort(a, b) {
+        const nameA = a.slug ?? "";        
+        const nameB = b.slug ?? "";
+        return nameA.localeCompare(nameB, "en", {numeric: true, sensitivity: "base"})
+      },}
+    ),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
