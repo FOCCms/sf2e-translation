@@ -20,13 +20,21 @@
   font-size: 1rem;
 }
 
-/* Бейджи для ссылок на признаки */
-a.internal [href^="/traits/"] {
+
+/* Бейджи для ссылок на признаки (любой регистр и alias-ссылки тоже) */
+a.internal[href^="/rules/traits/" i],
+a.internal[data-slug^="rules/traits/" i] {
   display: inline-block;
   padding: .05em .55em;
   border: 1px solid var(--accent, currentColor);
   border-radius: 999px;
-  background: rgba(194, 30, 30, 0.644);
+  background: rgba(127,127,127,.08);
   font-weight: 600;
   text-decoration: none;
 }
+
+a.internal[href^="/rules/traits/" i]:hover,
+a.internal[data-slug^="rules/traits/" i]:hover {
+  filter: brightness(1.05);
+}
+

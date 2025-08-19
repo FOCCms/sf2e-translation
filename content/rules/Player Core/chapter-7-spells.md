@@ -85,5 +85,5 @@ Casting any of your focus spells costs you 1 Focus Point. You automatically gain
 
 You replenish all the Focus Points in your pool during your daily preparations. You can also use the Refocus activity to pray, study, meditate, or otherwise reattune yourself to the source of your focus magic and regain 1 Focus Point. You can Refocus multiple times to regain multiple points, up to your pool's maximum.
 
-![[Rules/activities/refocus#Сфокусироваться (Refocus)|Сфокусироваться (Refocus)]]
+![[rules/activities/refocus#Сфокусироваться (Refocus)|Сфокусироваться (Refocus)]]
 
