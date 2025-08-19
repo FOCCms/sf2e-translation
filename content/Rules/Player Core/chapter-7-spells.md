@@ -68,3 +68,22 @@ title: Глава 7. Заклинания (Spells)
 Многие классы спонтанных заклинателей предоставляют умения, такие как особенность класса "Коронные заклинания (Signature spells)", которая позволяет вам произносить ограниченное количество заклинаний в усиленной версии, даже если вы знаете заклинание только на одном ранге.
 
 Как спонтанный заклинатель, вы также можете выбрать произнесение заклинания более низкого ранга, используя слот заклинания более высокого ранга, без усиления и без знания его на более высоком ранге. В этом случае заклинание произносится на том ранге, на котором вы его знаете, а не на ранге более высокого слота. Заклинание не получает никаких эффектов усиления, так что это обычно не самый эффективный способ использования вашей магии, кроме очень специфических обстоятельств. Например, если ваша группа испытывает трудности с невидимым врагом, а у вас есть ==разоблачающий свет (revealing light)== в репертуаре, но все ваши слоты заклинаний 2-го ранга уже израсходованы, возможно, стоит использовать слот заклинания 3-го ранга, чтобы произнести это заклинание, даже если оно не получит усиленного эффекта.
+
+## Чары (Cantrips)
+
+A cantrip is a special type of spell that's weaker than other spells but can be used with greater freedom and flexibility. The title of a cantrip's stat block says “Cantrip” instead of “Spell”, and the spell has the cantrip trait. Casting a cantrip doesn't use up your spell slots; you can cast a cantrip at will, any number of times per day. If you're a prepared caster, you can prepare a specific number of cantrips each day. You can't prepare a cantrip in a spell slot.
+
+A cantrip is always automatically heightened to half your level, rounded up. For a typical spellcaster, this means its rank is equal to the highest rank of spell slot you have.
+
+## Заклинания фокусировки (Focus Spells)
+
+Focus spells are a special type of spell attained directly from a specific source, such as a field of study, connection to a mystical force, or exposure to an alternate reality. You can learn focus spells only through special class features or feats, rather than choosing them from a spell list. Furthermore, you cast focus spells using a special pool of Focus Points—you can't prepare a focus spell in a spell slot or use your spell slots to cast focus spells; similarly, you can't spend your Focus Points to cast spells that aren't focus spells. Even some classes that don't normally grant spellcasting can grant focus spells. The title of a focus spell's stat block says “Focus” instead of “Spell”, and the spell has the focus trait.
+
+Focus spells are automatically heightened to half your level rounded up, just like cantrips are. You can't cast a focus spell if its minimum rank is greater than half your level rounded up, even if you somehow gain access to it.
+
+Casting any of your focus spells costs you 1 Focus Point. You automatically gain a focus pool the first time you gain an ability that gives you a focus spell. The maximum number of points in your pool is equal to the number of focus spells you know or 3, whichever is lower. This counts only spells that require Focus Points to cast.
+
+You replenish all the Focus Points in your pool during your daily preparations. You can also use the Refocus activity to pray, study, meditate, or otherwise reattune yourself to the source of your focus magic and regain 1 Focus Point. You can Refocus multiple times to regain multiple points, up to your pool's maximum.
+
+![[Rules/activities/refocus#Сфокусироваться (Refocus)|Сфокусироваться (Refocus)]]
+
