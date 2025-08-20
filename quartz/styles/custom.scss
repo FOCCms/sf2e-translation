@@ -37,3 +37,18 @@ a.internal.alias[data-slug^="rules/traits/" i][href*="#"]:hover {
 }
 
 
+/* Прятать Graph на телефонах и планшетах (любой ориентации) */
+@media (max-width: 1199px) {
+  /* накрываем разные контейнеры графа на всякий случай */
+  .left section:has(#graph-container),
+  .left section:has(#global-graph),
+  .left section:has(#local-graph),
+  .left .graph,
+  #graph-container,
+  #global-graph,
+  #local-graph {
+    display: none !important;
+  }
+}
+
+
