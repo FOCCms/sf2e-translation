@@ -21,6 +21,7 @@ title: Русско-английский глоссарий
 "condition": "состояние",
 "damage":"урон",
 "difficulty class": "класс сложности",
+"range increment": "шаг дистанции",
 "DC": "КС",
 "Hit Points":"Очки Здоровья",
 "HP": "ОЗ",
