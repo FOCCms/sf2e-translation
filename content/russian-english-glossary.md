@@ -58,6 +58,7 @@ title: Русско-английский глоссарий
 "activity": "активность",
 "action": "действие",
 "attribute": "атрибут",
+"affliction": "недуг",
 "attribute modifier": "модификатор атрибута",
 "bonus": "бонус",
 "attribute boost": "повышение атрибута",
