@@ -5,7 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => page.fileData.slug === "graph",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/FOCCms/sf2e-translation",
@@ -37,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.Graph()),
+    // Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
