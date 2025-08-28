@@ -20,10 +20,6 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ConditionalRender({
-      component: Component.Graph(),
-      condition: (page) => page.frontmatter?.showGraph === true,
-    }),
     // Component.ArticleTitle(),
     // Component.ContentMeta(),
     // Component.TagList(),
@@ -41,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    // Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
@@ -51,15 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(), 
-    Component.ArticleTitle(), 
-    Component.ContentMeta(), 
-    Component.ConditionalRender({
-      component: Component.Graph(),
-      condition: (page) => page.frontmatter?.showGraph === true,
-    })
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
