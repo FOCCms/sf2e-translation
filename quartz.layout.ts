@@ -20,6 +20,10 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => page.frontmatter?.showGraph === true,
+    }),
     // Component.ArticleTitle(),
     // Component.ContentMeta(),
     // Component.TagList(),
@@ -37,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.Graph()),
+    // Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
