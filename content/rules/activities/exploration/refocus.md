@@ -2,6 +2,7 @@
 title: Сфокусироваться (Refocus)
 ---
 # Сфокусироваться (Refocus)
+
 [[rules/traits/concentrate#Концентрация (Concentrate)|Концентрация]] [[rules/traits/exploration#Исследование (Exploration)|Исследование]]
 
 **Источник** Player Core  
