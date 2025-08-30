@@ -1,7 +1,7 @@
 ---
 title: Схватиться за уступ (Grab an Edge) ↩
 ---
-# Схватиться за уступ (Grab an Edge)  ↩
+# Схватиться за уступ (Grab an Edge) ↩
 
 [[rules/traits/manipulate|Манипуляция]]
 
