@@ -19,3 +19,5 @@ title: Активности (Activities)
 ![[rules/activities/basic-actions/specialty-basic-actions/area-fire#Огонь по области (Area Fire) ◆◆]]
 
 ![[rules/activities/basic-actions/specialty-basic-actions/arrest-a-fall#Остановить падение (Arrest a Fall) ↩]]
+
+![[rules/activities/basic-actions/specialty-basic-actions/auto-fire|Автоматический огонь (Auto-Fire) ◆◆]]
