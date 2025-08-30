@@ -1,7 +1,7 @@
 ---
 title: Остановить падение (Arrest a Fall) ↩
 ---
-# Остановить падение (Arrest a Fall)  ↩
+# Остановить падение (Arrest a Fall) ↩
 
 **Источник** Player Core  
 **Триггер** Вы [[rules/player core/chapter-8-playing-the-game#Падение (Falling)|падаете]].  
