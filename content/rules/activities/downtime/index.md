@@ -1,7 +1,11 @@
 ---
 title: Отдых (Downtime)
 ---
+# Отдых (Downtime)
+
 [[rules/activities/index|Активности]] [[rules/activities/exploration/index|Исследование]]
+
+![[rules/activities/downtime/craft#Создать (Craft)]]
 
 ![[rules/activities/downtime/create-forgery#Создать подделку (Create Forgery)]]
 

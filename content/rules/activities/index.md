@@ -1,10 +1,11 @@
 ---
 title: Активности (Activities)
 ---
+# Активности (Activities)
 
 [[rules/activities/exploration/index|Исследование (Exploration)]] [[rules/activities/downtime/index|Отдых (Downtime)]]
 
-# Простые действия (Basic Actions)
+## Простые действия (Basic Actions)
 
 [[rules/player core/chapter-8-playing-the-game#Простые действия (Basic Actions)|Подробнее]]
 
@@ -40,7 +41,7 @@ title: Активности (Activities)
 
 ![[rules/activities/basic-actions/take-cover#Укрыться (Take Cover) ◆]]
 
-# Специальные простые действия (Specialty Basic Actions)
+## Специальные простые действия (Specialty Basic Actions)
 
 [[rules/player core/chapter-8-playing-the-game#Специальные простые действия (Specialty Basic Actions)|Подробнее]]
 
