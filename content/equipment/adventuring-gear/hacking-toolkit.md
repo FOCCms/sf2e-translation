@@ -3,6 +3,8 @@ title: Хакерский комплект (Hacking Toolkit)
 ---
 # Хакерский комплект (Hacking Toolkit)
 
+[[rules/traits/tech|Техно]]
+
 **Источник** Player Core  
 **Тип** Предмет  
 **Уровень** 0+  
