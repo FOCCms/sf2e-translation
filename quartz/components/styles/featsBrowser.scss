@@ -1,0 +1,192 @@
+.feats-browser {
+  padding: 1rem 0;
+
+  h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .feats-search input {
+    width: 100%;
+    padding: 0.6rem 1rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    font-size: 1rem;
+    font-family: inherit;
+    background-color: var(--light);
+    color: var(--dark);
+    transition: border 0.2s ease;
+
+    &:focus {
+      outline: none;
+      border-color: var(--secondary);
+      box-shadow: 0 0 0 2px color-mix(in srgb, var(--secondary) 40%, transparent);
+    }
+  }
+
+  .filter-block {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+
+    strong {
+      font-weight: 600;
+    }
+
+    input[type="number"] {
+      width: 5em;
+      padding: 0.3rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      background: var(--light);
+      color: var(--dark);
+      font-family: inherit;
+    }
+  }
+
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+
+  button {
+    padding: 0.4rem 0.8rem;
+    border-radius: 999px; // делаем чипсы
+    border: 1px solid var(--lightgray);
+    background: var(--light);
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.9rem;
+    transition:
+      background 0.25s ease,
+      color 0.25s ease,
+      border-color 0.25s ease,
+      transform 0.1s ease;
+
+    // лёгкий эффект "нажатия"
+    &:active {
+      transform: scale(0.95);
+    }
+
+    // состояния
+    &[data-state="neutral"] {
+      background: var(--light);
+      color: var(--dark);
+    }
+
+    &[data-state="include"] {
+      background: var(--secondary);
+      color: var(--light);
+      border-color: var(--secondary);
+      box-shadow: 0 0 6px color-mix(in srgb, var(--secondary) 40%, transparent);
+    }
+
+    &[data-state="exclude"] {
+      background: var(--darkgray);
+      color: var(--light);
+      border-color: var(--darkgray);
+    }
+
+    &:hover {
+      border-color: var(--secondary);
+      background: color-mix(in srgb, var(--secondary) 15%, var(--light));
+    }
+  }
+}
+
+
+  #feats-count {
+    margin: 1rem 0;
+    font-weight: 500;
+  }
+
+  .feats-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+
+    th, td {
+      border: 1px solid var(--lightgray);
+      padding: 0.5rem 0.8rem;
+      text-align: left;
+    }
+
+    th {
+      background: var(--lightgray);
+      font-weight: 600;
+    }
+
+    tr:nth-child(even) {
+      background: color-mix(in srgb, var(--light) 90%, var(--lightgray));
+    }
+
+    tr:hover {
+      background: color-mix(in srgb, var(--highlight) 20%, transparent);
+    }
+  }
+}
+
+.feats-browser {
+  .toggle-filters {
+    margin: 0.5rem 0 1rem;
+    padding: 0.5rem 1rem;
+    background: var(--lightgray);
+    border: 1px solid var(--lightgray);
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s ease;
+
+    &:hover {
+      background: color-mix(in srgb, var(--secondary) 20%, var(--lightgray));
+    }
+  }
+
+  .filters {
+    overflow: hidden;
+    max-height: 999px;
+    opacity: 1;
+    transition: max-height 0.4s ease, opacity 0.4s ease;
+  }
+
+  .filters.collapsed {
+    max-height: 0;
+    opacity: 0;
+    margin: 0;
+  }
+}
+
+.load-more {
+  display: block;
+  margin: 1.5rem auto;
+  padding: 0.6rem 1.2rem;
+
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--dark);
+
+  background: color-mix(in srgb, var(--lightgray) 60%, var(--light));
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+
+  cursor: pointer;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: var(--lightgray);
+    border-color: var(--secondary);
+    color: var(--secondary);
+  }
+
+  &:active {
+    transform: translateY(1px);
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+}

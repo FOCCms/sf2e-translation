@@ -52,8 +52,12 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs()
+  beforeBody: [Component.Breadcrumbs(),
     // , Component.ArticleTitle(), Component.ContentMeta()
+    Component.ConditionalRender({
+      component: Component.FeatsBrowser(),
+      condition: (page) => page.fileData.slug === "feats/index",
+    })
   ],
   left: [
     Component.PageTitle(),

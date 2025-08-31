@@ -4,6 +4,8 @@ title: Ломик (Crowbar)
 # Ломик (Crowbar)
 
 **Источник** Pathfinder Custom Conversion  
+**Тип** Предмет  
+**Уровень** 0  
 **Цена** 5  
 **Руки** 2  
 **Масса** Л

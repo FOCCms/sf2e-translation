@@ -82,11 +82,10 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(
         {sort(a, b) {
-        const nameA = a.slug ?? "";        
-        const nameB = b.slug ?? "";
-        return nameA.localeCompare(nameB, "en", {numeric: true, sensitivity: "base"})
-      },}
-    ),
+          const nameA = a.slug ?? "";        
+          const nameB = b.slug ?? "";
+          return nameA.localeCompare(nameB, "en", {numeric: true, sensitivity: "base"})
+        },}),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
@@ -96,6 +95,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      Plugin.FeatsIndex(), 
+      Plugin.TraitsIndex()
       // Comment out CustomOgImages to speed up build time
       // Plugin.CustomOgImages(),
     ],
