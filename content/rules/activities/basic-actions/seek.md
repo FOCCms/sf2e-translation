@@ -3,7 +3,7 @@ title: Поиск (Seek) ◆
 ---
 # Поиск (Seek) ◆
 
-[[rules/traits/concentrate#Концентрация (Concentrate)|Концентрация]] [[rules/traits/secret#Тайна (Secret)|Тайна]]
+[[rules/traits/concentrat|Концентрация]] [[rules/traits/secret|Тайна]]
 
 **Источник** Player Core  
 

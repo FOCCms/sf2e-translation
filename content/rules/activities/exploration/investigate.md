@@ -3,7 +3,7 @@ title: Исследовать (Investigate)
 ---
 # Исследовать (Investigate)
 
-[[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration#Исследование (Exploration)|Исследование]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration|Исследование]]
 
 **Источник** Player Core  
 

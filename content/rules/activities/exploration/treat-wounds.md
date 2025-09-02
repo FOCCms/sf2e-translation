@@ -3,7 +3,7 @@ title: Лечение ран (Treat Wounds)
 ---
 # Лечение ран (Treat Wounds)
 
-[[rules/traits/exploration#Исследование (Exploration)|Исследование]] [[rules/traits/healing|Исцеление]] [[rules/traits/manipulate|Манипуляция]]
+[[rules/traits/exploration|Исследование]] [[rules/traits/healing|Исцеление]] [[rules/traits/manipulate|Манипуляция]]
 
 **Источник** Player Core  
 **Навык** Медицина  

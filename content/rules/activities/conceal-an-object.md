@@ -3,7 +3,7 @@ title: Скрыть Объект (Conceal an Object) ◆
 ---
 # Скрыть Объект (Conceal an Object) ◆
 
-[[rules/traits/manipulate#Манипуляция (Manipulate)|Манипуляция]] [[rules/traits/secret#Тайна (Secret)|Тайна]]
+[[rules/traits/manipulate|Манипуляция]] [[rules/traits/secret|Тайна]]
 
 **Источник** Player Core  
 **Навык** Скрытность  

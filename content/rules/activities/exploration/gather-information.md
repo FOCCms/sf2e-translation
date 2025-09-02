@@ -3,7 +3,7 @@ title: Собрать информацию (Gather Information)
 ---
 # Собрать информацию (Gather Information)
 
-[[rules/traits/exploration#Исследование (Exploration)|Исследование]] [[rules/traits/secret|Тайна]]
+[[rules/traits/exploration|Исследование]] [[rules/traits/secret|Тайна]]
 
 **Источник** Player Core  
 **Навык** Дипломатия  

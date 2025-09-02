@@ -3,7 +3,7 @@ title: Установить улучшение (Install Upgrade)
 ---
 # Установить улучшение (Install Upgrade)
 
-[[rules/traits/exploration#Исследование (Exploration)|Исследование]] [[rules/traits/manipulate|Манипуляция]]
+[[rules/traits/exploration|Исследование]] [[rules/traits/manipulate|Манипуляция]]
 
 **Источник** Player Core  
 **Требования** У вас есть [[equipment/adventuring-gear/repair-toolkit|ремонтный комплект]] и одна свободная рука.

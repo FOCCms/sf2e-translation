@@ -19,7 +19,7 @@ target: 1 существо
 range: касание
 duration: 10 минут
 ---
-# Обнаружение магии (Detect Magic) / чары 1
+# Невидимость (Invisibility) / закл 2
 
 [[rules/traits/illusion|Иллюзия]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/subtle|Скрытный]]
 

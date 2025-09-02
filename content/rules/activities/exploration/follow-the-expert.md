@@ -3,7 +3,7 @@ title: Повторять за экспертом (Follow the Expert)
 ---
 # Повторять за экспертом (Follow the Expert)
 
-[[rules/traits/auditory|Слуховой]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration#Исследование (Exploration)|Исследование]] [[rules/traits/visual|Визуальный]]
+[[rules/traits/auditory|Слуховой]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration|Исследование]] [[rules/traits/visual|Визуальный]]
 
 **Источник** Player Core  
 

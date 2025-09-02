@@ -3,7 +3,7 @@ title: Анализ Окружающей Среды (Analyze Environment)
 ---
 # Анализ Окружающей Среды (Analyze Environment)
 
-[[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration#Исследование (Exploration)|Исследование]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration|Исследование]]
 
 **Источник** Player Core  
 **Требования** У вас есть [[rules/player core/chapter-6-equipment#Жизнеобеспечение (Environmental Protection)|жизнеобеспечение]] в вашей броне или [[equipment/adventuring-gear/field-scientists-toolkit|Полевой комплект учёного (Field Scientist's Toolkit)]].  

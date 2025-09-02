@@ -3,7 +3,7 @@ title: Ремонт (Repair)
 ---
 # Ремонт (Repair)
 
-[[rules/traits/exploration#Исследование (Exploration)|Исследование]] [[rules/traits/manipulate|Манипуляция]]
+[[rules/traits/exploration|Исследование]] [[rules/traits/manipulate|Манипуляция]]
 
 **Источник** Player Core  
 **Навык** Ремесло  

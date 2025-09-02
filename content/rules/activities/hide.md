@@ -3,7 +3,7 @@ title: Спрятаться (Hide) ◆
 ---
 # Спрятаться (Hide) ◆
 
-[[rules/traits/secret#Тайна (Secret)|Тайна]]
+[[rules/traits/secret|Тайна]]
 
 **Источник** Player Core  
 **Навык** Скрытность

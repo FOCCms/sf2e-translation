@@ -3,7 +3,7 @@ title: Спешить (Hustle)
 ---
 # Спешить (Hustle)
 
-[[rules/traits/exploration#Исследование (Exploration)|Исследование]] [[rules/traits/move|Движение]]
+[[rules/traits/exploration|Исследование]] [[rules/traits/move|Движение]]
 
 **Источник** Player Core  
 

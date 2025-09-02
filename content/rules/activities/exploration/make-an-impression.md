@@ -3,7 +3,7 @@ title: Произвести впечатление (Make an Impression)
 ---
 # Произвести впечатление (Make an Impression)
 
-[[rules/traits/auditory|Слуховой]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration#Исследование (Exploration)|Исследование]] [[rules/traits/linguistic|Языковой]] [[rules/traits/mental|Ментальный]]
+[[rules/traits/auditory|Слуховой]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration|Исследование]] [[rules/traits/linguistic|Языковой]] [[rules/traits/mental|Ментальный]]
 
 **Источник** Player Core  
 **Навык** Дипломатия  

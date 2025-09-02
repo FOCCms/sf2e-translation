@@ -3,7 +3,7 @@ title: Взломать (Hack)
 ---
 # Взломать (Hack)
 
-[[rules/traits/exploration#Исследование (Exploration)|Исследование]]
+[[rules/traits/exploration|Исследование]]
 
 **Источник** Player Core  
 **Навык** Компьютеры  
