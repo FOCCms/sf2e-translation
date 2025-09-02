@@ -3,7 +3,7 @@ title: Активности (Activities)
 ---
 # Активности (Activities)
 
-[[rules/activities/exploration/index|Исследование (Exploration)]] [[rules/activities/downtime/index|Отдых (Downtime)]]
+[[rules/activities/exploration/index|Исследование]] [[rules/activities/downtime/index|Отдых]]
 
 ## Простые действия (Basic Actions)
 
