@@ -6,7 +6,7 @@ title: Красться (Sneak) ◆
 [[rules/traits/move|Движение]] [[rules/traits/secret|Тайна]]
 
 **Источник** Player Core  
-**Навык** Скрытность
+**Навык** Скрытность  
 
 Вы пытаетесь переместиться в другое место, оставаясь или становясь [[rules/conditions/undetected|необнаруженным]]. Совершите [[rules/activities/basic-actions/stride|Перемещение (Stride) ◆]] до половины вашей Скорости. (Вы можете использовать Красться во время [[rules/player core/chapter-8-playing-the-game#Скорость рытья (Burrow Speed)|рытья]], [[rules/player core/chapter-8-playing-the-game#Скорость карабканья (Climb Speed)|лазания]], [[rules/player core/chapter-8-playing-the-game#Скорость полёта (Fly Speed)|полёта]], [[rules/player core/chapter-8-playing-the-game#Скорость плавания (Swim Speed)|плавания]] вместо [[rules/activities/basic-actions/stride|Перемещения (Stride) ◆]], если у вас есть соответствующий [[rules/player core/chapter-8-playing-the-game#Виды передвижения (Movement Types)|вид передвижения]]; вы должны двигаться с половиной этой Скорости.)
 

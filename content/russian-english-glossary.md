@@ -330,6 +330,18 @@ trait_bages.css
 }
 ```
 
+embed-headers.css
+```css
+/* Уменьшить заголовки только во встраиваемых заметках */
+
+.markdown-embed h1 { font-size: 1.5em; }
+.markdown-embed h2 { font-size: 1.3em; }
+.markdown-embed h3 { font-size: 1.1em; }
+.markdown-embed h4 { font-size: 0.9em; }
+.markdown-embed h5 { font-size: 0.7em; }
+.markdown-embed h6 { font-size: 0.5em; }
+```
+
 ### Встроенные плагины
 эти включены у меня, рекомендуется их оставить включенными. Остальные по желанию.
 
