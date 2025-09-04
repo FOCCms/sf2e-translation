@@ -18,8 +18,8 @@ title: Аркана (Arcana)
 
 Вы должны быть тренированы Аркане, чтобы использовать следующие общие действия навыков.
 
-- [[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]] об арканных теориях
-- [[rules/activities/exploration/identify-magic|Идентификация магии (Identify Magic)]], в частности арканной
-- [[rules/activities/exploration/learn-a-spell|Выучить заклинание (Learn a Spell)]] арканной магической традиции
+- **[[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]]** об арканных теориях
+- **[[rules/activities/exploration/identify-magic|Идентификация магии (Identify Magic)]]**, в частности арканной
+- **[[rules/activities/exploration/learn-a-spell|Выучить заклинание (Learn a Spell)]]** арканной магической традиции
 
 ![[rules/activities/exploration/borrow-an-arcane-spell#Одолжить арканное заклинание (Borrow an Arcane Spell)]]

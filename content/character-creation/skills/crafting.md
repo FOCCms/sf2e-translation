@@ -20,7 +20,7 @@ title: Ремесло (Crafting)
 
 Вы должны быть тренированы Ремеслу, чтобы использовать следующие общие действия навыков.
 
-- [[rules/activities/downtime/earn-income|Заработок денег (Earn Income)]] производя товары для рынка.
+- **[[rules/activities/downtime/earn-income|Заработок денег (Earn Income)]]** производя товары для рынка.
 
 ![[rules/activities/downtime/craft#Создать (Craft)]]
 

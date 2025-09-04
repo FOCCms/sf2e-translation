@@ -18,6 +18,6 @@ title: Оккультизм (Occultism)
 
 Вы должны быть тренированы Оккультизму, чтобы использовать следующие общие действия навыков.
 
-- [[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]] на оккультные темы, включая сложные метафизические системы, синкретические принципы, малоизвестные философии и бессвязные рассуждения.
-- [[rules/activities/exploration/identify-magic|Идентификация магии (Identify Magic)]], в частности оккультной
-- [[rules/activities/exploration/learn-a-spell|Выучить заклинание (Learn a Spell)]] оккультной магической традиции
+- **[[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]]** на оккультные темы, включая сложные метафизические системы, синкретические принципы, малоизвестные философии и бессвязные рассуждения.
+- **[[rules/activities/exploration/identify-magic|Идентификация магии (Identify Magic)]]**, в частности оккультной
+- **[[rules/activities/exploration/learn-a-spell|Выучить заклинание (Learn a Spell)]]** оккультной магической традиции

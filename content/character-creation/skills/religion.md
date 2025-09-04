@@ -18,6 +18,6 @@ title: Религия (Religion)
 
 Вы должны быть тренированы Религии, чтобы использовать следующие общие действия навыков.
 
-- [[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]] религиозного характера, включая аллегории, поучения и пословицы.
-- [[rules/activities/exploration/identify-magic|Идентификация магии (Identify Magic)]], в частности сакральной
-- [[rules/activities/exploration/learn-a-spell|Выучить заклинание (Learn a Spell)]] сакральной магической традиции
+- **[[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]]** религиозного характера, включая аллегории, поучения и пословицы.
+- **[[rules/activities/exploration/identify-magic|Идентификация магии (Identify Magic)]]**, в частности сакральной
+- **[[rules/activities/exploration/learn-a-spell|Выучить заклинание (Learn a Spell)]]** сакральной магической традиции
