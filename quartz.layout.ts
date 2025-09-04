@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -16,6 +17,21 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/FOCCms/sf2e-translation",
     },
   }),
+}
+
+function explorerSortFn(a: FileTrieNode, b: FileTrieNode): number {
+ if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    return a.slug.localeCompare(b.slug, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+
+  if (!a.isFolder && b.isFolder) {
+    return 1
+  } else {
+    return -1
+  }
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -41,7 +57,9 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: explorerSortFn
+    }),
     // Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.Backlinks()),
   ],
@@ -71,7 +89,9 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: explorerSortFn
+    }),
   ],
   right: [],
 }

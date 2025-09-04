@@ -8,7 +8,7 @@
   }
 
   .feats-search input {
-    width: 100%;
+    width: 97%;
     padding: 0.6rem 1rem;
     border: 1px solid var(--lightgray);
     border-radius: 6px;
@@ -70,23 +70,23 @@
     }
 
     // состояния
-    &[data-state="neutral"] {
-      background: var(--light);
-      color: var(--dark);
-    }
+    // &[data-state="neutral"] {
+    //   background: var(--light);
+    //   color: var(--dark);
+    // }
 
-    &[data-state="include"] {
-      background: var(--secondary);
-      color: var(--light);
-      border-color: var(--secondary);
-      box-shadow: 0 0 6px color-mix(in srgb, var(--secondary) 40%, transparent);
-    }
+    // &[data-state="include"] {
+    //   background: var(--secondary);
+    //   color: var(--light);
+    //   border-color: var(--secondary);
+    //   box-shadow: 0 0 6px color-mix(in srgb, var(--secondary) 40%, transparent);
+    // }
 
-    &[data-state="exclude"] {
-      background: var(--darkgray);
-      color: var(--light);
-      border-color: var(--darkgray);
-    }
+    // &[data-state="exclude"] {
+    //   background: var(--darkgray);
+    //   color: var(--light);
+    //   border-color: var(--darkgray);
+    // }
 
     &:hover {
       border-color: var(--secondary);

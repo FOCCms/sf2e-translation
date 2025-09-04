@@ -19,7 +19,7 @@ function FeatsBrowser() {
         />
       </div>
 
-      <button id="toggle-filters" class="toggle-filters">Фильтры ⯆</button>
+      <button id="toggle-filters" class="toggle-filters">Фильтры ↓</button>
 
       <div id="filters-panel" class="filters collapsed">
 
@@ -32,8 +32,11 @@ function FeatsBrowser() {
         {/* Уровень */}
         <div class="filter-block">
           <strong>Уровень:</strong>
-          от <input type="number" id="filter-level-min" /> до{" "}
-          <input type="number" id="filter-level-max" />
+          <span>
+            от <input type="number" id="filter-level-min" /> до{" "}
+            <input type="number" id="filter-level-max" />
+          </span>
+          
         </div>
 
         {/* Признаки */}
@@ -66,8 +69,8 @@ FeatsBrowser.afterDOMLoaded = script + `
       btn.addEventListener("click", () => {
         panel.classList.toggle("collapsed")
         btn.textContent = panel.classList.contains("collapsed")
-          ? "Фильтры ⌄"
-          : "Фильтры ⌃"
+          ? "Фильтры ↓"
+          : "Фильтры ↑"
       })
     }
   })
