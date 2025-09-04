@@ -4,21 +4,34 @@
 
 /* Базовое поведение — как было (мобилки/планшеты трогать не надо) */
 
-/* На широких экранах расширяем контейнер страницы ступенчато */
-@media (min-width: 1200px) {
-  .page { max-width: 1400px; }
-}
-@media (min-width: 1536px) {
-  .page { max-width: 1680px; }
-}
-@media (min-width: 1920px) {
-  .page { max-width: 1800px; } /* под 2K/4K можно поднять до 1800–2000px */
+.page {
+  max-width: none !important;
+  width: 100% !important;
 }
 
-// Делает h1 заголовок из вставок заметок высотой 1rem (как у h6)
-.transclude h1:first-child {
-  font-size: 1rem;
-}
+// /* На широких экранах расширяем контейнер страницы ступенчато */
+// @media (min-width: 1200px) {
+//   .page { max-width: 1400px; }
+// }
+// @media (min-width: 1536px) {
+//   .page { max-width: 1680px; }
+// }
+// @media (min-width: 1920px) {
+//   .page { max-width: 1920px; } /* под 2K/4K можно поднять до 1800–2000px */
+// }
+
+// @media (min-width: 1920px) {
+//   .page { max-width: 1920px; } /* под 2K/4K можно поднять до 1800–2000px */
+// }
+
+// @media (min-width: 2560px) {
+//   .page { max-width: 2560px; } /* под 2K/4K можно поднять до 1800–2000px */
+// }
+
+// // Делает h1 заголовок из вставок заметок высотой 1rem (как у h6)
+// .transclude h1:first-child {
+//   font-size: 1rem;
+// }
 
 
 /* Бейдж — только для alias-ссылок на секции внутри traits */
