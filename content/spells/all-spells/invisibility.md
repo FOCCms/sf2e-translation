@@ -1,5 +1,5 @@
 ---
-title: Невидимость (Invisibility) / закл 2
+title: Невидимость (Invisibility)
 source: Player Core
 tradition:
   - arcane
@@ -19,11 +19,13 @@ target: 1 существо
 range: касание
 duration: 10 минут
 ---
-# Невидимость (Invisibility) / закл 2
+# Невидимость (Invisibility)
 
 [[rules/traits/illusion|Иллюзия]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/subtle|Скрытный]]
 
 **Источник** Player Core  
+**Тип** Заклинание  
+**Ранг** 2  
 **Сотворение** ◆◆  
 **Традиции** [[rules/player core/chapter-7-spells#Арканная (Arcane)|Арканная]] [[rules/player core/chapter-7-spells#Оккультная (Occult)|Оккультная]]  
 **Дистанция** касание  

@@ -1,5 +1,5 @@
 ---
-title: Обнаружение магии (Detect Magic) / чары 1
+title: Обнаружение магии (Detect Magic)
 source: Player Core
 tradition:
   - arcane
@@ -21,11 +21,13 @@ summary: Почувствуйте присутствие магии поблиз
 action: ◆◆
 area: 30-футовая эманация
 ---
-# Обнаружение магии (Detect Magic) / чары 1
+# Обнаружение магии (Detect Magic)
 
 [[rules/traits/cantrip|Чары]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/detection|Обнаружение]] [[rules/traits/manipulate|Манипуляция]]
 
 **Источник** Player Core  
+**Тип** Чары  
+**Ранг** 1  
 **Сотворение** ◆◆  
 **Традиции** [[rules/player core/chapter-7-spells#Арканная (Arcane)|Арканная]] [[rules/player core/chapter-7-spells#Сакральная (Divine)|Сакральная]] [[rules/player core/chapter-7-spells#Оккультная (Occult)|Оккультная]] [[rules/player core/chapter-7-spells#Природная (Primal)|Природная]]  
 **Область** 30-футовая [[rules/player core/chapter-8-playing-the-game#Эманация (Emanation)|эманация]]  

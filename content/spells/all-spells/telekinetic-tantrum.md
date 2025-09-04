@@ -1,5 +1,5 @@
 ---
-title: Телекинетическая истерика (Telekinetic Tantrum) / закл 9
+title: Телекинетическая истерика (Telekinetic Tantrum)
 source: Player Core
 tradition:
   - arcane
@@ -19,11 +19,13 @@ target: 1 существо
 area: 100-футовый взрыв
 duration: поддерживаемое до 1 минуты
 ---
-# Телекинетическая истерика (Telekinetic Tantrum) / закл 9
+# Телекинетическая истерика (Telekinetic Tantrum)
 
 [[rules/traits/attack|Атака]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/force|Сила]] [[rules/traits/manipulate|Манипуляция]]
 
 **Источник** Player Core  
+**Тип** Заклинание  
+**Ранг** 9  
 **Сотворение** ◆◆  
 **Традиции** [[rules/player core/chapter-7-spells#Арканная (Arcane)|Арканная]] [[rules/player core/chapter-7-spells#Оккультная (Occult)|Оккультная]]  
 **Божества** [[setting/deities/the-newborn|Новорождённый (The Newborn)]]  

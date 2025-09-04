@@ -32,7 +32,7 @@ document.addEventListener("nav", async () => {
   function createToggleButton(name: string, states: Record<string, string>) {
     const btn = document.createElement("button")
     btn.dataset.state = "neutral"
-    btn.textContent = `⃝ ${traitTranslations[name] ?? name}`
+    btn.textContent = `⨀ ${traitTranslations[name] ?? name}`
 
     btn.addEventListener("click", () => {
       if (btn.dataset.state === "neutral") {
@@ -43,7 +43,7 @@ document.addEventListener("nav", async () => {
         btn.textContent = `⊖ ${traitTranslations[name] ?? name}`
       } else {
         btn.dataset.state = "neutral"
-        btn.textContent = `⃝ ${traitTranslations[name] ?? name}`
+        btn.textContent = `⨀ ${traitTranslations[name] ?? name}`
       }
       states[name] = btn.dataset.state as any
       render()

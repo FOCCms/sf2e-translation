@@ -484,4 +484,4 @@ Curly Quotes: выкл
 для вещей, которых нет в сф. Их список:
 
 [[equipment/adventuring-gear/crowbar|Ломик (Crowbar)]]
- 
+

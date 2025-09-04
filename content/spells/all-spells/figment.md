@@ -1,5 +1,5 @@
 ---
-title: Обманка (Figment) / чары 1
+title: Обманка (Figment)
 source: Player Core
 tradition:
   - arcane
@@ -18,11 +18,13 @@ action: ◆◆
 range: 30 футов
 duration: поддерживаемое
 ---
-# Обманка (Figment) / чары 1
+# Обманка (Figment)
 
 [[rules/traits/cantrip|Чары]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/illusion|Иллюзия]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/subtle|Скрытный]]
 
 **Источник** Player Core  
+**Тип** Чары  
+**Ранг** 1  
 **Сотворение** ◆◆  
 **Традиции** [[rules/player core/chapter-7-spells#Арканная (Arcane)|Арканная]] [[rules/player core/chapter-7-spells#Оккультная (Occult)|Оккультная]]  
 **Дистанция** 30 футов  

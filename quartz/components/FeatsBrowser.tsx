@@ -66,8 +66,8 @@ FeatsBrowser.afterDOMLoaded = script + `
       btn.addEventListener("click", () => {
         panel.classList.toggle("collapsed")
         btn.textContent = panel.classList.contains("collapsed")
-          ? "Фильтры ⯆"
-          : "Фильтры ⯅"
+          ? "Фильтры ⌄"
+          : "Фильтры ⌃"
       })
     }
   })

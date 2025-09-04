@@ -21,4 +21,4 @@ title: Заклинампула (Spell Ampoule)
 **Цена** 200
 **Масса** Л  
 
-**Эффект** [[spells/all-spells/invisibility|Невидимость (Invisibility) / закл 2]] 2-го ранга
+**Эффект** [[spells/all-spells/invisibility|Невидимость (Invisibility)]] 2-го ранга
