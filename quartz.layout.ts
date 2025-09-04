@@ -8,9 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.ConditionalRender({
-      component: Component.Graph(),
+      component: Component.Graph({isLargeGraph:true}),
       condition: (page) => page.fileData.slug === "graph",
     }),
+    Component.Backlinks(),
   ],
   footer: Component.Footer({
     links: {
@@ -60,11 +61,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       sortFn: explorerSortFn
     }),
-    // Component.DesktopOnly(Component.Graph()),
-    Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Graph()),
   ],
 }
 

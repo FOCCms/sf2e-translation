@@ -24,6 +24,7 @@ export interface D3Config {
 interface GraphOptions {
   localGraph: Partial<D3Config> | undefined
   globalGraph: Partial<D3Config> | undefined
+  isLargeGraph: boolean | false
 }
 
 const defaultOptions: GraphOptions = {
@@ -32,24 +33,24 @@ const defaultOptions: GraphOptions = {
     zoom: true,
     depth: 1,
     scale: 1.1,
-    repelForce: 0.5,
-    centerForce: 0.3,
-    linkDistance: 30,
+    repelForce: 1.5,
+    centerForce: 0.1,
+    linkDistance: 50,
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
     removeTags: [],
     focusOnHover: false,
-    enableRadial: false,
+    enableRadial: true,
   },
   globalGraph: {
     drag: true,
     zoom: true,
     depth: -1,
-    scale: 0.9,
-    repelForce: 0.5,
+    scale: 0.5,
+    repelForce: 5.5,
     centerForce: 0.2,
-    linkDistance: 30,
+    linkDistance: 400,
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
@@ -57,24 +58,27 @@ const defaultOptions: GraphOptions = {
     focusOnHover: true,
     enableRadial: true,
   },
+  isLargeGraph: false,
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
   const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
-    const height = "70vh"
+    const isLargeGraph = opts?.isLargeGraph ?? false
+
+    var largeStyle = {}
+    if (isLargeGraph) {
+      largeStyle = {width: "100%", height: "70vh"};
+    } 
+    
+    const smallView = isLargeGraph ? globalGraph : localGraph
+    
     return (
       <div class={classNames(displayClass, "graph")}>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
         <div class="graph-outer">
-          <div class="graph-container" data-cfg={JSON.stringify(globalGraph)} style={{width: "100%", height}}></div>
-
-
-
-
-
-
+          <div class="graph-container" data-cfg={JSON.stringify(smallView)} style={largeStyle}></div>
           <button class="global-graph-icon" aria-label="Global Graph">
             <svg
               version="1.1"
