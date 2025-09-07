@@ -10,6 +10,7 @@ traits:
 rarity: common
 prerequisite: тренирован Медицине
 summary: Исцеляете в битве себя или союзника.
+action: ◆
 ---
 # Боевая медицина (Battle Medicine) ◆
 

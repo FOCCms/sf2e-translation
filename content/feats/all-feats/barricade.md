@@ -7,6 +7,7 @@ traits:
   - manipulate
 rarity: common
 summary: Создайте хрупкое укрытие из подручного хлама.
+action: ◆
 ---
 # Баррикада (Barricade) ◆
 
