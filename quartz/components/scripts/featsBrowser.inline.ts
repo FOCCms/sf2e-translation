@@ -111,7 +111,7 @@ document.addEventListener("nav", async () => {
           <th>Редкость</th>
           <th>Признак</th>
           <th>Уровень</th>
-          <th>Требования</th>
+          <th>Предварительные условия</th>
           <th>Краткое описание</th>
         </tr>
       </thead>
