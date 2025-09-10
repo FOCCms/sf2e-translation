@@ -7,7 +7,7 @@ traits:
   - skill
 rarity: common
 prerequisite: тренирован Акробатике
-summary: Двигайтесь с полной скоростью через толпу.
+summary: Двигайтесь с полной Скоростью через толпу.
 ---
 # Сквозь толпу (Crowd Surfing)
 
