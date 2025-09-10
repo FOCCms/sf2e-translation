@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: эксперт Акробатики
 summary: Быстро падаете ничком и укрываетесь.
+action: ◆
 ---
 # Нырнуть за укрытие (Dive for Cover) ◆
 

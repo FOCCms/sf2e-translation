@@ -6,6 +6,7 @@ traits:
   - general
 rarity: common
 summary: Отражаете удары с помощью щита.
+action: ↩
 ---
 # Блок щитом (Shield Block) ↩
 
