@@ -1,5 +1,5 @@
 ---
-title: Нырнуть за укрытие (Dive for Cover) ◆
+title: Прыжок в укрытие (Dive for Cover) ◆
 source: Player Core
 level: 2
 traits:
@@ -10,7 +10,7 @@ prerequisite: эксперт Акробатики
 summary: Быстро падаете ничком и укрываетесь.
 action: ◆
 ---
-# Нырнуть за укрытие (Dive for Cover) ◆
+# Прыжок в укрытие (Dive for Cover) ◆
 
 [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 
