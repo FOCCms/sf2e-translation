@@ -9,29 +9,23 @@
   width: 100% !important;
 }
 
-// /* На широких экранах расширяем контейнер страницы ступенчато */
-// @media (min-width: 1200px) {
-//   .page { max-width: 1400px; }
-// }
-// @media (min-width: 1536px) {
-//   .page { max-width: 1680px; }
-// }
-// @media (min-width: 1920px) {
-//   .page { max-width: 1920px; } /* под 2K/4K можно поднять до 1800–2000px */
-// }
+p,
+ul,
+ol,
+li,
+a,
+.katex,
+.math,
+text {
+  hyphens: none !important;         /* запретить перенос по слогам */
+  overflow-wrap: normal !important; /* переносить только по пробелам */
+  word-break: normal !important;    /* контрольный — переносить только по словам */
+}
 
-// @media (min-width: 1920px) {
-//   .page { max-width: 1920px; } /* под 2K/4K можно поднять до 1800–2000px */
-// }
 
-// @media (min-width: 2560px) {
-//   .page { max-width: 2560px; } /* под 2K/4K можно поднять до 1800–2000px */
-// }
-
-// // Делает h1 заголовок из вставок заметок высотой 1rem (как у h6)
-// .transclude h1:first-child {
-//   font-size: 1rem;
-// }
+a {
+  overflow-wrap: anywhere !important;
+}
 
 
 /* Бейдж — только для alias-ссылок на секции внутри traits */

@@ -79,6 +79,17 @@ title: Общие способности (General Feats)
 | [[feats/all-feats/wall-jump\|Прыжок от стены (Wall Jump)]]            | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 7       | Мастер Атлетики         | Умеете прыгать от стен                                                                                                                                                                                                                     |
 | [[feats/all-feats/cloud-jump\|Облачный прыжок (Cloud Jump)]]          | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 15      | Легенда Атлетики        | Прыгаете на невозможные расстояния                                                                                                                                                                                                         |
 
+## Способности навыка Компьютеры (Computers Skill Feats)
+
+| Название                                                                     | Источник    | Редкость | Признак                                                       | Уровень | Предварительные условия | Преимущества                             |
+| ---------------------------------------------------------------------------- | ----------- | -------- | ------------------------------------------------------------- | ------- | ----------------------- | ---------------------------------------- |
+| [[feats/all-feats/digital-diversion\|Цифровая диверсия (Digital Diversion)]] | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Используйте техно предмет для отвлечения |
+| Hologram Skeptic                                                             | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Распознавайте голограммы                 |
+| Phishing Expertise                                                           | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Defraud people using phony credentials   |
+| Phreaker                                                                     | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Взламывайте системы без инструментов     |
+| Combat Hack                                                                  | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 2       | Эксперт Компьютеров     | Disable tech in combat                   |
+| Fool the Camera                                                              | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 7       | Мастер Компьютеров      | Вы знаете как обмануть камеры            |
+
 ## Способности Ремесла (Crafting Skill Feats)
 
 | Название                                                                         | Источник    | Редкость | Признак                                                       | Уровень | Предварительные условия | Преимущества                       |
