@@ -81,14 +81,14 @@ title: Общие способности (General Feats)
 
 ## Способности навыка Компьютеры (Computers Skill Feats)
 
-| Название                                                                     | Источник    | Редкость | Признак                                                       | Уровень | Предварительные условия | Преимущества                             |
-| ---------------------------------------------------------------------------- | ----------- | -------- | ------------------------------------------------------------- | ------- | ----------------------- | ---------------------------------------- |
-| [[feats/all-feats/digital-diversion\|Цифровая диверсия (Digital Diversion)]] | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Используйте техно предмет для отвлечения |
-| Hologram Skeptic                                                             | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Распознавайте голограммы                 |
-| Phishing Expertise                                                           | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Defraud people using phony credentials   |
-| Phreaker                                                                     | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Tренирован Компьютерам  | Взламывайте системы без инструментов     |
-| Combat Hack                                                                  | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 2       | Эксперт Компьютеров     | Disable tech in combat                   |
-| Fool the Camera                                                              | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 7       | Мастер Компьютеров      | Вы знаете как обмануть камеры            |
+| Название                                                                        | Источник    | Редкость | Признак                                                       | Уровень | Предварительные условия | Преимущества                                   |
+| ------------------------------------------------------------------------------- | ----------- | -------- | ------------------------------------------------------------- | ------- | ----------------------- | ---------------------------------------------- |
+| [[feats/all-feats/digital-diversion\|Цифровая диверсия (Digital Diversion)]]    | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Тренирован Компьютерам  | Используйте техно предмет для отвлечения       |
+| [[feats/all-feats/hologram-skeptic\|Скептик к голограммам (Hologram Skeptic)]]  | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Тренирован Компьютерам  | Распознавайте голограммы                       |
+| [[feats/all-feats/phishing-expertise\|Эксперт по фишингу (Phishing Expertise)]] | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Тренирован Компьютерам  | Обманывайте людей, используя поддельные данные |
+| [[feats/all-feats/phreaker\|Фрикер (Phreaker)]]                                 | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 1       | Тренирован Компьютерам  | Взламывайте системы без инструментов           |
+| [[feats/all-feats/combat-hack\|Боевой взлом (Combat Hack)]]                     | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 2       | Эксперт Компьютеров     | Отключение технологий в бою                    |
+| [[feats/all-feats/fool-the-camera\|Обмануть камеру (Fool the Camera)]]          | Player Core | Обычный  | [[rules/traits/general\|Общая]] [[rules/traits/skill\|Навык]] | 7       | Мастер Компьютеров      | Вы знаете как обмануть камеры                  |
 
 ## Способности Ремесла (Crafting Skill Feats)
 
