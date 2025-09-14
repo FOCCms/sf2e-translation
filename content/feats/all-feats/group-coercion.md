@@ -1,5 +1,5 @@
 ---
-title: Групповое принуждение (Group Coercion)
+title: Принуждение группы (Group Coercion)
 source: Player Core
 level: 1
 traits:
@@ -9,7 +9,7 @@ rarity: common
 prerequisite: Тренирован Запугиванию
 summary: Принуждение (Coerce) одновременно несколько целей
 ---
-# Групповое принуждение (Group Coercion)
+# Принуждение группы (Group Coercion)
 
 [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 
