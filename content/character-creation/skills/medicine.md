@@ -4,7 +4,7 @@ title: Медицина (Medicine)
 # Медицина (Medicine)
 *Мудрость*
 
-Вы можете перевязать раны и помочь людям восстановиться после болезней и ядов. [[rules/activities/exploration/treat-wounds|Лечение ран (Treat Wounds)]] особенно полезно, позволяя вашему отряду восстановиться между боями. Его можно сделать более эффективным с помощью способностей навыка, таких как [[feats/all-feats/continual-recovery|Непрерывное восстановление (Continual Recovery)]] и [[feats/all-feats/ward-medic|Медик-ординатор (Ward Medic)]].
+Вы можете перевязать раны и помочь людям восстановиться после болезней и ядов. [[rules/activities/exploration/treat-wounds|Лечение ран (Treat Wounds)]] особенно полезно, позволяя вашему отряду восстановиться между боями. Его можно сделать более эффективным с помощью способностей навыка, таких как [[feats/all-feats/continual-recovery|Непрерывное выздоровление (Continual Recovery)]] и [[feats/all-feats/ward-medic|Медик-ординатор (Ward Medic)]].
 
 ## Действия Медицины
 
