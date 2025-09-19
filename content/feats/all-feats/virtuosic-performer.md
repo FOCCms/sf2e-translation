@@ -35,4 +35,4 @@ summary: +1 с определенным типом выступления
 
 ## Виртуозный исполнитель позволяет выбрать…
 
-Legendary Performer
+[[feats/all-feats/legendary-performer|Легендарный исполнитель (Legendary Performer)]]
