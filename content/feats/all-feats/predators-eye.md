@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Природы
 summary: Видите далеко
+skill: nature
 ---
 # Глаз хищника (Predator's Eye)
 

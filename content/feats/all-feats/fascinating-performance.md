@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Выступлению
 summary: Можете Выступить (Perform), чтобы заворожить наблюдателей
+skill: performance
 ---
 # Завораживающее выступление (Fascinating Performance)
 

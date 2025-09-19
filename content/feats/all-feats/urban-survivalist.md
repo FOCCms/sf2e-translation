@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Выживанию
 summary: Используете Выживание чтобы ориентироваться и находить припасы в городах
+skill: survival
 ---
 # Городской выживальщик (Urban Survivalist)
 

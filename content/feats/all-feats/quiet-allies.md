@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Скрытности
 summary: Делаете одну проверку Скрытности когда крадетесь с союзниками
+skill: stealth
 ---
 # Тихие союзники (Quiet Allies)
 

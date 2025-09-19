@@ -3,15 +3,18 @@ title: Перкуссионное обслуживание (Percussive Maintenan
 source: Player Core
 level: 2
 traits:
+  - attack
   - general
   - skill
 rarity: common
 prerequisite: Эксперт Ремесла
 summary: Чините глючащие техно предметы
+action: ◆
+skill: crafting
 ---
 # Перкуссионное обслуживание (Percussive Maintenance) ◆
 
-[[rules/traits/downtime|Отдых]] [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/attack|Атака]] [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  
@@ -22,4 +25,4 @@ summary: Чините глючащие техно предметы
 Вы пытаетесь починить предмет, ударив его о твёрдую поверхность. Совершите чистую проверку КС 10.
 
 **Критический успех** Уменьшите состояние [[rules/conditions/glitching|глючащий]] на 2.  
-**Успех** Уменьшите состояние [[rules/conditions/glitching|глючащий]] на 1.
+**Успех** Уменьшите состояние [[rules/conditions/glitching|глючащий]] на 1.  

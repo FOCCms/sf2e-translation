@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Скрытности
 summary: Двигайтесь с полной Скоростью когда Крадетесь (Sneak)
+skill: stealth
 ---
 # Быстро красться (Swift Sneak)
 

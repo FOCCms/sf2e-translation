@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Запугиванию
 summary: Принуждение (Coerce) одновременно несколько целей
+skill: intimidation
 ---
 # Принуждение группы (Group Coercion)
 

@@ -8,10 +8,11 @@ traits:
 rarity: uncommon
 prerequisite: Легенда Оккультизма, Синхронизация Акаши (Akashic Sync)
 summary: Ваши глаза видят Хроники Акаши (Akashic Records)
+skill: occultism
 ---
 # Трансцендентность Акаши (Akashic Transcendence)
 
-[[rules/traits/uncommon|Необычный (Uncommon)]] [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/uncommon|Необычный]] [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  

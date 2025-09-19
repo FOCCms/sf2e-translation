@@ -5,7 +5,7 @@ level: 1
 traits:
   - general
 rarity: common
-summary: Получите бесплатную аугментацию.
+summary: Получите бесплатную аугментацию
 ---
 # Аугментированное тело (Augmented Body)
 

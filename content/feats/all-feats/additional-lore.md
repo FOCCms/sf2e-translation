@@ -7,6 +7,7 @@ traits:
   - skill
 rarity: common
 summary: Становитесь тренированы в другой подкатегории Знаний
+skill: lore
 ---
 # Дополнительные знания (Additional Lore)
 

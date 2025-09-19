@@ -8,6 +8,8 @@ traits:
 rarity: common
 prerequisite: Тренирован Обществу
 summary: Споря, бьёте по репутации
+action: ↩
+skill: society
 ---
 # Посеять слух (Plant Rumor) ↩
 

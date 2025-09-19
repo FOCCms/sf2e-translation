@@ -5,7 +5,7 @@ level: 1
 traits:
   - general
 rarity: common
-summary: Увеличьте вашу Скорость на 5 футов.
+summary: Увеличьте вашу Скорость на 5 футов
 ---
 # Быстроногий (Fleet)
 

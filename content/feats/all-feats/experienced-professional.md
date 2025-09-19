@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Знаниям
 summary: Предотвращаете критические провалы используя Заработок денег (Earn Income)
+skill: lore
 ---
 # Опытный профессионал (Experienced Professional)
 

@@ -1,5 +1,5 @@
 ---
-title: У собачки заболи (Kiss It Better)
+title: У собачки заболи (Kiss It Better) ◆
 source: Player Core
 level: 2
 traits:
@@ -8,8 +8,10 @@ traits:
 rarity: common
 prerequisite: Эксперт Обмана
 summary: Убедить союзника, что он не сильно ранен
+action: ◆
+skill: deception
 ---
-# У собачки заболи (Kiss It Better)
+# У собачки заболи (Kiss It Better) ◆
 
 [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 

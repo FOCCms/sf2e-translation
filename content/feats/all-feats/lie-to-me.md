@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обману
 summary: Используете Обман, чтобы определить ложь
+skill: deception
 ---
 # Обмани меня (Lie to Me)
 

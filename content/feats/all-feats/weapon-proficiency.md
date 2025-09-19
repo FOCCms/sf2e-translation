@@ -5,7 +5,7 @@ level: 1
 traits:
   - general
 rarity: common
-summary: Становитесь тренированы обращению с видом оружия.
+summary: Становитесь тренированы обращению с видом оружия
 ---
 # Владение оружием (Weapon Proficiency)
 

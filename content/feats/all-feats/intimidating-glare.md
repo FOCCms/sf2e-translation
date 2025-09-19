@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Запугиванию
 summary: Можете Деморализовать (Demoralize) существо не разговаривая
+skill: intimidation
 ---
 # Запугивающий взгляд (Intimidating Glare)
 

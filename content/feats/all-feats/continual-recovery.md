@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Медицины
 summary: Чаще используете Лечение ран (Treat Wounds) на пациенте
+skill: medicine
 ---
 # Непрерывное выздоровление (Continual Recovery)
 

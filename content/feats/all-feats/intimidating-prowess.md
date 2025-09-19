@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Сила +3, Эксперт Запугивания
 summary: Получаете бонус, чтобы физически Деморализовать (Demoralize) цель
+skill: intimidation
 ---
 # Быстрое принуждение (Quick Coercion)
 

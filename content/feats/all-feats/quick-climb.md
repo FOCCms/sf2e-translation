@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Атлетики
 summary: Можете быстро Карабкаться (Climb)
+skill: athletics
 ---
 # Быстро карабкаться (Quick Climb)
 

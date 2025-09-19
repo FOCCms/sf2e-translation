@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Дипломатии
 summary: Используйте Просьба (Request) с меньшими последствиями
+skill: diplomacy
 ---
 # Наглая просьба (Shameless Request)
 

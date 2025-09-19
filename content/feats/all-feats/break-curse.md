@@ -14,7 +14,7 @@ summary: Используйте свои знания, чтобы снимать
 ---
 # Снять проклятие (Break Curse)
 
-[[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration|Исследование]] [[rules/traits/general|Общая]] [[rules/traits/healing|Исцеление (Healing)]] [[rules/traits/skill|Навык]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/exploration|Исследование]] [[rules/traits/general|Общая]] [[rules/traits/healing|Исцеление]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  

@@ -7,7 +7,7 @@ traits:
   - skill
 rarity: common
 prerequisite: Интеллект +1
-summary: Тренированы навыку.
+summary: Тренированы навыку
 ---
 # Тренировка навыку (Skill Training)
 

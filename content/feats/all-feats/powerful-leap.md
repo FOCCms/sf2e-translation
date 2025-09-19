@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Атлетики
 summary: Прыгаете дальше и выше
+skill: athletics
 ---
 # Мощный прыжок (Powerful Leap)
 

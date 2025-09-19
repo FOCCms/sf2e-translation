@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Атлетики
 summary: Умеете прыгать от стен
+skill: athletics
 ---
 # Прыжок от стены (Wall Jump)
 

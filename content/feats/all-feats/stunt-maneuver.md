@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Пилотирования
 summary: Легко выполняете безрассудные Выходки (Stunt)
+skill: piloting
 ---
 # Эффектный манёвр (Stunt Maneuver)
 

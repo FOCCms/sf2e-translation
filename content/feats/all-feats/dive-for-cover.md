@@ -6,9 +6,10 @@ traits:
   - general
   - skill
 rarity: common
-prerequisite: эксперт Акробатики
-summary: Быстро падаете ничком и укрываетесь.
+prerequisite: Эксперт Акробатики
+summary: Быстро падаете ничком и укрываетесь
 action: ◆
+skill: acrobatics
 ---
 # Прыжок в укрытие (Dive for Cover) ◆
 
@@ -17,6 +18,6 @@ action: ◆
 **Источник** Player Core  
 **Тип** Способность  
 **Уровень** 2  
-**Предварительные условия** эксперт Акробатики  
+**Предварительные условия** Эксперт Акробатики  
 
 Когда вам угрожают, вы можете быстро нырнуть и найти, где укрыться. Вы делаете [[rules/activities/basic-actions/leap|Прыжок (Leap) ◆]], падаете [[rules/conditions/prone|ничком]] и сразу же пытаетесь [[rules/activities/basic-actions/take-cover|Укрыться (Take Cover) ◆]], что позволяет вам спрятаться и получить [[rules/player core/chapter-8-playing-the-game#Укрытие (Cover)|большое укрытие]] от дальнобойных атак.

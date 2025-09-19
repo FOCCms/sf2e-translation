@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Выживания
 summary: Выживаете в экстремальных условиях
+skill: survival
 ---
 # Легендарный выживальщик (Legendary Survivalist)
 

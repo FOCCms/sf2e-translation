@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Воровства
 summary: +2 к КБ или спасброскам от устройств или ловушек при отключении
+skill: thievery
 ---
 # Осторожное отключение (Wary Disarmament)
 

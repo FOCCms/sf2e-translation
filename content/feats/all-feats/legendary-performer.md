@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Выступления, Виртуозный исполнитель (Virtuosic Performer)
 summary: Получаете известность за свое Выступление
+skill: performance
 ---
 # Легендарный исполнитель (Legendary Performer)
 

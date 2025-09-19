@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Воровства, Карманник (Pickpocket)
 summary: Можете Украсть (Steal) то, что обычно невозможно украсть
+skill: thievery
 ---
 # Легендарный вор (Legendary Thief)
 

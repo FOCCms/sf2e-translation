@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Медицины
 summary: Излечиваете болезни или убираете состояния слепота, глухота, обречен или истощен
+skill: medicine
 ---
 # Легендарный врач (Legendary Medic)
 

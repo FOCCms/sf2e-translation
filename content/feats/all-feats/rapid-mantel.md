@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Атлетики
 summary: Быстро подтягивайтесь на выступы
+skill: athletics
 ---
 # Быстро подтянуться (Rapid Mantel)
 

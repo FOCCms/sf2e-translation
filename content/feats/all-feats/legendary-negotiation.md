@@ -8,6 +8,8 @@ traits:
 rarity: common
 prerequisite: Легенда Дипломатии
 summary: Быстро переговорите с врагами
+action: ◆◆◆
+skill: diplomacy
 ---
 # Легендарные переговоры (Legendary Negotiation) ◆◆◆
 

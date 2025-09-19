@@ -3,15 +3,18 @@ title: Тренировка животного (Train Animal)
 source: Player Core
 level: 1
 traits:
+  - downtime
   - general
+  - manipulate
   - skill
 rarity: common
 prerequisite: Тренирован Природе
 summary: Тренируете животное трюку
+skill: nature
 ---
 # Тренировка животного (Train Animal)
 
-[[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/downtime|Отдых]] [[rules/traits/general|Общая]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  

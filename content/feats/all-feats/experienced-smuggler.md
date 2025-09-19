@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Скрытности
 summary: Более эффективно скрываете предметы от наблюдателей
+skill: stealth
 ---
 # Опытный контрабандист (Experienced Smuggler)
 

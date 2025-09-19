@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Пилотированию
 summary: Проезжайте большие расстояния быстрее
+skill: piloting
 ---
 # Быстрый водитель (Express Driver)
 

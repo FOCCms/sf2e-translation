@@ -8,6 +8,8 @@ traits:
 rarity: common
 prerequisite: Тренирован Запугиванию
 summary: Стреляете из оружия, чтобы Деморализовать (Demoralize)
+action: ◆
+skill: intimidation
 ---
 # Запугивающий выстрел (Intimidating Shot) ◆
 

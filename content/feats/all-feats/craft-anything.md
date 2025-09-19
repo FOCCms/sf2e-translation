@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Ремесла
 summary: Пренебрегаете большинством требований для создания предметов
+skill: crafting
 ---
 # Создание чего угодно (Craft Anything)
 

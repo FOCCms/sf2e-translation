@@ -5,7 +5,7 @@ level: 1
 traits:
   - general
 rarity: common
-summary: Умираете при состоянии при смерти 5, а не 4.
+summary: Умираете при состоянии при смерти 5, а не 4
 ---
 # Несгибаемый (Diehard)
 

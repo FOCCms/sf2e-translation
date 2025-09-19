@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обществу
 summary: Ведите себя как профи
+skill: society
 ---
 # Накрутка опыта (Management Material)
 

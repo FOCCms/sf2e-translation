@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Выживанию
 summary: +1 к проверкам Выживания в определенной местности
+skill: survival
 ---
 # Опыт местности (Terrain Expertise)
 

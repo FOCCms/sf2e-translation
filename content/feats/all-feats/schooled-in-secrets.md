@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Оккультизму
 summary: Собирайте Информацию (Gather Information) о членах тайных обществ и Перевоплощайтесь (Impersonate) в них
+skill: occultism
 ---
 # Посвященный секретам (Schooled in Secrets)
 

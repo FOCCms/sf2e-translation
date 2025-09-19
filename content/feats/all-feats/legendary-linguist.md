@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Общества, Многоязычный (Multilingual)
 summary: Создаёте пиджин языки, чтобы общаться с кем угодно
+skill: society
 ---
 # Легендарный лингвист (Legendary Linguist)
 

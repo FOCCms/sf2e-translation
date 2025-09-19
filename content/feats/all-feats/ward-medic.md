@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Медицины
 summary: Лечите сразу нескольких пациентов
+skill: medicine
 ---
 # Медик-ординатор (Ward Medic)
 

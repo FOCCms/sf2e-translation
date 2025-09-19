@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Тренирован Дипломатии
-summary: Становитесь тренированы в другой подкатегории Знаний.
+summary: Становитесь тренированы в другой подкатегории Знаний
+skill: diplomacy
 ---
 # Охотник за выгодой (Bargain Hunter)
 

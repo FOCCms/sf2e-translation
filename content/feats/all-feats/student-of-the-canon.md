@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Религии
 summary: Точнее распознаете принципы вашей веры или философии
+skill: religion
 ---
 # Ученик канона (Student of the Canon)
 

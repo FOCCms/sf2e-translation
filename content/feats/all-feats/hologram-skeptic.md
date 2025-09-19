@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Тренирован Компьютерам
-summary: Распознавайте голограммы.
+summary: Распознавайте голограммы
+skill: computers
 ---
 # Скептик к голограммам (Hologram Skeptic)
 

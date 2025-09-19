@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Выживанию
 summary: Выслеживание с полной скоростью, но штрафом -5
+skill: survival
 ---
 # Опытный следопыт (Experienced Tracker)
 

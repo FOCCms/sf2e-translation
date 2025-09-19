@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Воровства
 summary: Используете Вскрытие замка (Pick a Lock) за 1 действие
+skill: thievery
 ---
 # Быстрое вскрытие (Quick Unlock)
 

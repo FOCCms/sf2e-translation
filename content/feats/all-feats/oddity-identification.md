@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Оккультизму
 summary: Распознавайте магию, связанную с разумом, судьбой или тайнами
+skill: occultism
 ---
 # Определение странностей (Oddity Identification)
 

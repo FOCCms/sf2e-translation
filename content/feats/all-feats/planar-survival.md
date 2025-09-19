@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Выживания
 summary: Используете Выживание для Проживание (Subsist) в других планах
+skill: survival
 ---
 # Планарное выживание (Planar Survival)
 

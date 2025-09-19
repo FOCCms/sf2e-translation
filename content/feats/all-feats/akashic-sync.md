@@ -8,16 +8,18 @@ traits:
 rarity: uncommon
 prerequisite: Мастер Оккультизма
 summary: Ваши глаза видят Хроники Акаши (Akashic Records)
+action: ◆
+skill: occultism
 ---
 # Синхронизация Акаши (Akashic Sync) ◆
 
-[[rules/traits/uncommon|Необычный (Uncommon)]] [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/uncommon|Необычный]] [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  
 **Уровень** 7  
-**Частота** раз в 10 минут
 **Предварительные условия** Мастер Оккультизма  
+**Частота** раз в 10 минут
 
 Вы можете на короткое время подключиться к ==Хроникам Акаши==. Вы выполняете [[rules/activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]], используя Оккультизм вместо любого другого Навыка, как если бы Оккультизм подходил для выполнения действия [[rules/activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]] по этой теме.
 

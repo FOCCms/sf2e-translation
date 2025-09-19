@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Знаний
 summary: Можете эффективнее Вспомнить информацию (Recall Knowledge) на основе своих Знаний
+skill: lore
 ---
 # Безошибочные знания (Unmistakable Lore)
 

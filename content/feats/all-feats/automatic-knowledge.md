@@ -7,7 +7,7 @@ traits:
   - skill
 rarity: common
 prerequisite: Эксперт в навыке с действием Вспомнить информацию (Recall Knowledge), Уверенность (Assurance) в этом навыке
-summary: Используете Вспомнить информацию (Recall Knowledge) как свободное действие.
+summary: Используете Вспомнить информацию (Recall Knowledge) как свободное действие
 ---
 # Автоматическое знание (Automatic Knowledge)
 

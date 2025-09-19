@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Выживанию
 summary: Идентифицируете существ поблизости с помощью знаков и подсказок
+skill: survival
 ---
 # Изучение дикой природы (Survey Wildlife)
 

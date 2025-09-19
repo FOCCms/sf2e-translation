@@ -1,17 +1,21 @@
 ---
-title: Боевой взлом (Combat Hack)
+title: Боевой взлом (Combat Hack) ◆
 source: Player Core
 level: 2
 traits:
+  - attack
   - general
+  - manipulate
   - skill
 rarity: common
 prerequisite: Эксперт Компьютеров
-summary: Взламывайте системы без инструментов.
+summary: Отключение технологий в бою
+action: ◆
+skill: computers
 ---
-# Боевой взлом (Combat Hack)
+# Боевой взлом (Combat Hack) ◆
 
-[[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/attack|Атака]] [[rules/traits/general|Общая]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  
@@ -21,6 +25,6 @@ summary: Взламывайте системы без инструментов.
 
 Совершите проверку Компьютеров, чтобы [[rules/activities/exploration/hack|Взломать (Hack)]] соседнее существо, опасность или предмет с признаком [[rules/traits/tech|техно]]. КС равен КС Стойкости существа, предмета или опасности, либо КС Стойкости существа, обслуживающего предмет. Если цель — бесхозный предмет, ГМ определяет КС проверки, исходя из уровня предмета. Цель становится временно иммунна к вашим попыткам Боевого взлома в течение 10 минут.
 
-**Критический успех** Цель получает состояние [[rules/conditions/glitching|глючащий 2]] на 1 раунд.
-**Успех** Цель получает состояние [[rules/conditions/glitching|глючащий 1]] на 1 раунд.
-**Критический провал** Если цель уже имеет состояние [[rules/conditions/glitching|глючащий]], уменьшите его значение на 1.
+**Критический успех** Цель получает состояние [[rules/conditions/glitching|глючащий 2]] на 1 раунд.  
+**Успех** Цель получает состояние [[rules/conditions/glitching|глючащий 1]] на 1 раунд.  
+**Критический провал** Если цель уже имеет состояние [[rules/conditions/glitching|глючащий]], уменьшите его значение на 1.  

@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Тренирован Дипломатии
-summary: Произвести впечатление (Make an Impression) на несколько целей намного легче.
+summary: Произвести впечатление (Make an Impression) на несколько целей намного легче
+skill: diplomacy
 ---
 # Впечатлить группу (Group Impression)
 

@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Ремесла, Специализация в ремесле (Specialty Crafting)
 summary: Эффективнее создаете предметы
+skill: crafting
 ---
 # Безукоризненное ремесло (Impeccable Crafting)
 

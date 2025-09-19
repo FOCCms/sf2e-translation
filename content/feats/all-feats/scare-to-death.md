@@ -8,8 +8,11 @@ traits:
 rarity: common
 prerequisite: Легенда Запугивания
 summary: Пугаете цель так, что она может умереть
+action: ◆
+skill: intimidation
 ---
 # Напугать до смерти (Scare To Death) ◆
+
 [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  

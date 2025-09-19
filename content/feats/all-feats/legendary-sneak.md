@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Скрытности, Быстро красться (Swift Sneak)
 summary: Используете Спрятаться (Hide) и Красться (Sneak) без укрытия или будучи скрытым
+skill: stealth
 ---
 # Легендарно красться (Legendary Sneak)
 

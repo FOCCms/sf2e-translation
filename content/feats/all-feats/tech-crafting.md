@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: эксперт Ремесла
 summary: Создание магических предметов
+skill: crafting
 ---
 # Технологическое изготовление (Tech Crafting)
 

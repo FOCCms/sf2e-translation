@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Обмана
 summary: Снижаете бонусы против вашей повторяющейся лжи
+skill: deception
 ---
 # Патологический лжец (Confabulator)
 

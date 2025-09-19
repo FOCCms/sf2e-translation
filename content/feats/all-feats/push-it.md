@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Пилотирования
 summary: Заставьте транспорт ускориться
+skill: piloting
 ---
 # Ускорение (Push It)
 

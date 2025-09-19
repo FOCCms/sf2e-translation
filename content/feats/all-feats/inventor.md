@@ -3,11 +3,13 @@ title: Изобретатель (Inventor)
 source: Player Core
 level: 2
 traits:
+  - downtime
   - general
   - skill
 rarity: common
 prerequisite: Эксперт Ремесла
 summary: Используете Ремесло для создания формул предметов
+skill: crafting
 ---
 # Изобретатель (Inventor)
 

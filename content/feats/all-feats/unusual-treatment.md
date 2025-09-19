@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Медицины
 summary: Больше преимуществ от Лечение болезни (Treat Disease) и Лечение от яда (Treat Poison)
+skill: medicine
 ---
 # Необычное лечение (Unusual Treatment)
 

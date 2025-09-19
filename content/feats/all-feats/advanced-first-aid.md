@@ -4,14 +4,17 @@ source: Player Core
 level: 7
 traits:
   - general
+  - healing
+  - manipulate
   - skill
 rarity: common
 prerequisite: Мастер Медицины
 summary: Используете Первая помощь (Administer First Aid), чтобы снизить состояния напуган или тошнота
+skill: medicine
 ---
 # Улучшенная первая помощь (Advanced First Aid)
 
-[[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/general|Общая]] [[rules/traits/healing|Исцеление]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  

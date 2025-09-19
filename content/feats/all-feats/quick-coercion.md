@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Запугиванию
 summary: Быстрое принуждение (Quick Coercion)
+skill: intimidation
 ---
 # Быстрое принуждение (Quick Coercion)
 

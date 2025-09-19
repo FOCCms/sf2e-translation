@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Скрытности
 summary: Принимаете меры предосторожности против специальных чувств
+skill: stealth
 ---
 # Одурачить чувства (Foil Senses)
 

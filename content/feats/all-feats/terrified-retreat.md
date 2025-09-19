@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Запугивания
 summary: Заставляете отступать врагов, которых вам удалось Деморализовать (Demoralize)
+skill: intimidation
 ---
 # Отступление в ужасе (Terrified Retreat)
 

@@ -5,7 +5,7 @@ level: 3
 traits:
   - general
 rarity: common
-summary: Получаете способность родословной 1-го уровня.
+summary: Получаете способность родословной 1-го уровня
 ---
 # Наследник рода (Ancestral Paragon)
 

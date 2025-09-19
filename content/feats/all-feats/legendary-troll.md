@@ -1,17 +1,20 @@
 ---
-title: Легендарный троллинг (Legendary Troll)
+title: Легендарный троллинг (Legendary Troll) ◆
 source: Player Core
 level: 15
 traits:
   - general
+  - mental
   - skill
 rarity: common
 prerequisite: Легенда Обмана
 summary: Провоцируйте вирусными мемами
+action: ◆
+skill: deception
 ---
-# Легендарный троллинг (Legendary Troll)
+# Легендарный троллинг (Legendary Troll) ◆
 
-[[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/general|Общая]] [[rules/traits/mental|Ментальный]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  

@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Тренирован Компьютерам
-summary: Обманывайте людей, используя поддельные данные.
+summary: Обманывайте людей, используя поддельные данные
+skill: computers
 ---
 # Эксперт по фишингу (Phishing Expertise)
 

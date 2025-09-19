@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обществу
 summary: Изучаете язык жестов
+skill: society
 ---
 # Язык жестов (Sign Language)
 

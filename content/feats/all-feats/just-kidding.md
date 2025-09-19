@@ -12,6 +12,8 @@ traits:
 rarity: common
 prerequisite: Тренирован Выступлению
 summary: Разыграть бестактность как шутку
+action: ↩
+skill: performance
 ---
 # Просто шутка! (Just Kidding!) ↩
 

@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Религии
 summary: Находите наставления в писаниях своей веры
+skill: religion
 ---
 # Божественное наставление (Divine Guidance)
 

@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обману
 summary: Остаетесь спрятанным после использования Отвлечь внимание (Create a Diversion)
+skill: deception
 ---
 # Надолго отвлечь (Lengthy Diversion)
 

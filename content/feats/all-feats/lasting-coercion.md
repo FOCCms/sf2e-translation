@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Запугивания
 summary: Используете Принуждение (Coerce) чтобы цель дольше подчинялась
+skill: intimidation
 ---
 # Длительное принуждение (Lasting Coercion)
 

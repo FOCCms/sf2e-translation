@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Тренирован Обману
-summary: Прячьтесь в толпе.
+summary: Прячьтесь в толпе
+skill: deception
 ---
 # Лицо в толпе (Face in the Crowd)
 

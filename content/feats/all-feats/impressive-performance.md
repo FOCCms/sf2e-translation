@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Выступлению
 summary: Произвести впечатление (Make an Impression) с помощью Выступления
+skill: performance
 ---
 # Впечатляющее выступление (Impressive Performance)
 

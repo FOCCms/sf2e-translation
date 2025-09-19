@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обществу
 summary: Читаете по губам людей, которых можете видеть
+skill: society
 ---
 # Чтение по губам (Read Lips)
 

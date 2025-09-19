@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Обмана
 summary: Избегаете попыток раскрыть вашу истинную природу
+skill: deception
 ---
 # Скользкие тайны (Slippery Secrets)
 

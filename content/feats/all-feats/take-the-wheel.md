@@ -8,6 +8,8 @@ traits:
 rarity: common
 prerequisite: Эксперт Пилотирования
 summary: Заберите управление движущегося транспорта
+action: ◆
+skill: piloting
 ---
 # Прыгнуть за руль (Take the Wheel) ◆
 

@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обществу
 summary: Изучаете два новых языка
+skill: society
 ---
 # Многоязычный (Multilingual)
 

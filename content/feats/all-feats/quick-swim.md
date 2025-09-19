@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Атлетики
 summary: Можете быстро Плыть (Swim)
+skill: athletics
 ---
 # Быстро плавать (Quick Swim)
 

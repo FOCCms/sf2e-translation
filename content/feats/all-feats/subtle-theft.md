@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Воровству
 summary: Ваши кражи сложнее заметить
+skill: thievery
 ---
 # Незаметное воровство (Subtle Theft)
 

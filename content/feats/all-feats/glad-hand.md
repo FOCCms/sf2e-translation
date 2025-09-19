@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Дипломатии
 summary: Можете мгновенно Произвести впечатление (Make an Impression) на цель, которую только что встретили
+skill: diplomacy
 ---
 # Радушный прием (Glad-Hand)
 

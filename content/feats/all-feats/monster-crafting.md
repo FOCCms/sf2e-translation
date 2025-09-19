@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Выживания
 summary: Можете Создать (Craft) предметы из частей монстров
+skill: survival
 ---
 # Трофейное ремесло (Monster Crafting)
 

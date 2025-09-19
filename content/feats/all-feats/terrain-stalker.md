@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Скрытности
 summary: Красться (Sneak) по определенной местности без совершения проверок
+skill: stealth
 ---
 # Лазутчик местности (Terrain Stalker)
 

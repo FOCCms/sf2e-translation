@@ -11,6 +11,7 @@ rarity: common
 prerequisite: Тренирован Медицине
 summary: Исцеляете в битве себя или союзника
 action: ◆
+skill: medicine
 ---
 # Боевая медицина (Battle Medicine) ◆
 

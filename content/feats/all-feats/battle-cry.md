@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Запугивания
 summary: Можете Деморализовать (Demoralize) врагов когда кидаете инициативу
+skill: intimidation
 ---
 # Боевой клич (Battle Cry)
 

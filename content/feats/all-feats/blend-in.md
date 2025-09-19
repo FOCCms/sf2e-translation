@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обществу
 summary: Затеряться среди толпы
+skill: society
 ---
 # Слиться с толпой (Blend In)
 

@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Тренирован Компьютерам
-summary: Взламывайте системы без инструментов.
+summary: Взламывайте системы без инструментов
+skill: computers
 ---
 # Фрикер (Phreaker)
 

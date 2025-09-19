@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Мастер Оккультизма
 summary: Вашу магию становится сложнее идентифицировать
+skill: occultism
 ---
 # Странная магия (Bizarre Magic)
 

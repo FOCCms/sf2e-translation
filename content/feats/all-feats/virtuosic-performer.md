@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Выступлению
 summary: +1 с определенным типом выступления
+skill: performance
 ---
 # Виртуозный исполнитель (Virtuosic Performer)
 

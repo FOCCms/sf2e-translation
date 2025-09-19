@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Общества
 summary: Создаёте пиджин языки, чтобы общаться с кем угодно
+skill: society
 ---
 # Легендарный шифровальщик (Legendary Codebreaker)
 

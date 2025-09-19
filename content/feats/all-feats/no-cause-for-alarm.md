@@ -1,17 +1,24 @@
 ---
-title: Не надо пугаться (No Cause for Alarm)
+title: Не надо пугаться (No Cause for Alarm) ◆◆◆
 source: Player Core
 level: 1
 traits:
-  - general
+  - auditory
+  - concentrate
+  - emotion
+    general
+  - linguistic
+  - mental
   - skill
 rarity: common
 prerequisite: Тренирован Дипломатии
 summary: Снижаете у существ состояние напуган
+action: ◆◆◆
+skill: diplomacy
 ---
-# Не надо пугаться (No Cause for Alarm)
+# Не надо пугаться (No Cause for Alarm) ◆◆◆
 
-[[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
+[[rules/traits/auditory|Слуховой]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/emotion|Эмоция]] [[rules/traits/general|Общая]] [[rules/traits/linguistic|Языковой]] [[rules/traits/mental|Ментальный]] [[rules/traits/skill|Навык]]
 
 **Источник** Player Core  
 **Тип** Способность  
@@ -21,4 +28,4 @@ summary: Снижаете у существ состояние напуган
 Вы пытаетесь снизить панику. Совершите проверку Дипломатии, сравнив её с КС Воли существ в области 10-футовой эманации вокруг вас, которые находятся в состоянии [[rules/conditions/frightened|напуган]]. Каждое из них становится временно иммунно на 1 час.
 
 **Критический успех** Уменьшите значение состояния [[rules/conditions/frightened|напуган]] на 2.  
-**Успех** Уменьшите значение состояния [[rules/conditions/frightened|напуган]] на 1.
+**Успех** Уменьшите значение состояния [[rules/conditions/frightened|напуган]] на 1.  

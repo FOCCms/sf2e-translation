@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Тренирован Дипломатии
-summary: Вы можете быстро Собрать информацию (Gather Information).
+summary: Вы можете быстро Собрать информацию (Gather Information)
+skill: diplomacy
 ---
 # Общительный (Hobnobber)
 

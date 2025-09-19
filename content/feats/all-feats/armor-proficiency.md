@@ -5,7 +5,7 @@ level: 1
 traits:
   - general
 rarity: common
-summary: Тренированы обращению с видом доспехов.
+summary: Тренированы обращению с видом доспехов
 ---
 # Ношение доспехов (Armor Proficiency)
 

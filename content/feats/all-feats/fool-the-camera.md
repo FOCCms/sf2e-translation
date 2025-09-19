@@ -7,7 +7,8 @@ traits:
   - skill
 rarity: common
 prerequisite: Мастер Компьютеров
-summary: Вы знаете как обмануть камеры.
+summary: Вы знаете как обмануть камеры
+skill: computers
 ---
 # Обмануть камеру (Fool the Camera)
 

@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Воровству
 summary: Используйте Украсть (Steal) или Ловкость рук (Palm an Object) более эффективно
+skill: thievery
 ---
 # Карманник (Pickpocket)
 

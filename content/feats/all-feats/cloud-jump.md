@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Легенда Атлетики
 summary: Прыгаете на невозможные расстояния
+skill: athletics
 ---
 # Облачный прыжок (Cloud Jump)
 

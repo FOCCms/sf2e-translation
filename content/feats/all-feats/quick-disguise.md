@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Обмана
 summary: Маскируетесь быстрее
+skill: deception
 ---
 # Быстрая маскировка (Quick Disguise)
 

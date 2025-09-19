@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Ремесла
 summary: Другие ПИ могут помочь вам Создать (Craft)
+skill: crafting
 ---
 # Коллективное создание (Communal Crafting)
 

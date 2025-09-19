@@ -4,7 +4,6 @@ source: Player Core
 level: 7
 traits:
   - general
-  - skill
 rarity: common
 prerequisite: Дальновидный планировщик (Prescient Planner)
 summary: Достаньте расходуемый предмет с помощью Дальновидный планировщик

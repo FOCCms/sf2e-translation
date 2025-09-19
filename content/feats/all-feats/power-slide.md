@@ -8,6 +8,8 @@ traits:
 rarity: common
 prerequisite: Эксперт Пилотирования
 summary: Легче поворачивайте транспорт
+action: от ◆ до ◆◆◆
+skill: piloting
 ---
 # Силовое скольжение (Power Slide) от ◆ до ◆◆◆
 

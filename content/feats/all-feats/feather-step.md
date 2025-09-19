@@ -6,7 +6,7 @@ traits:
   - general
 rarity: common
 prerequisite: Ловкость +2
-summary: Шагаете на сложную местность.
+summary: Шагаете на сложную местность
 ---
 # Лёгкий шаг (Feather Step)
 
@@ -18,4 +18,3 @@ summary: Шагаете на сложную местность.
 **Предварительные условия** Ловкость +2  
 
 Вы шагаете быстро и осторожно. Вы можете сделать [[rules/activities/basic-actions/step|Шаг (Step) ◆]] на [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложную местность]].
-

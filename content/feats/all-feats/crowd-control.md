@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Эксперт Дипломатии
 summary: Можете заставить толпу расступиться
+skill: diplomacy
 ---
 # Контроль толпы (Crowd Control)
 

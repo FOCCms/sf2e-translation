@@ -1,5 +1,5 @@
 ---
-title: Религиозный талисман (Religious Talisman) ◆◆
+title: Религиозный талисман (Religious Talisman)
 source: Player Core
 level: 7
 traits:
@@ -8,8 +8,9 @@ traits:
 rarity: common
 prerequisite: Мастер Религии, последователь определенной религии
 summary: Создайте благословенный религиозный символ
+skill: religion
 ---
-# Религиозный талисман (Religious Talisman) ◆◆
+# Религиозный талисман (Religious Talisman)
 
 [[rules/traits/general|Общая]] [[rules/traits/skill|Навык]]
 

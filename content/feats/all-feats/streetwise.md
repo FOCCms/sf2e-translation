@@ -8,6 +8,7 @@ traits:
 rarity: common
 prerequisite: Тренирован Обществу
 summary: Используете Общество, чтобы Собрать информацию (Gather Information) и Вспомнить информацию (Recall Knowledge)
+skill: society
 ---
 # Уличная жизнь (Streetwise)
 
