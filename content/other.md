@@ -8,6 +8,13 @@ title: Свалка
 
 action: ◆
 
+strength
+dexterity
+constitution
+intelligence
+wisdom
+charisma
+
 - [ ] проверить фиты
 	- [x] трейты в описании и свойствах
 	- [x] количество действий в заголовке и в свойствах (поле action)
