@@ -159,7 +159,7 @@ embed-headers.css
   "anuppuccin-theme-settings@@anp-editor-font-rv": "Noto Serif",
   "anuppuccin-theme-settings@@anp-editor-font-source": "Noto Serif",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
-  "things-style@@fancy-code": true,
+  "things-style@@fancy-code": false,
   "things-style@@fancy-highlight": true,
   "things-style@@no-kanban-styles": false
 }
