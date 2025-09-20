@@ -6,14 +6,17 @@ title: Помогалка по заклинаниям
 
 ```
 ---
-title: name
+title: name (orig_name)
 source: Player Core
 ---
-# name
+# name (orig_name)
 
 ```
 
+
 ### Признаки
+
+[[rules/traits/cantrip|Чары]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]]
 
 [[rules/traits/acid|Кислота]]
 [[rules/traits/attack|Атака]]
@@ -24,6 +27,7 @@ source: Player Core
 [[rules/traits/electricity|Электричество]]
 [[rules/traits/fire|Огонь]]
 [[rules/traits/force|Сила]]
+[[rules/traits/healing|Исцеление]]
 [[rules/traits/illusion|Иллюзия]]
 [[rules/traits/light|Свет]]
 [[rules/traits/manipulate|Манипуляция]]
@@ -32,12 +36,16 @@ source: Player Core
 [[rules/traits/morph|Трансформация]]
 [[rules/traits/nonlethal|Несмертельное]]
 [[rules/traits/plant|Растение]]
+[[rules/traits/sanctified|Инвеститурный]]
+[[rules/traits/spirit|Дух]]
 [[rules/traits/subtle|Скрытный]]
+[[rules/traits/vitality|Витальность]]
 [[rules/traits/void|Пустота]]
 [[rules/traits/wood|Дерево]]
 
 ### Свойства
 
+```
 **Источник** Player Core  
 **Тип** Чары  
 **Ранг** 1  
@@ -47,6 +55,7 @@ source: Player Core
 **Цели** 1 существо  
 **Защита** простой / Воля / Рефлекс / Стойкость / КБ  
 **Продолжительность** 1 раунд  
+```
 
 (альтернативы)
 
@@ -55,14 +64,17 @@ source: Player Core
 **Цели** 5-футовый взрыв  
 до ваших следующих ежедневных приготовлений  
 поддерживаемое  
+поддерживаемое до 1 минуты  
 до начала вашего следующего хода  
 неограниченно (см. далее)  
+до начала вашего следующего хода  
 
 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]]
 [[rules/activities/basic-actions/specialty-basic-actions/sustain|Поддерживать (Sustain) ◆]]
 [[rules/player core/chapter-8-playing-the-game#Слабость (Weakness)|слабость]]
 [[rules/conditions/enfeebled|ослаблен]]
 [[rules/conditions/off-guard|застигнута врасплох]]
+[[rules/conditions/prone|ничком]]
 
 **Усиление (+1)**
 
