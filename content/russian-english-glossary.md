@@ -11,6 +11,8 @@ title: Русско-английский глоссарий
 "circumstance bonus": "бонус обстоятельств",
 "flat check": "чистая проверка",
 "Bulk": "Масса",
+"ranged attack": "дистанционная атака",
+"ranged spell attack": "дистанционная атака заклинанием",
 "negligible": "незначительный",
 "unattended": "ничейный",
 "rank": "ранг",

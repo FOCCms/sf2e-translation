@@ -41,31 +41,31 @@ title: Арканные (Arcane)
 [[spells/all-spells/air-bubble|Воздушный пузырь (Air Bubble)]] - Среагируйте, чтобы создать воздух для дыхания существа.  
 [[spells/all-spells/alarm|Тревога (Alarm)]] <sup>У</sup> - Предупреждены, если существо входит в охраняемую зону.  
 [[spells/all-spells/ant-haul|Муравьиная добыча (Ant Haul)]] - Цель может переносить больше веса.  
-Breathe Fire H - Release a small cone of flame from your mouth.
-Cellular Stimulant H - Stimulate the target’s body for a short while at the expense of future energy.
-Charm H - A creature becomes more friendly to you.
-Command H - Bid a creature approach, run, drop something, lie prone, or stand up.
-Create Water - Conjure 2 gallons of water.
-Delete H - Delete data from a dataset.
-Disguise Magic H - Mask the aura of a spell or item.
-Dizzying Colors - Swirling colors blind, dazzle, or stun creatures.
-Enfeeble - Sap a creature’s strength.
-Enhance Body H - Infuse a creature’s body with magic power.
-Enhance Weapon H - Infuse a weapon with magic power.
-Fear H - Frighten a creature, possibly making it flee.
-Fleet Step - Make your Speed much faster.
-Force Barrage H - Pelt creatures with unerring shards of magical force.
-Gentle Landing - React to save a falling creature.
-Glow Up H - You make a target more charming to observers.
-Grease - Cover a target or an area with slippery grease.
-Grim Tendrils H - Creatures in a line take void damage and bleed.
-Gust of Wind - Wind blows out fires and knocks back objects and creatures.
-Hydraulic Push H - Damage and push a creature with a blast of water.
-Illusory Disguise H - Make yourself look like a different creature.
-Illusory Object H - Form a convincing illusion of an object.
-Jump H - Make an impressive leap.
-Lock H - Make a lock much harder to open.
-Mending H - Repair one non-magical item.
+[[spells/all-spells/breathe-fire|Огненное дыхание (Breathe Fire)]] <sup>У</sup> - Небольшой конус пламени вырывается из вашего рта.  
+[[spells/all-spells/cellular-stimulant|Клеточный стимулятор (Cellular Stimulant)]] <sup>У</sup> - Стимулируйте организм цели на короткое время ценой будущей энергии.  
+[[spells/all-spells/charm|Очаровать (Charm)]] <sup>У</sup> - Существо становится к вам более дружелюбным.  
+[[spells/all-spells/command|Приказ (Command)]] <sup>У</sup> - Приказывает существу приблизиться, убежать, отпустить что-нибудь, лечь ничком или стоять на месте.  
+[[spells/all-spells/create-water|Создание воды (Create Water)]] - Создает 2 галлона воды.  
+[[spells/all-spells/delete|Удалить (Delete)]] <sup>У</sup> - Удалите информацию из набора данных.  
+[[spells/all-spells/disguise-magic|Маскировка магии (Disguise Magic)]] <sup>У</sup> - Маскирует ауру заклинания или предмета.  
+[[spells/all-spells/dizzying-colors|Головокружительные цвета (Dizzying Colors)]] - Вихрь цветов ослепляет, слепит или ошеломляет существ.  
+[[spells/all-spells/enfeeble|Ослабить (Enfeeble)]] - Истощает силу существа.  
+[[spells/all-spells/enhance-body|Улучшить тело (Enhance Body)]] <sup>У</sup> - Наполнить тело существа магической силой.  
+[[spells/all-spells/enhance-weapon|Улучшить оружие (Enhance Weapon)]] <sup>У</sup> - Наполнить оружие магической силой.  
+[[spells/all-spells/fear|Страх (Fear)]] <sup>У</sup> - Пугает существо, возможно заставив его убегать.  
+[[spells/all-spells/fleet-step|Быстрый шаг (Fleet Step)]] - Значительно увеличивает вашу Скорость.  
+[[spells/all-spells/force-barrage|Силовой залп (Force Barrage)]] <sup>У</sup> - Осыпьте существ безошибочными осколками магической силы.  
+[[spells/all-spells/gentle-landing|Мягкое приземление (Gentle Landing)]] - Реагируете, чтобы замедлить падение существа.  
+[[spells/all-spells/glow-up|Преобразить (Glow Up)]] <sup>У</sup> - Вы делаете цель более очаровательной для наблюдателей.  
+[[spells/all-spells/grease|Масло (Grease)]] - Покрывает поверхность или объект скользким маслом.  
+[[spells/all-spells/grim-tendrils|Мрачные щупальца (Grim Tendrils)]] <sup>У</sup> - Существа в линии получают негативный урон и кровотечение.  
+[[spells/all-spells/gust-of-wind|Порыв ветра (Gust of Wind)]] - Ветер задувает огни и отталкивает существ и предметы.  
+[[spells/all-spells/hydraulic-push|Водный толчок (Hydraulic Push)]] <sup>У</sup> - Наносит урон и толкает существо ударом воды.  
+[[spells/all-spells/illusory-disguise|Иллюзорная маскировка (Illusory Disguise)]] <sup>У</sup> - Делаете себя похожим на другое существо.  
+[[spells/all-spells/illusory-object|Иллюзорный объект (Illusory Object)]] <sup>У</sup> - Создает убедительную иллюзию объекта.  
+[[spells/all-spells/jump|Прыжок (Jump)]] <sup>У</sup> - Совершаете впечатляющий прыжок.  
+[[spells/all-spells/lock|Замок (Lock)]] <sup>У</sup> - Делает замок трудно открываемым.  
+[[spells/all-spells/mending|Починка (Mending)]] <sup>У</sup> - Чинит один немагический предмет.  
 Message H - Speak a message to a distant creature, who can reply.
 Mindlink - Mentally impart 10 minutes’ worth of information in an instant.
 Mystic Armor H - Ward yourself with magical armor.
