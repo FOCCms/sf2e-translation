@@ -1,0 +1,25 @@
+---
+title: Форма вредителя (Pest Form)
+source: Player Core
+---
+# Форма вредителя (Pest Form)
+
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/polymorph|Превращение]]
+
+**Источник** Player Core  
+**Тип** Заклинание  
+**Ранг** 1  
+**Сотворение** ◆◆  
+**Традиции** Арканная Природная  
+**Продолжительность** 10 минут  
+
+Вы превращаетесь в боевую форму Крошечного животного, такого как кошка, насекомое, ящерица или крыса. Вы можете выбрать конкретный вид животного (например, ==сквокс (squox)== или богомол), но это не влияет на ваш Размер или показатели. В этой форме вы получаете признак [[rules/traits/animal|животное]] и не можете совершать [[rules/activities/basic-actions/strike|Удары (Strike) ◆]]. Вы можете [[rules/activities/basic-actions/specialty-basic-actions/dismiss|Развеять (Dismiss) ◆]] это заклинание.
+
+Вы получаете следующие показатели и умения:
+- КБ = 15 + ваш уровень. Игнорируйте [[rules/player core/chapter-6-equipment#Штраф проверки (Check Penalty)|штраф проверки]] и [[rules/player core/chapter-6-equipment#Штраф скорости (Speed Penalty)|снижение Скорости]] от доспехов.
+- Скорость 20 футов.
+- [[rules/player core/chapter-8-playing-the-game#Слабость (Weakness)|Слабость]] 5 к физическому урону. (Если вы получаете физический урон в этой форме, вы получаете дополнительно 5 урона.)
+- [[rules/player core/chapter-8-playing-the-game#Сумеречное зрение (Low-Light Vision)|Сумеречное зрение]] и [[rules/player core/chapter-8-playing-the-game#Неточные чувства (Imprecise Senses)|неточный]] [[rules/player core/chapter-8-playing-the-game#Нюх (Scent)|нюх]] 30 футов.
+- Модификаторы Акробатики и Скрытности +10, если только ваши собственные не выше; модификатор Атлетики -4.
+
+**Усиление (4-й)** Вы можете превратиться в летающее существо, такое как птица, что даёт вам Скорость полёта 20 футов.

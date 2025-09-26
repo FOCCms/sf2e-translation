@@ -66,12 +66,12 @@ title: Арканные (Arcane)
 [[spells/all-spells/jump|Прыжок (Jump)]] <sup>У</sup> - Совершаете впечатляющий прыжок.  
 [[spells/all-spells/lock|Замок (Lock)]] <sup>У</sup> - Делает замок трудно открываемым.  
 [[spells/all-spells/mending|Починка (Mending)]] <sup>У</sup> - Чинит один немагический предмет.  
-Message H - Speak a message to a distant creature, who can reply.
-Mindlink - Mentally impart 10 minutes’ worth of information in an instant.
-Mystic Armor H - Ward yourself with magical armor.
-Overheat H - Heat up a creature and its held objects.
-Pest Form H - Turn into a nonthreatening animal.
-Phantasmal Minion - Create a creature of force to perform minor tasks.
+[[spells/all-spells/message|Сообщение (Message)]] <sup>У</sup> - Произносите сообщение отдаленному существу, которое может ответить.  
+[[spells/all-spells/mindlink|Мысленная связь (Mindlink)]] - Мысленно передаете объем информации на 10 минут за мгновение.  
+[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магическим доспехом.  
+[[spells/all-spells/overheat|Перегрев (Overheat)]] <sup>У</sup> - Нагреваете существо и удерживаемые им предметы.  
+[[spells/all-spells/pest-form|Форма вредителя (Pest Form)]] <sup>У</sup> - Превратитесь в неопасное животное.  
+[[spells/all-spells/phantasmal-minion|Призрачный миньон (Phantasmal Minion)]] - Создайте существо из силы для выполнения простых задач.  
 Pummeling Rubble H - Hurl a cone of rocks to batter creatures.
 Shifting Surge H - Change weapon to a different energy type and deal bonus damage of the original type.
 Sleep H - Put creatures in a small area to sleep.

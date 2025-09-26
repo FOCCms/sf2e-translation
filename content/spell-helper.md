@@ -20,6 +20,7 @@ source: Player Core
 
 [[rules/traits/acid|Кислота]]
 [[rules/traits/air|Воздух]]
+[[rules/traits/animal|Животное]]
 [[rules/traits/attack|Атака]]
 [[rules/traits/auditory|Слуховой]]
 [[rules/traits/cantrip|Чары]]
@@ -44,14 +45,17 @@ source: Player Core
 [[rules/traits/nonlethal|Несмертельное]]
 [[rules/traits/olfactory|Обонятельный]]
 [[rules/traits/plant|Растение]]
+[[rules/traits/polymorph|Превращение]]
 [[rules/traits/sanctified|Инвеститурный]]
 [[rules/traits/spirit|Дух]]
 [[rules/traits/subtle|Скрытный]]
+[[rules/traits/summon|Призыв]]
 [[rules/traits/visual|Визуальный]]
 [[rules/traits/vitality|Витальность]]
 [[rules/traits/void|Пустота]]
 [[rules/traits/water|Вода]]
 [[rules/traits/wood|Дерево]]
+
 
 ### Свойства
 
@@ -89,6 +93,7 @@ source: Player Core
 поддерживаемое до 1 минуты  
 до начала вашего следующего хода  
 неограниченно (см. далее)  
+см. далее
 до начала вашего следующего хода  
 до конца следующего хода цели  
 varies (различается)
