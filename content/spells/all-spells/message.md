@@ -4,10 +4,10 @@ source: Player Core
 ---
 # Сообщение (Message)
 
-[[rules/traits/auditory|Слуховой]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/illusion|Иллюзия]] [[rules/traits/linguistic|Языковой]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/mental|Ментальный]] [[rules/traits/subtle|Скрытный]]
+[[rules/traits/auditory|Слуховой]] [[rules/traits/cantrip|Чары]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/illusion|Иллюзия]] [[rules/traits/linguistic|Языковой]] [[rules/traits/mental|Ментальный]] [[rules/traits/subtle|Скрытный]]
 
 **Источник** Player Core  
-**Тип** Заклинание  
+**Тип** Чары  
 **Ранг** 1  
 **Сотворение** ◆  
 **Традиции** Арканная Сакральная Оккультная  

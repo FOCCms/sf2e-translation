@@ -22,14 +22,17 @@ source: Player Core
 [[rules/traits/animal|Животное]]
 [[rules/traits/attack|Атака]]
 [[rules/traits/auditory|Слуховой]]
+[[rules/traits/aura|Аура]]
 [[rules/traits/cantrip|Чары]]
 [[rules/traits/cold|Холод]]
 [[rules/traits/concentrate|Концентрация]]
+[[rules/traits/curse|Проклятие]]
 [[rules/traits/detection|Обнаружение]]
 [[rules/traits/earth|Земля]]
 [[rules/traits/electricity|Электричество]]
 [[rules/traits/emotion|Эмоция]]
 [[rules/traits/fear|Страх]]
+[[rules/traits/fey|Фея]]
 [[rules/traits/fire|Огонь]]
 [[rules/traits/force|Сила]]
 [[rules/traits/healing|Исцеление]]
@@ -40,6 +43,7 @@ source: Player Core
 [[rules/traits/manipulate|Манипуляция]]
 [[rules/traits/mental|Ментальный]]
 [[rules/traits/metal|Металл]]
+[[rules/traits/misfortune|Неудача]]
 [[rules/traits/morph|Трансформация]]
 [[rules/traits/move|Движение]]
 [[rules/traits/nonlethal|Несмертельное]]
@@ -58,6 +62,8 @@ source: Player Core
 [[rules/traits/water|Вода]]
 [[rules/traits/wood|Дерево]]
 
+[[rules/traits/uncommon|Необычный]]
+
 ### Свойства
 
 ```
@@ -65,18 +71,21 @@ source: Player Core
 **Тип** Заклинание  
 **Ранг** 1  
 **Сотворение** ◆◆  
-**Традиции** Арканная Сакральная Оккультная Природная  
+**Традиции** Оккультная Природная  
 **Дистанция** 30 футов  
 **Цели** 1 существо  
 **Защита** простой / Воля / Рефлекс / Стойкость / КБ  
 **Продолжительность** 1 раунд  
 ```
 
+Арканная Сакральная Оккультная Природная
+
 **Божества** [[setting/deities/hylax|Хайлакс]]  
 
 (альтернативы)
 
 **Дистанция** касание  
+различается
 
 **Область** 200-футовая эманация  
 15-футовый конус
@@ -87,6 +96,7 @@ source: Player Core
 1 готовое существо
 немагический объект легкой Массы или менее
 1 оружие удерживаемое вами или готовым союзником
+1 живое существо или 1 готовая нежить
 
 **Продолжительность**
 1 или более раундов  
@@ -94,12 +104,14 @@ source: Player Core
 поддерживаемое  
 поддерживаемое до 1 минуты  
 до начала вашего следующего хода  
+до конца вашего следующего хода  
 неограниченно (см. далее)  
 см. далее
 до начала вашего следующего хода  
 до конца следующего хода цели  
 varies (различается)
 1 минута или до применения
+
 
 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]]
 [[rules/activities/basic-actions/specialty-basic-actions/sustain|Поддерживать (Sustain) ◆]]

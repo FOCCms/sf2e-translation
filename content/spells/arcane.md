@@ -21,6 +21,7 @@ title: Арканные (Arcane)
 [[spells/all-spells/injury-echo|Отголосок Раны (Injury Echo)]] <sup>У</sup> - Нанесите физический урон, и если существо позже получит тот же урон, оно начинает кровоточить.  
 [[spells/all-spells/light|Свет (Light)]]  <sup>У</sup> - Заставьте предмет светиться.  
 [[spells/all-spells/measure|Мера (Measure)]] <sup>У</sup> - Вы получаете размеры существ, которых можете наблюдать в области.  
+[[spells/all-spells/message|Сообщение (Message)]] <sup>У</sup> - Произносите сообщение отдаленному существу, которое может ответить.  
 [[spells/all-spells/prestidigitation|Престидижитация (Prestidigitation)]] - Исполните небольшой магический приём.  
 [[spells/all-spells/read-aura|Чтение ауры (Read Aura)]]  <sup>У</sup> - Определите, является ли предмет магическим.  
 [[spells/all-spells/recharge-weapon|Перезарядить оружие (Recharge Weapon)]] <sup>У</sup> - Создайте временные недорогие боеприпасы для стрельбы из вашего оружия.  
@@ -66,7 +67,6 @@ title: Арканные (Arcane)
 [[spells/all-spells/jump|Прыжок (Jump)]] <sup>У</sup> - Совершаете впечатляющий прыжок.  
 [[spells/all-spells/lock|Замок (Lock)]] <sup>У</sup> - Делает замок трудно открываемым.  
 [[spells/all-spells/mending|Починка (Mending)]] <sup>У</sup> - Чинит один немагический предмет.  
-[[spells/all-spells/message|Сообщение (Message)]] <sup>У</sup> - Произносите сообщение отдаленному существу, которое может ответить.  
 [[spells/all-spells/mindlink|Мысленная связь (Mindlink)]] - Мысленно передаете объем информации на 10 минут за мгновение.  
 [[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магическим доспехом.  
 [[spells/all-spells/overheat|Перегрев (Overheat)]] <sup>У</sup> - Нагреваете существо и удерживаемые им предметы.  
@@ -81,6 +81,6 @@ title: Арканные (Arcane)
 [[spells/all-spells/summon-robot|Призыв робота (Summon Robot)]] - Призывает робота, который сражается за вас.  
 [[spells/all-spells/summon-undead|Призыв нежити (Summon Undead)]] - Призывает нежить, которая сражается за вас.  
 [[spells/all-spells/supercharge-weapon|Перегрузка оружия (Supercharge Weapon)]] <sup>У</sup> - Увеличьте урон от следующей атаки оружием.  
-Sure Strike - Your next attack is especially accurate.
-Tailwind H - Increase your speed for an hour.
-Thunderstrike - Call down a thunderbolt.
+[[spells/all-spells/sure-strike|Верный удар (Sure Strike)]] - Делает вашу следующую атаку особенно точной.  
+[[spells/all-spells/tailwind|Попутный ветер (Tailwind)]] <sup>У</sup> - Увеличивает вашу Скорость на час.  
+[[spells/all-spells/thunderstrike|Удар грома (Thunderstrike)]] - Призывает грохочущий удар молнии.  

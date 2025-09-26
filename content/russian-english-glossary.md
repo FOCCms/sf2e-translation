@@ -10,6 +10,7 @@ title: Русско-английский глоссарий
 "status bonus": "бонус состояния",
 "circumstance bonus": "бонус обстоятельств",
 "flat check": "чистая проверка",
+"emanation": "эманация",
 "Bulk": "Масса",
 "ranged attack": "дистанционная атака",
 "ranged spell attack": "дистанционная атака заклинанием",
