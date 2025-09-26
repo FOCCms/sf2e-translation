@@ -13,7 +13,6 @@ source: Player Core
 
 ```
 
-
 ### Признаки
 
 [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]]
@@ -59,7 +58,6 @@ source: Player Core
 [[rules/traits/water|Вода]]
 [[rules/traits/wood|Дерево]]
 
-
 ### Свойства
 
 ```
@@ -88,6 +86,7 @@ source: Player Core
 спровоцировавшее существо
 1 готовое существо
 немагический объект легкой Массы или менее
+1 оружие удерживаемое вами или готовым союзником
 
 **Продолжительность**
 1 или более раундов  
@@ -100,6 +99,7 @@ source: Player Core
 до начала вашего следующего хода  
 до конца следующего хода цели  
 varies (различается)
+1 минута или до применения
 
 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]]
 [[rules/activities/basic-actions/specialty-basic-actions/sustain|Поддерживать (Sustain) ◆]]

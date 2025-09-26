@@ -76,11 +76,11 @@ title: Арканные (Arcane)
 [[spells/all-spells/shifting-surge|Стихийный всплеск (Shifting Surge)]] <sup>У</sup> - Изменяет тип урона оружия и наносит дополнительный урон исходным типом урона.  
 [[spells/all-spells/sleep|Сон (Sleep)]] <sup>У</sup> - Заставляет заснуть существ в небольшой области.  
 [[spells/all-spells/sonic-scream|Звуковой крик (Sonic Scream)]] <sup>У</sup> - Издайте крик, который повлияет на существ в конусе.  
-Summon Animal - Conjure an animal to fight for you.
-Summon Construct - Conjure a construct to fight on your behalf.
-Summon Robot - Summon a robot to fight for you.
-Summon Undead - Conjure an undead to fight on your behalf.
-Supercharge Weapon H - Increase the damage done by the next attack of a weapon.
+[[spells/all-spells/summon-animal|Призыв животного (Summon Animal)]] - Призывает животное, которое сражается за вас.  
+[[spells/all-spells/summon-construct|Призыв конструкта (Summon Construct)]] - Призывает конструкта, который сражается за вас.  
+[[spells/all-spells/summon-robot|Призыв робота (Summon Robot)]] - Призывает робота, который сражается за вас.  
+[[spells/all-spells/summon-undead|Призыв нежити (Summon Undead)]] - Призывает нежить, которая сражается за вас.  
+[[spells/all-spells/supercharge-weapon|Перегрузка оружия (Supercharge Weapon)]] <sup>У</sup> - Увеличьте урон от следующей атаки оружием.  
 Sure Strike - Your next attack is especially accurate.
 Tailwind H - Increase your speed for an hour.
 Thunderstrike - Call down a thunderbolt.
