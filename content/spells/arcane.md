@@ -72,10 +72,10 @@ title: Арканные (Arcane)
 [[spells/all-spells/overheat|Перегрев (Overheat)]] <sup>У</sup> - Нагреваете существо и удерживаемые им предметы.  
 [[spells/all-spells/pest-form|Форма вредителя (Pest Form)]] <sup>У</sup> - Превратитесь в неопасное животное.  
 [[spells/all-spells/phantasmal-minion|Призрачный миньон (Phantasmal Minion)]] - Создайте существо из силы для выполнения простых задач.  
-Pummeling Rubble H - Hurl a cone of rocks to batter creatures.
-Shifting Surge H - Change weapon to a different energy type and deal bonus damage of the original type.
-Sleep H - Put creatures in a small area to sleep.
-Sonic Scream H - Let loose a scream that affects creatures in a cone.
+[[spells/all-spells/pummeling-rubble|Бьющие обломки (Pummeling Rubble)]] <sup>У</sup> - Запускает конус камней, чтобы нанести урон существам.  
+[[spells/all-spells/shifting-surge|Стихийный всплеск (Shifting Surge)]] <sup>У</sup> - Изменяет тип урона оружия и наносит дополнительный урон исходным типом урона.  
+[[spells/all-spells/sleep|Сон (Sleep)]] <sup>У</sup> - Заставляет заснуть существ в небольшой области.  
+[[spells/all-spells/sonic-scream|Звуковой крик (Sonic Scream)]] <sup>У</sup> - Издайте крик, который повлияет на существ в конусе.  
 Summon Animal - Conjure an animal to fight for you.
 Summon Construct - Conjure a construct to fight on your behalf.
 Summon Robot - Summon a robot to fight for you.
