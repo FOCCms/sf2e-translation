@@ -59,7 +59,7 @@ title: Оккультные (Occult)
 [[spells/all-spells/mending|Починка (Mending)]] <sup>У</sup> - Чинит один немагический предмет.  
 [[spells/all-spells/mind-skewer|Пронзание разума (Mind Skewer)]] <sup>У</sup> - Нанести ментальный урон цели.  
 [[spells/all-spells/mindlink|Мысленная связь (Mindlink)]] - Мысленно передаете объем информации на 10 минут за мгновение.  
-[[spells/all-spells/motivating-ringtone|Мотивирующий рингтон (Motivating Ringtone)]] <sup>У</sup> - Заставьте коммуникатор проигрывать личную тему его владельца.
+[[spells/all-spells/motivating-ringtone|Мотивирующий рингтон (Motivating Ringtone)]] <sup>У</sup> - Заставьте коммуникатор проигрывать личную тему его владельца.  
 [[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магическим доспехом.  
 [[spells/all-spells/phantasmal-minion|Призрачный миньон (Phantasmal Minion)]] - Создайте существо из силы для выполнения простых задач.  
 [[spells/all-spells/phantom-pain|Фантомная боль (Phantom Pain)]] <sup>У</sup> - Вызывает у существа постоянную боль, которая вызывает у него тошноту.  
@@ -68,8 +68,51 @@ title: Оккультные (Occult)
 [[spells/all-spells/shifting-surge|Стихийный всплеск (Shifting Surge)]] <sup>У</sup> - Изменяет тип урона оружия и наносит дополнительный урон исходным типом урона.  
 [[spells/all-spells/sleep|Сон (Sleep)]] <sup>У</sup> - Заставляет заснуть существ в небольшой области.  
 [[spells/all-spells/sonic-scream|Звуковой крик (Sonic Scream)]] <sup>У</sup> - Издайте крик, который повлияет на существ в конусе.  
-Soothe H - Heal the target and bolster them against mental attacks.  
+Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.  
 [[spells/all-spells/spirit-link|Духовная связь (Spirit Link)]] <sup>У</sup> - Постоянно передавайте свое здоровье кому-то другому.   
 [[spells/all-spells/summon-fey|Призыв феи (Summon Fey)]] <sup>У</sup> - Призывает фею, которая сражается за вас.  
 [[spells/all-spells/summon-undead|Призыв нежити (Summon Undead)]] - Призывает нежить, которая сражается за вас.  
 [[spells/all-spells/sure-strike|Верный удар (Sure Strike)]] - Делает вашу следующую атаку особенно точной.  
+
+### 2-й ранг
+
+[[spells/all-spells/augury|Предзнаменование (Augury)]] - Предсказание, будет ли то или иное действие успешным.  
+[[spells/all-spells/blur|Расплывчатость (Blur)]] - Делает форму цели размытой и в неё труднее попасть.  
+[[spells/all-spells/calm|Спокойствие (Calm)]] - Подавляет сильные эмоции и враждебность.  
+[[spells/all-spells/cleanse-affliction|Снять недуг (Cleanse Affliction)]] <sup>У</sup> - Избавиться от проклятия, болезни или яда.  
+[[spells/all-spells/clear-mind|Очистить разум (Clear Mind)]] <sup>У</sup> - Противодействовать бегству, напуганности, одурманиванию и подобным состояниям.  
+[[spells/all-spells/darkness|Тьма (Darkness)]] <sup>У</sup> -  Подавляет весь свет в области.  
+[[spells/all-spells/darkvision|Ночное зрение (Darkvision)]] <sup>У</sup> - Позволяет видеть во тьме.  
+[[spells/all-spells/deafness|Глухота (Deafness)]] - Делает существо глухим.  
+[[spells/all-spells/detect-thoughts|Обнаружить мысли (Detect Thoughts)]] <sup>У</sup> - Чувствуете поверхностные мысли существ неподалёку.  
+[[spells/all-spells/dispel-magic|Рассеять магию (Dispel Magic)]] - Завершает заклинание или подавляет магию предмета.  
+[[spells/all-spells/doom-scroll|Думскролл (Doom Scroll)]] - Транслируйте мрачные новости, которые вынуждают других обращать на них внимание.  
+[[spells/all-spells/embed-message|Встроить сообщение (Embed Message)]] <sup>У</sup> - Оставьте иллюзорное сообщение, которое сработает при активации триггера в будущем.  
+[[spells/all-spells/everlight|Вечносвет (Everlight)]] - Заставьте самоцвет светиться вечно.  
+[[spells/all-spells/false-vitality|Ложная витальность (False Vitality)]] <sup>У</sup> - Получите временные Очки Здоровья.  
+[[spells/all-spells/ghostly-carrier|Призрачный курьер (Ghostly Carrier)]] - Создаёт полутелесную фигуру, которая доставляет ваше заклинание касания до цели.  
+[[spells/all-spells/humanoid-form|Форма гуманоида (Humanoid Form)]] <sup>У</sup> - Принимаете форму гуманоида.  
+[[spells/all-spells/illusory-creature|Иллюзорное существо (Illusory Creature)]] <sup>У</sup> - Создает убедительную иллюзию существа.  
+[[spells/all-spells/invisibility|Невидимость (Invisibility)]] <sup>У</sup> - Существо нельзя увидеть, пока оно не атакует.  
+[[spells/all-spells/knock|Стук (Knock)]] - Дверь, замок или контейнер становится легче открыть, или даже можно открыть мгновенно.  
+[[spells/all-spells/laughing-fit|Безудержный смех (Laughing Fit)]] - Смех затрудняет действия существа.  
+[[spells/all-spells/logic-bomb|Логическая бомба (Logic Bomb)]] <sup>У</sup> - Внедрите ментальную бомбу в технологический предмет, которая поражает пользователя при следующей попытке им воспользоваться.  
+[[spells/all-spells/noise-blast|Шумный взрыв (Noise Blast)]] <sup>У</sup> - Повреждает и оглушает существ мощным грохотом.  
+[[spells/all-spells/paranoia|Паранойя (Paranoia)]] <sup>У</sup> - Заставляет существо поверить что все вокруг угроза.  
+[[spells/all-spells/peaceful-rest|Мирный покой (Peaceful Rest)]] <sup>У</sup> - Тело не разлагается и не может стать нежитью.  
+[[spells/all-spells/resist-energy|Сопротивление энергии (Resist Energy)]] <sup>У</sup> - Защищает существо от одного типа энергетического урона.  
+[[spells/all-spells/revealing-light|Раскрывающий свет (Revealing Light)]] - Ослепительный свет противостоит невидимости и скрытости.  
+[[spells/all-spells/see-the-unseen|Видеть невидимое (See the Unseen)]] <sup>У</sup> - Показывает невидимых существ и объекты.  
+[[spells/all-spells/shatter|Разбивающий звук (Shatter)]] <sup>У</sup> - Разбивает объект высокочастотной звуковой атакой.  
+[[spells/all-spells/sift-the-sphere|Предзнаменование сферы (Sift the Sphere)]] <sup>У</sup> - Вы просеиваете инфосферу и получаете прозрение о теме.  
+[[spells/all-spells/silence|Тишина (Silence)]] <sup>У</sup> - Заглушает все звуки от готового существа.  
+[[spells/all-spells/skim-data|Беглый анализ (Skim Data)]] - Прикоснитесь к объекту, чтобы получить суть содержащихся в нем данных.  
+[[spells/all-spells/sound-body|Здоровое тело (Sound Body)]] <sup>У</sup> - Противодействуйте слепоте, ослеплению, глухоте, ослаблению, тошноте и подобным состояниям.  
+[[spells/all-spells/spiritual-armament|Духовное вооружение (Spiritual Armament)]] <sup>У</sup> - Проецируйте оружие, наполненное духовной силой.  
+[[spells/all-spells/status|Состояние (Status)]] <sup>У</sup> - Следит за местоположением готового существа и его благополучием.  
+[[spells/all-spells/stupefy|Одурманить (Stupefy)]] - Притупить разум цели и сделать сотворение заклинаний ненадежным.  
+[[spells/all-spells/sure-footing|Твёрдая поступь (Sure Footing)]] <sup>У</sup> - Противодействуйте неуклюжести, схваченности, параличу и подобным состояниям.  
+[[spells/all-spells/telekinetic-maneuver|Телекинетический прием (Telekinetic Maneuver)]] - Телекинетически Разоружает, Смещает, Толкает или Опрокидывает существо.  
+[[spells/all-spells/temporal-bullets|Временные пули (Temporal Bullets)]] - Перемотайте время назад, чтобы нанести урон промахнувшейся атакой.  
+[[spells/all-spells/translate|Перевод (Translate)]] <sup>У</sup> - Предоставляет понимание языка одному существу.  
+[[spells/all-spells/vibe-check|Вайб чек (Vibe Check)]] <sup>У</sup> - Внедрите психически интенсивные эмоции в цель, заставляя её реагировать по-разному.  

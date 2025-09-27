@@ -27,6 +27,7 @@ source: Player Core
 [[rules/traits/cold|Холод]]
 [[rules/traits/concentrate|Концентрация]]
 [[rules/traits/curse|Проклятие]]
+[[rules/traits/darkness|Тьма]]
 [[rules/traits/detection|Обнаружение]]
 [[rules/traits/earth|Земля]]
 [[rules/traits/electricity|Электричество]]
@@ -62,6 +63,8 @@ source: Player Core
 [[rules/traits/water|Вода]]
 [[rules/traits/wood|Дерево]]
 
+[[rules/traits/plant|Растение]] [[rules/traits/wood|Дерево]]
+
 [[rules/traits/uncommon|Необычный]]
 
 ### Свойства
@@ -69,9 +72,9 @@ source: Player Core
 ```
 **Источник** Player Core  
 **Тип** Заклинание  
-**Ранг** 1  
+**Ранг** 2  
 **Сотворение** ◆◆  
-**Традиции** Оккультная Природная  
+**Традиции** Природная  
 **Дистанция** 30 футов  
 **Цели** 1 существо  
 **Защита** простой / Воля / Рефлекс / Стойкость / КБ  
@@ -81,6 +84,12 @@ source: Player Core
 Арканная Сакральная Оккультная Природная
 
 **Божества** [[setting/deities/hylax|Хайлакс]]  
+**Божества** [[setting/deities/the-devourer|Пожиратель]]  
+**Божества** [[setting/deities/lao-shu-po|Лао Шу По]]  
+**Божества** [[setting/deities/triune|Триединый]]  
+**Божества** [[setting/deities/lambatuin|Ламбатуин]]  
+
+**Стоимость**
 
 (альтернативы)
 
@@ -97,6 +106,8 @@ source: Player Core
 немагический объект легкой Массы или менее
 1 оружие удерживаемое вами или готовым союзником
 1 живое существо или 1 готовая нежить
+1 эффект заклинания или ничейный магический предмет
+самоцвет, стоимостью 60 кредитов и более
 
 **Продолжительность**
 1 или более раундов  
@@ -115,11 +126,15 @@ varies (различается)
 
 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]]
 [[rules/activities/basic-actions/specialty-basic-actions/sustain|Поддерживать (Sustain) ◆]]
+[[rules/player core/chapter-8-playing-the-game#Сопротивление (Resistance)|сопротивление]]
 [[rules/player core/chapter-8-playing-the-game#Слабость (Weakness)|слабость]]
 [[rules/conditions/enfeebled|ослаблен]]
 [[rules/conditions/off-guard|застигнута врасплох]]
 [[rules/conditions/prone|ничком]]
-
+[[rules/player core/chapter-8-playing-the-game#Ночное зрение и Сильное ночное зрение (Darkvision and Greater Darkvision)|ночным зрением]]
+[[rules/player core/chapter-8-playing-the-game#Противодействие (Counteracting)|противодействовать]]
+[[rules/player core/chapter-8-playing-the-game#Ночное зрение и Сильное ночное зрение (Darkvision and Greater Darkvision)|ночное зрение]]
+[[rules/player core/chapter-8-playing-the-game#Простые спасброски (Basic Saving Throws)|простым]]
 **Усиление (+1)**
 
 
@@ -140,4 +155,5 @@ varies (различается)
 ## туду
 
 - [ ] добавить пробелы на странице со всеми заклинаниями одного вида
+- [ ] пройти по всем заклинаниям, проверить поле "Цель" и "Цели". Там где то надо вставить "Цель", вместо "Цель"
 

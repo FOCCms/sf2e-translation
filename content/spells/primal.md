@@ -64,3 +64,41 @@ title: Природные (Primal)
 [[spells/all-spells/tailwind|Попутный ветер (Tailwind)]] <sup>У</sup> - Увеличивает вашу Скорость на час.  
 [[spells/all-spells/thunderstrike|Удар грома (Thunderstrike)]] - Призывает грохочущий удар молнии.  
 [[spells/all-spells/wisp-ally|Огонёк-союзник (Wisp Ally)]] <sup>У</sup> - Огонёк парящего света отвлекает ваших врагов.  
+### 2-й ранг
+
+[[spells/all-spells/acid-grip|Кислотная хватка (Acid Grip)]] <sup>У</sup> - Перемещает и ранит противника кислотной рукой.  
+[[spells/all-spells/animal-form|Форма животного (Animal Form)]] <sup>У</sup> - Превращает в опасное животное.  
+[[spells/all-spells/blazing-bolt|Пылающий разряд (Blazing Bolt)]] <sup>У</sup> - Запустите от одного до трёх пылающих разрядов по разным противникам.  
+[[spells/all-spells/caustic-conversion|Едкое растворение (Caustic Conversion)]] <sup>У</sup> - Отправляет наниты, чтобы растворить вашу цель.  
+[[spells/all-spells/cleanse-affliction|Снять недуг (Cleanse Affliction)]] <sup>У</sup> - Избавиться от проклятия, болезни или яда.  
+[[spells/all-spells/clear-mind|Очистить разум (Clear Mind)]] <sup>У</sup> - Противодействовать бегству, напуганности, одурманиванию и подобным состояниям.  
+[[spells/all-spells/create-food|Создание еды (Create Food)]] <sup>У</sup> - Накормите нескольких существ наколдованной едой.  
+[[spells/all-spells/darkness|Тьма (Darkness)]] <sup>У</sup> -  Подавляет весь свет в области.  
+[[spells/all-spells/darkvision|Ночное зрение (Darkvision)]] <sup>У</sup> - Позволяет видеть во тьме.  
+[[spells/all-spells/deafness|Глухота (Deafness)]] - Делает существо глухим.  
+[[spells/all-spells/dispel-magic|Рассеять магию (Dispel Magic)]] - Завершает заклинание или подавляет магию предмета.  
+[[spells/all-spells/enlarge|Увеличение (Enlarge)]] <sup>У</sup> - Существо увеличивается в размере.  
+[[spells/all-spells/entangling-flora|Опутывающая флора (Entangling Flora)]] - Вызовите рост растений, чтобы затруднить передвижение в области.  
+[[spells/all-spells/environmental-endurance|Экологическая устойчивость (Environmental Endurance)]] <sup>У</sup> - Защитите существо от сильного холода или жары.  
+[[spells/all-spells/everlight|Вечносвет (Everlight)]] - Заставьте самоцвет светиться вечно.  
+[[spells/all-spells/floating-flame|Парящее пламя (Floating Flame)]] - Призывает пламя, которое двигается по вашей команде.  
+[[spells/all-spells/humanoid-form|Форма гуманоида (Humanoid Form)]] <sup>У</sup> - Принимаете форму гуманоида.  
+[[spells/all-spells/mist|Туман (Mist)]] - Скрывает существ в облаке тумана.  
+[[spells/all-spells/oaken-resilience|Дубовая устойчивость (Oaken Resilience)]] <sup>У</sup> - Наделите стойкостью и воспламеняемостью дерева.  
+[[spells/all-spells/one-with-plants|Единство с растениями (One with Plants)]] - Слиться с растением или превратиться в него.  
+[[spells/all-spells/peaceful-rest|Мирный покой (Peaceful Rest)]] <sup>У</sup> - Тело не разлагается и не может стать нежитью.  
+[[spells/all-spells/resist-energy|Сопротивление энергии (Resist Energy)]] <sup>У</sup> - Защищает существо от одного типа энергетического урона.  
+[[spells/all-spells/revealing-light|Раскрывающий свет (Revealing Light)]] - Ослепительный свет противостоит невидимости и скрытости.  
+[[spells/all-spells/shape-wood|Сформировать древесину (Shape Wood)]] - Изменяет форму необработанной древесины по вашему выбору.  
+[[spells/all-spells/shatter|Разбивающий звук (Shatter)]] <sup>У</sup> - Разбивает объект высокочастотной звуковой атакой.  
+[[spells/all-spells/shrink|Уменьшить (Shrink)]] <sup>У</sup> - Уменьшает готовое существо до крошечного размера.  
+[[spells/all-spells/soul-surge|Душевный всплеск (Soul Surge)]] <sup>У</sup> - Вы направляете свою жизненную силу в копье энергии.  
+[[spells/all-spells/sound-body|Здоровое тело (Sound Body)]] <sup>У</sup> - Противодействуйте слепоте, ослеплению, глухоте, ослаблению, тошноте и подобным состояниям.  
+[[spells/all-spells/speak-with-animals|Разговор с животными (Speak with Animals)]] - Общаетесь с животными.  
+[[spells/all-spells/status|Состояние (Status)]] <sup>У</sup> - Следит за местоположением готового существа и его благополучием.  
+[[spells/all-spells/summon-elemental|Призыв элементаля (Summon Elemental)]] - Призывает элементаля, который сражается за вас.  
+[[spells/all-spells/sure-footing|Твёрдая поступь (Sure Footing)]] <sup>У</sup> - Противодействуйте неуклюжести, схваченности, параличу и подобным состояниям.  
+[[spells/all-spells/verdant-code|Цветущий код (Verdant Code)]] - Заставьте растительность прорасти из компьютера и затруднить область вокруг него.  
+[[spells/all-spells/void-seed|Семя Пустоты (Void Seed)]] <sup>У</sup> - Цель теперь исцеляется пустотой и получает урон от жизненной энергии.  
+[[spells/all-spells/water-breathing|Дыхание под водой (Water Breathing)]] <sup>У</sup> - Позволяет существам дышать под водой.  
+[[spells/all-spells/water-walk|Хождение по воде (Water Walk)]] <sup>У</sup> - Поддерживает существо, так что оно может ходить по воде.  
