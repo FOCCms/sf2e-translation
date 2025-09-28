@@ -51,7 +51,7 @@ source: Player Core
 [[rules/traits/olfactory|Обонятельный]]
 [[rules/traits/plant|Растение]]
 [[rules/traits/polymorph|Превращение]]
-[[rules/traits/sanctified|Инвеститурный]]
+[[rules/traits/sanctified|Освящённый]]
 [[rules/traits/sleep|Сон]]
 [[rules/traits/sonic|Звук]]
 [[rules/traits/spirit|Дух]]
@@ -72,9 +72,9 @@ source: Player Core
 ```
 **Источник** Player Core  
 **Тип** Заклинание  
-**Ранг** 2  
+**Ранг** 3  
 **Сотворение** ◆◆  
-**Традиции** Природная  
+**Традиции** Сакральная Оккультная Природная  
 **Дистанция** 30 футов  
 **Цели** 1 существо  
 **Защита** простой / Воля / Рефлекс / Стойкость / КБ  
@@ -88,6 +88,10 @@ source: Player Core
 **Божества** [[setting/deities/lao-shu-po|Лао Шу По]]  
 **Божества** [[setting/deities/triune|Триединый]]  
 **Божества** [[setting/deities/lambatuin|Ламбатуин]]  
+**Божества** [[setting/deities/talavet|Талавет]]  
+**Божества** [[setting/deities/damoritosh|Даморитош]]  
+**Божества** [[setting/deities/pharasma|Фаразма]]  
+**Божества** [[setting/deities/meyel|Мейель]]  
 
 **Стоимость**
 
@@ -108,6 +112,7 @@ source: Player Core
 1 живое существо или 1 готовая нежить
 1 эффект заклинания или ничейный магический предмет
 самоцвет, стоимостью 60 кредитов и более
+1 существо или объект с признаком [[rules/traits/tech|техно]]
 
 **Продолжительность**
 1 или более раундов  
@@ -132,9 +137,15 @@ varies (различается)
 [[rules/conditions/off-guard|застигнута врасплох]]
 [[rules/conditions/prone|ничком]]
 [[rules/player core/chapter-8-playing-the-game#Ночное зрение и Сильное ночное зрение (Darkvision and Greater Darkvision)|ночным зрением]]
-[[rules/player core/chapter-8-playing-the-game#Противодействие (Counteracting)|противодействовать]]
 [[rules/player core/chapter-8-playing-the-game#Ночное зрение и Сильное ночное зрение (Darkvision and Greater Darkvision)|ночное зрение]]
+[[rules/player core/chapter-8-playing-the-game#Противодействие (Counteracting)|противодействовать]]
 [[rules/player core/chapter-8-playing-the-game#Простые спасброски (Basic Saving Throws)|простым]]
+[[rules/player core/chapter-8-playing-the-game#Иммунитет (Immunity)|иммунитет]]
+[[rules/player core/chapter-8-playing-the-game#Точный урон (Precision Damage)|точному урону]]
+
+[[rules/player core/chapter-8-playing-the-game#Нюх (Scent)|нюх]]
+[[rules/player core/chapter-8-playing-the-game#Неточные чувства (Imprecise Senses)|неточное чувство]]
+
 **Усиление (+1)**
 
 

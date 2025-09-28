@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Божественное копьё (Divine Lance)
 
-[[rules/traits/attack|Атака]] [[rules/traits/cantrip|Чары]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Инвеститурный]] [[rules/traits/spirit|Дух]]
+[[rules/traits/attack|Атака]] [[rules/traits/cantrip|Чары]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Освящённый]] [[rules/traits/spirit|Дух]]
 
 **Источник** Player Core  
 **Тип** Чары  

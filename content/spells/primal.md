@@ -102,3 +102,27 @@ title: Природные (Primal)
 [[spells/all-spells/void-seed|Семя Пустоты (Void Seed)]] <sup>У</sup> - Цель теперь исцеляется пустотой и получает урон от жизненной энергии.  
 [[spells/all-spells/water-breathing|Дыхание под водой (Water Breathing)]] <sup>У</sup> - Позволяет существам дышать под водой.  
 [[spells/all-spells/water-walk|Хождение по воде (Water Walk)]] <sup>У</sup> - Поддерживает существо, так что оно может ходить по воде.  
+
+### 3-й ранг
+
+[[spells/all-spells/blindness|Слепота (Blindness)]] - Поражает цель слепотой.  
+[[spells/all-spells/discharge|Разрядка (Discharge)]] - Разряжайте техно существ и предметы.  
+[[spells/all-spells/earthbind|Земные оковы (Earthbind)]] - Опускает летающее существо на землю.  
+[[spells/all-spells/electrotether|Электропуты (Electrotether)]] <sup>У</sup> - Манипулируйте электромагнитными силами, воздействующими на цель, притягивая ее ближе и нанося урон электричеством.  
+[[spells/all-spells/feline-senses|Кошачье чутьё (Feline Senses)]] <sup>У</sup> - Чувства цели улучшаются благодаря кошачьим ушам, глазам и усам.  
+[[spells/all-spells/fireball|Огненный шар (Fireball)]] <sup>У</sup> - Взрыв огня в области сжигает существ.  
+[[spells/all-spells/haste|Ускорение (Haste)]] <sup>У</sup> - Ускоряет существо, так что оно может чаще атаковать или двигаться.  
+[[spells/all-spells/holy-light|Святой свет (Holy Light)]] <sup>У</sup> - Луч пылающего света наносит дополнительный урон демонам и другим нечестивым существам.  
+[[spells/all-spells/insect-form|Форма насекомого (Insect Form)]] <sup>У</sup> - Превращает в опасное гигантское насекомое.  
+[[spells/all-spells/irradiate|Облучить (Irradiate)]] <sup>У</sup> - Создаёт всплеск магически усиленной радиации.  
+[[spells/all-spells/life-seal|Печать жизни (Life Seal)]] <sup>У</sup> - Защитите существо от вредных воздействий окружающей среды.  
+[[spells/all-spells/lightning-bolt|Удар молнии (Lightning Bolt)]] <sup>У</sup> - Молния ударяет всех существ в линии.  
+[[spells/all-spells/one-with-stone|Единство с камнем (One with Stone)]] - Слиться с камнем или превратиться в него.  
+[[spells/all-spells/personal-gravity|Личная гравитация (Personal Gravity)]] - Измените воздействие гравитации на вас.  
+[[spells/all-spells/skyfire-wings|Плазменные крылья (Skyfire Wings)]] <sup>У</sup> - Ваши руки становятся пылающими крыльями.  
+[[spells/all-spells/slow|Замедление (Slow)]] <sup>У</sup> - Замедляет существо, уменьшая количество его действий.  
+[[spells/all-spells/times-edge|Острие времени (Time's Edge)]] <sup>У</sup> - Наносите рубящий урон, пока цели ужасно стареют в узкой области луча.  
+[[spells/all-spells/veil-of-privacy|Завеса приватности (Veil of Privacy)]] <sup>Н</sup> - Защищает существо или объект от магического обнаружения.  
+[[spells/all-spells/wall-of-thorns|Терновая стена (Wall of Thorns)]] <sup>У</sup> - Выращивает стену колючих лиан.  
+[[spells/all-spells/wall-of-wind|Стена ветра (Wall of Wind)]] - Создаёт стену порывистого ветра, которая мешает движению и дистанционным атакам.  
+

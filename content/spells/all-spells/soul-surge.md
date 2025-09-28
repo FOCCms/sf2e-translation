@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Душевный всплеск (Soul Surge)
 
-[[rules/traits/attack|Атака]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Инвеститурный]] [[rules/traits/spirit|Дух]]
+[[rules/traits/attack|Атака]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Освящённый]] [[rules/traits/spirit|Дух]]
 
 **Источник** Player Core  
 **Тип** Заклинание  

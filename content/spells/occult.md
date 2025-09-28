@@ -116,3 +116,33 @@ Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.
 [[spells/all-spells/temporal-bullets|Временные пули (Temporal Bullets)]] - Перемотайте время назад, чтобы нанести урон промахнувшейся атакой.  
 [[spells/all-spells/translate|Перевод (Translate)]] <sup>У</sup> - Предоставляет понимание языка одному существу.  
 [[spells/all-spells/vibe-check|Вайб чек (Vibe Check)]] <sup>У</sup> - Внедрите психически интенсивные эмоции в цель, заставляя её реагировать по-разному.  
+
+### 3-й ранг
+
+[[spells/all-spells/bind-undead|Захватить нежить (Bind Undead)]] - Берете неразумную нежить под свое управление.  
+[[spells/all-spells/blindness|Слепота (Blindness)]] - Поражает цель слепотой.  
+[[spells/all-spells/clairaudience|Яснослышание (Clairaudience)]] - Слушать через невидимое магическое ухо.  
+[[spells/all-spells/cozy-crashpad|Уютная хижина (Cozy Crashpad)]] - Создает временную хижину, защищающую от стихий.  
+[[spells/all-spells/electrotether|Электропуты (Electrotether)]] <sup>У</sup> - Манипулируйте электромагнитными силами, воздействующими на цель, притягивая ее ближе и нанося урон электричеством.  
+[[spells/all-spells/enthrall|Захватывающая речь (Enthrall)]] - Ваша речь завораживает существ.  
+[[spells/all-spells/entropy-strike|Удар энтропии (Entropy Strike)]] <sup>У</sup> - Выстрелить лучом, который разлагает материю.  
+[[spells/all-spells/ghost-killer-weapon|Оружие убийцы призраков (Ghost Killer Weapon)]] - Заставляет оружие воздействовать на бестелесных существ.  
+[[spells/all-spells/haste|Ускорение (Haste)]] <sup>У</sup> - Ускоряет существо, так что оно может чаще атаковать или двигаться.  
+[[spells/all-spells/heroism|Героизм (Heroism)]] <sup>У</sup> - Подстегивает внутренний героизм существа, чтобы сделать его более умелым.  
+[[spells/all-spells/holographic-memory|Голографическая память (Holographic Memory)]] <sup>Н</sup> - Вы извлекаете воспоминание из цели и воспроизводите его в виде голографического видения.  
+[[spells/all-spells/hypercognition|Гиперкогнитивность (Hypercognition)]] - Мгновенно вспоминаете огромное количество информации.  
+[[spells/all-spells/hypnotize|Загипнотизировать (Hypnotize)]] - Меняющиеся цвета ослепляют и завораживают существ.  
+[[spells/all-spells/levitate|Левитация (Levitate)]] - Подымает объект или существо на несколько футов над землей.  
+[[spells/all-spells/locate|Обнаружение (Locate)]] <sup>У, Н</sup> - Узнаёте направление к объекту.  
+[[spells/all-spells/mind-reading|Чтение разума (Mind Reading)]] <sup>Н</sup> - Читает поверхностные мысли существа.  
+[[spells/all-spells/paralyze|Паралич (Paralyze)]] <sup>У</sup> - Замораживает существо на месте.  
+[[spells/all-spells/personal-gravity|Личная гравитация (Personal Gravity)]] - Измените воздействие гравитации на вас.  
+[[spells/all-spells/selective-invisibility|Избирательная невидимость (Selective Invisibility)]] <sup>У</sup> - Цель становится невидимой почти для всех.  
+[[spells/all-spells/share-pain|Поделиться болью (Share Pain)]] <sup>У</sup> - Поделитесь с целью чувством мучительной боли, нанося ей ментальный урон.
+[[spells/all-spells/skyfire-wings|Плазменные крылья (Skyfire Wings)]] <sup>У</sup> - Ваши руки становятся пылающими крыльями.  
+[[spells/all-spells/slow|Замедление (Slow)]] <sup>У</sup> - Замедляет существо, уменьшая количество его действий.  
+[[spells/all-spells/speak-with-plants|Разговор с растениями (Speak with Plants)]] <sup>У</sup> - Общаетесь с растениями и растительными существами.
+[[spells/all-spells/times-edge|Острие времени (Time's Edge)]] <sup>У</sup> - Наносите рубящий урон, пока цели ужасно стареют в узкой области луча.  
+[[spells/all-spells/vampiric-feast|Вампирское пиршество (Vampiric Feast)]] <sup>У</sup> - Наносит касанием негативный урон и дает временные ОЗ.  
+[[spells/all-spells/veil-of-privacy|Завеса приватности (Veil of Privacy)]] <sup>Н</sup> - Защищает существо или объект от магического обнаружения.  
+[[spells/all-spells/void-whispers|Шепот Пустоты (Void Whispers)]] - Потусторонние голоса раскрывают секреты, которые сбивают с толку.  

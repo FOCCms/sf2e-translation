@@ -10,7 +10,7 @@ title: Сакральные (Divine)
 [[spells/all-spells/analyze-target|Анализ цели (Analyze Target)]] <sup>У</sup> - Собирайте информацию о базовой физиологии цели.  
 [[spells/all-spells/daze|Ступор (Daze)]]  <sup>У</sup> - Затуманьте разум существа и, возможно, оглушите его.  
 [[spells/all-spells/detect-magic|Обнаружение магии (Detect Magic)]] <sup>У</sup> - Определите, есть ли поблизости магия.  
-[[spells/all-spells/divine-lance|Божественное копьё (Divine Lance)]] <sup>У</sup> - Выпускает божественную энергию, которая наносит урон духу.  
+[[spells/all-spells/divine-lance|Божественное копьё (Divine Lance)]] <sup>У</sup> - Выпускает божественную энергию, которая наносит урон духа.  
 [[spells/all-spells/eldritch-lance|Потустороннее копьё (Eldritch Lance)]] <sup>У</sup> - Высвободите потусторонний ментальный урон по цели.  
 [[spells/all-spells/forbidding-ward|Запрещающая защита (Forbidding Ward)]] <sup>У</sup> - Защитите союзника от одного конкретного врага.  
 [[spells/all-spells/guidance|Наставление (Guidance)]] - Божественное наставление улучшает один бросок.  
@@ -94,3 +94,22 @@ title: Сакральные (Divine)
 [[spells/all-spells/water-breathing|Дыхание под водой (Water Breathing)]] <sup>У</sup> - Позволяет существам дышать под водой.  
 [[spells/all-spells/water-walk|Хождение по воде (Water Walk)]] <sup>У</sup> - Поддерживает существо, так что оно может ходить по воде.  
 
+### 3-й ранг
+
+[[spells/all-spells/bind-undead|Захватить нежить (Bind Undead)]] - Берете неразумную нежить под свое управление.  
+[[spells/all-spells/blindness|Слепота (Blindness)]] - Поражает цель слепотой.  
+[[spells/all-spells/chilling-darkness|Леденящая тьма (Chilling Darkness)]] <sup>У</sup> - Луч зловещей тьмы наносит урон холодом, противодействует свету и наносит раны святым целям.  
+[[spells/all-spells/crisis-of-faith|Кризис веры (Crisis of Faith)]] <sup>У</sup> - Причиняет ментальный урон и может лишить верующего способности колдовать.  
+[[spells/all-spells/electrotether|Электропуты (Electrotether)]] <sup>У</sup> - Манипулируйте электромагнитными силами, воздействующими на цель, притягивая ее ближе и нанося урон электричеством.  
+[[spells/all-spells/entropy-strike|Удар энтропии (Entropy Strike)]] <sup>У</sup> - Выстрелить лучом, который разлагает материю.  
+[[spells/all-spells/feline-senses|Кошачье чутьё (Feline Senses)]] <sup>У</sup> - Чувства цели улучшаются благодаря кошачьим ушам, глазам и усам.  
+[[spells/all-spells/heroism|Героизм (Heroism)]] <sup>У</sup> - Подстегивает внутренний героизм существа, чтобы сделать его более умелым.  
+[[spells/all-spells/holographic-memory|Голографическая память (Holographic Memory)]] <sup>Н</sup> - Вы извлекаете воспоминание из цели и воспроизводите его в виде голографического видения.  
+[[spells/all-spells/holy-light|Святой свет (Holy Light)]] <sup>У</sup> - Луч пылающего света наносит дополнительный урон демонам и другим нечестивым существам.  
+[[spells/all-spells/life-seal|Печать жизни (Life Seal)]] <sup>У</sup> - Защитите существо от вредных воздействий окружающей среды.  
+[[spells/all-spells/locate|Обнаружение (Locate)]] <sup>У, Н</sup> - Узнаёте направление к объекту.  
+[[spells/all-spells/share-pain|Поделиться болью (Share Pain)]] <sup>У</sup> - Поделитесь с целью чувством мучительной боли, нанося ей ментальный урон.
+[[spells/all-spells/skyfire-wings|Плазменные крылья (Skyfire Wings)]] <sup>У</sup> - Ваши руки становятся пылающими крыльями.  
+[[spells/all-spells/speak-with-plants|Разговор с растениями (Speak with Plants)]] <sup>У</sup> - Общаетесь с растениями и растительными существами.
+[[spells/all-spells/vampiric-feast|Вампирское пиршество (Vampiric Feast)]] <sup>У</sup> - Наносит касанием негативный урон и дает временные ОЗ.  
+[[spells/all-spells/void-whispers|Шепот Пустоты (Void Whispers)]] - Потусторонние голоса раскрывают секреты, которые сбивают с толку.  

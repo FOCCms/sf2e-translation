@@ -131,3 +131,35 @@ title: Арканные (Arcane)
 [[spells/all-spells/water-breathing|Дыхание под водой (Water Breathing)]] <sup>У</sup> - Позволяет существам дышать под водой.  
 [[spells/all-spells/water-walk|Хождение по воде (Water Walk)]] <sup>У</sup> - Поддерживает существо, так что оно может ходить по воде.  
 
+### 3-й ранг
+
+[[spells/all-spells/bind-undead|Захватить нежить (Bind Undead)]] - Берете неразумную нежить под свое управление.  
+[[spells/all-spells/blindness|Слепота (Blindness)]] - Поражает цель слепотой.  
+[[spells/all-spells/clairaudience|Яснослышание (Clairaudience)]] - Слушать через невидимое магическое ухо.  
+[[spells/all-spells/cozy-crashpad|Уютная хижина (Cozy Crashpad)]] - Создает временную хижину, защищающую от стихий.  
+[[spells/all-spells/discharge|Разрядка (Discharge)]] - Разряжайте техно существ и предметы.  
+[[spells/all-spells/earthbind|Земные оковы (Earthbind)]] - Опускает летающее существо на землю.  
+[[spells/all-spells/electrotether|Электропуты (Electrotether)]] <sup>У</sup> - Манипулируйте электромагнитными силами, воздействующими на цель, притягивая ее ближе и нанося урон электричеством.  
+[[spells/all-spells/enthrall|Захватывающая речь (Enthrall)]] - Ваша речь завораживает существ.  
+[[spells/all-spells/entropy-strike|Удар энтропии (Entropy Strike)]] <sup>У</sup> - Выстрелить лучом, который разлагает материю.  
+[[spells/all-spells/fireball|Огненный шар (Fireball)]] <sup>У</sup> - Взрыв огня в области сжигает существ.  
+[[spells/all-spells/ghost-killer-weapon|Оружие убийцы призраков (Ghost Killer Weapon)]] - Заставляет оружие воздействовать на бестелесных существ.  
+[[spells/all-spells/haste|Ускорение (Haste)]] <sup>У</sup> - Ускоряет существо, так что оно может чаще атаковать или двигаться.  
+[[spells/all-spells/hypnotize|Загипнотизировать (Hypnotize)]] - Меняющиеся цвета ослепляют и завораживают существ.  
+[[spells/all-spells/insect-form|Форма насекомого (Insect Form)]] <sup>У</sup> - Превращает в опасное гигантское насекомое.  
+[[spells/all-spells/irradiate|Облучить (Irradiate)]] <sup>У</sup> - Создаёт всплеск магически усиленной радиации.  
+[[spells/all-spells/levitate|Левитация (Levitate)]] - Подымает объект или существо на несколько футов над землей.  
+[[spells/all-spells/lightning-bolt|Удар молнии (Lightning Bolt)]] <sup>У</sup> - Молния ударяет всех существ в линии.  
+[[spells/all-spells/locate|Обнаружение (Locate)]] <sup>У, Н</sup> - Узнаёте направление к объекту.  
+[[spells/all-spells/mind-reading|Чтение разума (Mind Reading)]] <sup>Н</sup> - Читает поверхностные мысли существа.  
+[[spells/all-spells/one-with-stone|Единство с камнем (One with Stone)]] - Слиться с камнем или превратиться в него.  
+[[spells/all-spells/paralyze|Паралич (Paralyze)]] <sup>У</sup> - Замораживает существо на месте.  
+[[spells/all-spells/personal-gravity|Личная гравитация (Personal Gravity)]] - Измените воздействие гравитации на вас.  
+[[spells/all-spells/selective-invisibility|Избирательная невидимость (Selective Invisibility)]] <sup>У</sup> - Цель становится невидимой почти для всех.  
+[[spells/all-spells/skyfire-wings|Плазменные крылья (Skyfire Wings)]] <sup>У</sup> - Ваши руки становятся пылающими крыльями.  
+[[spells/all-spells/slow|Замедление (Slow)]] <sup>У</sup> - Замедляет существо, уменьшая количество его действий.  
+[[spells/all-spells/vampiric-feast|Вампирское пиршество (Vampiric Feast)]] <sup>У</sup> - Наносит касанием негативный урон и дает временные ОЗ.  
+[[spells/all-spells/veil-of-privacy|Завеса приватности (Veil of Privacy)]] <sup>Н</sup> - Защищает существо или объект от магического обнаружения.  
+[[spells/all-spells/wall-of-thorns|Терновая стена (Wall of Thorns)]] <sup>У</sup> - Выращивает стену колючих лиан.  
+[[spells/all-spells/wall-of-wind|Стена ветра (Wall of Wind)]] - Создаёт стену порывистого ветра, которая мешает движению и дистанционным атакам.  
+
