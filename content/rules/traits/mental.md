@@ -1,6 +1,7 @@
 ---
 title: Ментальный (Mental)
 ---
+
 # Ментальный (Mental)
 
 **Источник** Player Core

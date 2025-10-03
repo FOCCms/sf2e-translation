@@ -108,8 +108,26 @@ title: Сакральные (Divine)
 [[spells/all-spells/holy-light|Святой свет (Holy Light)]] <sup>У</sup> - Луч пылающего света наносит дополнительный урон демонам и другим нечестивым существам.  
 [[spells/all-spells/life-seal|Печать жизни (Life Seal)]] <sup>У</sup> - Защитите существо от вредных воздействий окружающей среды.  
 [[spells/all-spells/locate|Обнаружение (Locate)]] <sup>У, Н</sup> - Узнаёте направление к объекту.  
-[[spells/all-spells/share-pain|Поделиться болью (Share Pain)]] <sup>У</sup> - Поделитесь с целью чувством мучительной боли, нанося ей ментальный урон.
+[[spells/all-spells/share-pain|Поделиться болью (Share Pain)]] <sup>У</sup> - Поделитесь с целью чувством мучительной боли, нанося ей ментальный урон.  
 [[spells/all-spells/skyfire-wings|Плазменные крылья (Skyfire Wings)]] <sup>У</sup> - Ваши руки становятся пылающими крыльями.  
-[[spells/all-spells/speak-with-plants|Разговор с растениями (Speak with Plants)]] <sup>У</sup> - Общаетесь с растениями и растительными существами.
+[[spells/all-spells/speak-with-plants|Разговор с растениями (Speak with Plants)]] <sup>У</sup> - Общаетесь с растениями и растительными существами.  
 [[spells/all-spells/vampiric-feast|Вампирское пиршество (Vampiric Feast)]] <sup>У</sup> - Наносит касанием негативный урон и дает временные ОЗ.  
 [[spells/all-spells/void-whispers|Шепот Пустоты (Void Whispers)]] - Потусторонние голоса раскрывают секреты, которые сбивают с толку.  
+
+### 4-й ранг
+
+[[spells/all-spells/battle-sonata|Боевая соната (Battle Sonata)]] <sup>У</sup> - Наносит урон и оглушает существ диссонирующей песней.  
+[[spells/all-spells/dispelling-globe|Рассеивающий шар (Dispelling Globe)]] <sup>Н</sup> - Магическая сфера противодействует заклинаниям которые попадут в нее.  
+[[spells/all-spells/divine-wrath|Божественный гнев (Divine Wrath)]] <sup>У</sup> -  Наносите урон и ослабляйте существ, противящихся воле вашего божества.  
+[[spells/all-spells/eldritch-wrath|Потусторонний гнев (Eldritch Wrath)]] <sup>У</sup> - Направьте невыразимые силы, чтобы создать тошнотное болото ужасов.  
+[[spells/all-spells/explosion-of-rot|Взрыв гнили (Explosion of Rot)]] <sup>У</sup> - Взрыв смертельного разложения погружает область в гниль.  
+[[spells/all-spells/fly|Полёт (Fly)]] <sup>У</sup> - Дает существу Скорость полета.  
+[[spells/all-spells/genetic-regeneration|Генетическая регенерация (Genetic Regeneration)]] <sup>У</sup> - Цель регенерирует.  
+[[spells/all-spells/outcasts-curse|Проклятие изгнанника (Outcast's Curse)]] - Проклинает существо на то, чтобы быть отталкивающим и раздражающим.  
+[[spells/all-spells/planar-tether|Планарные путы (Planar Tether)]] - Держит существо на текущем плане.  
+[[spells/all-spells/read-omens|Прочесть знамения (Read Omens)]] <sup>Н</sup> - Получите совет о предстоящем мероприятии.  
+[[spells/all-spells/speak-with-computers|Разговор с компьютерами (Speak with Computers)]] <sup>У</sup> - Разговаривайте с компьютером.  
+[[spells/all-spells/talking-corpse|Говорящий труп (Talking Corpse)]] <sup>Н</sup> - Заставляет труп ответить на 3 вопроса.  
+[[spells/all-spells/unfettered-movement|Несдерживаемое перемещение (Unfettered Movement)]] - Отметаете эффекты, которые удерживают существо на месте.  
+[[spells/all-spells/vital-beacon|Живительный маяк (Vital Beacon)]] <sup>У</sup> - Излучает жизненную силу, которая исцеляет существ прикасающихся к вам.  
+[[spells/all-spells/weight-of-ages|Тяжесть веков (Weight of Ages)]] <sup>У</sup> - Отяготите цель болью и ментальным уроном, придавив её тяжестью жизни.  

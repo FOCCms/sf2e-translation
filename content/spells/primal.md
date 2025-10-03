@@ -126,3 +126,19 @@ title: Природные (Primal)
 [[spells/all-spells/wall-of-thorns|Терновая стена (Wall of Thorns)]] <sup>У</sup> - Выращивает стену колючих лиан.  
 [[spells/all-spells/wall-of-wind|Стена ветра (Wall of Wind)]] - Создаёт стену порывистого ветра, которая мешает движению и дистанционным атакам.  
 
+### 4-й ранг
+
+[[spells/all-spells/aerial-form|Воздушная форма (Aerial Form)]] <sup>У</sup> - Превращает вас в летающее существо.  
+[[spells/all-spells/cairn-form|Каменный облик (Cairn Form)]] <sup>У</sup> - Каменистая кожа усиливает наступательные и оборонительные возможности цели.  
+[[spells/all-spells/creation|Созидание (Creation)]] <sup>У</sup> - Создает временный объект.  
+[[spells/all-spells/explosion-of-rot|Взрыв гнили (Explosion of Rot)]] <sup>У</sup> - Взрыв смертельного разложения погружает область в гниль.  
+[[spells/all-spells/fire-shield|Огненный щит (Fire Shield)]] <sup>У</sup> - Огни защищают вас от холода и ранят тех кто касается вас.  
+[[spells/all-spells/fly|Полёт (Fly)]] <sup>У</sup> - Дает существу Скорость полета.  
+[[spells/all-spells/genetic-regeneration|Генетическая регенерация (Genetic Regeneration)]] <sup>У</sup> - Цель регенерирует.  
+[[spells/all-spells/hydraulic-torrent|Водный поток (Hydraulic Torrent)]] <sup>У</sup> - Отбрасывает существ назад наносящей урон линией линией воды.  
+[[spells/all-spells/mountain-resilience|Стойкость скалы (Mountain Resilience)]] <sup>У</sup> - Закалите существо, чтобы оно сопротивлялось физическим атакам.  
+[[spells/all-spells/shape-stone|Сформировать камень (Shape Stone)]] - Придает форму каменному кубу.  
+[[spells/all-spells/unfettered-movement|Несдерживаемое перемещение (Unfettered Movement)]] - Отметаете эффекты, которые удерживают существо на месте.  
+[[spells/all-spells/vapor-form|Парообразная форма (Vapor Form)]] - Превращает ваше тело в пар.  
+[[spells/all-spells/vital-beacon|Живительный маяк (Vital Beacon)]] <sup>У</sup> - Излучает жизненную силу, которая исцеляет существ прикасающихся к вам.  
+[[spells/all-spells/wall-of-fire|Стена огня (Wall of Fire)]] <sup>У</sup> - Создайте пылающую стену, которая обжигает существ, проходящих сквозь неё.  

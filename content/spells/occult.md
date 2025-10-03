@@ -138,11 +138,33 @@ Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.
 [[spells/all-spells/paralyze|Паралич (Paralyze)]] <sup>У</sup> - Замораживает существо на месте.  
 [[spells/all-spells/personal-gravity|Личная гравитация (Personal Gravity)]] - Измените воздействие гравитации на вас.  
 [[spells/all-spells/selective-invisibility|Избирательная невидимость (Selective Invisibility)]] <sup>У</sup> - Цель становится невидимой почти для всех.  
-[[spells/all-spells/share-pain|Поделиться болью (Share Pain)]] <sup>У</sup> - Поделитесь с целью чувством мучительной боли, нанося ей ментальный урон.
+[[spells/all-spells/share-pain|Поделиться болью (Share Pain)]] <sup>У</sup> - Поделитесь с целью чувством мучительной боли, нанося ей ментальный урон.  
 [[spells/all-spells/skyfire-wings|Плазменные крылья (Skyfire Wings)]] <sup>У</sup> - Ваши руки становятся пылающими крыльями.  
 [[spells/all-spells/slow|Замедление (Slow)]] <sup>У</sup> - Замедляет существо, уменьшая количество его действий.  
-[[spells/all-spells/speak-with-plants|Разговор с растениями (Speak with Plants)]] <sup>У</sup> - Общаетесь с растениями и растительными существами.
+[[spells/all-spells/speak-with-plants|Разговор с растениями (Speak with Plants)]] <sup>У</sup> - Общаетесь с растениями и растительными существами.  
 [[spells/all-spells/times-edge|Острие времени (Time's Edge)]] <sup>У</sup> - Наносите рубящий урон, пока цели ужасно стареют в узкой области луча.  
 [[spells/all-spells/vampiric-feast|Вампирское пиршество (Vampiric Feast)]] <sup>У</sup> - Наносит касанием негативный урон и дает временные ОЗ.  
 [[spells/all-spells/veil-of-privacy|Завеса приватности (Veil of Privacy)]] <sup>Н</sup> - Защищает существо или объект от магического обнаружения.  
 [[spells/all-spells/void-whispers|Шепот Пустоты (Void Whispers)]] - Потусторонние голоса раскрывают секреты, которые сбивают с толку.  
+
+### 4-й ранг
+
+[[spells/all-spells/battle-sonata|Боевая соната (Battle Sonata)]] <sup>У</sup> - Наносит урон и оглушает существ диссонирующей песней.  
+[[spells/all-spells/clairvoyance|Ясновидение (Clairvoyance)]] - Видит через невидимый магический глаз.  
+[[spells/all-spells/confusion|Замешательство (Confusion)]] <sup>У</sup> - Дурманит существо, заставляя его действовать случайным образом.  
+[[spells/all-spells/detect-scrying|Обнаружение видения (Detect Scrying)]] <sup>У, Н</sup> - Узнает действуют ли эффекты видения в области.  
+[[spells/all-spells/dispelling-globe|Рассеивающий шар (Dispelling Globe)]] <sup>Н</sup> - Магическая сфера противодействует заклинаниям которые попадут в нее.  
+[[spells/all-spells/eldritch-wrath|Потусторонний гнев (Eldritch Wrath)]] <sup>У</sup> - Направьте невыразимые силы, чтобы создать тошнотное болото ужасов.  
+[[spells/all-spells/flicker|Мерцание (Flicker)]] <sup>У</sup> - Защитите себя от большинства видов урона, хаотично телепортируясь.  
+[[spells/all-spells/fly|Полёт (Fly)]] <sup>У</sup> - Дает существу Скорость полета.  
+[[spells/all-spells/honeyed-words|Сладостные речи (Honeyed Words)]] - Сделайте даже самую невероятную ложь более правдоподобной.  
+[[spells/all-spells/nightmare|Кошмар (Nightmare)]] - Насылает на сны существа тревожные кошмары.  
+[[spells/all-spells/outcasts-curse|Проклятие изгнанника (Outcast's Curse)]] - Проклинает существо на то, чтобы быть отталкивающим и раздражающим.  
+[[spells/all-spells/peaceful-bubble|Мирный пузырь (Peaceful Bubble)]] <sup>Н</sup> - Непрозрачный пузырь предотвращает обнаружение, сны, восприятие и видение.  
+[[spells/all-spells/planar-tether|Планарные путы (Planar Tether)]] - Держит существо на текущем плане.  
+[[spells/all-spells/read-omens|Прочесть знамения (Read Omens)]] <sup>Н</sup> - Получите совет о предстоящем мероприятии.  
+[[spells/all-spells/rewrite-memory|Переписать воспоминания (Rewrite Memory)]] <sup>У, Н</sup> - Изменить, стереть или имплантировать воспоминания.  
+[[spells/all-spells/suggestion|Внушение (Suggestion)]] <sup>У</sup> - Предлагает порядок действий, которому должно следовать существо.  
+[[spells/all-spells/talking-corpse|Говорящий труп (Talking Corpse)]] <sup>Н</sup> - Заставляет труп ответить на 3 вопроса.  
+[[spells/all-spells/telepathy|Телепатия (Telepathy)]] <sup>У</sup> - Телепатически общаетесь с существами поблизости.  
+[[spells/all-spells/translocate|Транслокация (Translocate)]] <sup>У</sup> - Телепортирует на умеренное расстояние.  

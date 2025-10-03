@@ -42,7 +42,7 @@ source: Player Core
 [[rules/traits/light|Свет]]
 [[rules/traits/linguistic|Языковой]]
 [[rules/traits/manipulate|Манипуляция]]
-[[rules/traits/mental|Ментальный]]
+[[rules/traits/manipulate|Манипуляция]] [[rules/traits/mental|Ментальный]]
 [[rules/traits/metal|Металл]]
 [[rules/traits/misfortune|Неудача]]
 [[rules/traits/morph|Трансформация]]
@@ -51,7 +51,9 @@ source: Player Core
 [[rules/traits/olfactory|Обонятельный]]
 [[rules/traits/plant|Растение]]
 [[rules/traits/polymorph|Превращение]]
+[[rules/traits/prediction|Предсказание]]
 [[rules/traits/sanctified|Освящённый]]
+[[rules/traits/scrying|Видение]]
 [[rules/traits/sleep|Сон]]
 [[rules/traits/sonic|Звук]]
 [[rules/traits/spirit|Дух]]
@@ -72,16 +74,18 @@ source: Player Core
 ```
 **Источник** Player Core  
 **Тип** Заклинание  
-**Ранг** 3  
+**Ранг** 4  
 **Сотворение** ◆◆  
-**Традиции** Сакральная Оккультная Природная  
+**Традиции** Оккультная Природная  
 **Дистанция** 30 футов  
 **Цели** 1 существо  
-**Защита** простой / Воля / Рефлекс / Стойкость / КБ  
-**Продолжительность** 1 раунд  
+**Защита** Воля  
+**Продолжительность** 1 минута  
 ```
 
 Арканная Сакральная Оккультная Природная
+
+
 
 **Божества** [[setting/deities/hylax|Хайлакс]]  
 **Божества** [[setting/deities/the-devourer|Пожиратель]]  
@@ -96,6 +100,8 @@ source: Player Core
 **Стоимость**
 
 (альтернативы)
+
+**Защита** простой / Воля / Рефлекс / Стойкость / КБ  
 
 **Дистанция** касание  
 различается
@@ -128,10 +134,9 @@ source: Player Core
 varies (различается)
 1 минута или до применения
 
-
+[[rules/player core/chapter-8-playing-the-game#Укрытие (Cover)|укрытие]]
 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]]
 [[rules/activities/basic-actions/specialty-basic-actions/sustain|Поддерживать (Sustain) ◆]]
-[[rules/player core/chapter-8-playing-the-game#Сопротивление (Resistance)|сопротивление]]
 [[rules/player core/chapter-8-playing-the-game#Слабость (Weakness)|слабость]]
 [[rules/conditions/enfeebled|ослаблен]]
 [[rules/conditions/off-guard|застигнута врасплох]]
@@ -141,7 +146,9 @@ varies (различается)
 [[rules/player core/chapter-8-playing-the-game#Противодействие (Counteracting)|противодействовать]]
 [[rules/player core/chapter-8-playing-the-game#Простые спасброски (Basic Saving Throws)|простым]]
 [[rules/player core/chapter-8-playing-the-game#Иммунитет (Immunity)|иммунитет]]
+[[rules/player core/chapter-8-playing-the-game#Сопротивление (Resistance)|сопротивление]]
 [[rules/player core/chapter-8-playing-the-game#Точный урон (Precision Damage)|точному урону]]
+[[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложной местностью]]
 
 [[rules/player core/chapter-8-playing-the-game#Нюх (Scent)|нюх]]
 [[rules/player core/chapter-8-playing-the-game#Неточные чувства (Imprecise Senses)|неточное чувство]]

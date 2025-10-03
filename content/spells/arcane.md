@@ -163,3 +163,29 @@ title: Арканные (Arcane)
 [[spells/all-spells/wall-of-thorns|Терновая стена (Wall of Thorns)]] <sup>У</sup> - Выращивает стену колючих лиан.  
 [[spells/all-spells/wall-of-wind|Стена ветра (Wall of Wind)]] - Создаёт стену порывистого ветра, которая мешает движению и дистанционным атакам.  
 
+### 4-й ранг
+
+[[spells/all-spells/aerial-form|Воздушная форма (Aerial Form)]] <sup>У</sup> - Превращает вас в летающее существо.  
+[[spells/all-spells/cairn-form|Каменный облик (Cairn Form)]] <sup>У</sup> - Каменистая кожа усиливает наступательные и оборонительные возможности цели.  
+[[spells/all-spells/clairvoyance|Ясновидение (Clairvoyance)]] - Видит через невидимый магический глаз.  
+[[spells/all-spells/confusion|Замешательство (Confusion)]] <sup>У</sup> - Дурманит существо, заставляя его действовать случайным образом.  
+[[spells/all-spells/creation|Созидание (Creation)]] <sup>У</sup> - Создает временный объект.  
+[[spells/all-spells/detect-scrying|Обнаружение видения (Detect Scrying)]] <sup>У, Н</sup> - Узнает действуют ли эффекты видения в области.  
+[[spells/all-spells/dispelling-globe|Рассеивающий шар (Dispelling Globe)]] <sup>Н</sup> - Магическая сфера противодействует заклинаниям которые попадут в нее.  
+[[spells/all-spells/fire-shield|Огненный щит (Fire Shield)]] <sup>У</sup> - Огни защищают вас от холода и ранят тех кто касается вас.  
+[[spells/all-spells/flicker|Мерцание (Flicker)]] <sup>У</sup> - Защитите себя от большинства видов урона, хаотично телепортируясь.  
+[[spells/all-spells/fly|Полёт (Fly)]] <sup>У</sup> - Дает существу Скорость полета.  
+[[spells/all-spells/mountain-resilience|Стойкость скалы (Mountain Resilience)]] <sup>У</sup> - Закалите существо, чтобы оно сопротивлялось физическим атакам.  
+[[spells/all-spells/nightmare|Кошмар (Nightmare)]] - Насылает на сны существа тревожные кошмары.  
+[[spells/all-spells/outcasts-curse|Проклятие изгнанника (Outcast's Curse)]] - Проклинает существо на то, чтобы быть отталкивающим и раздражающим.  
+[[spells/all-spells/peaceful-bubble|Мирный пузырь (Peaceful Bubble)]] <sup>Н</sup> - Непрозрачный пузырь предотвращает обнаружение, сны, восприятие и видение.  
+[[spells/all-spells/planar-tether|Планарные путы (Planar Tether)]] - Держит существо на текущем плане.  
+[[spells/all-spells/shape-stone|Сформировать камень (Shape Stone)]] - Придает форму каменному кубу.  
+[[spells/all-spells/speak-with-computers|Разговор с компьютерами (Speak with Computers)]] <sup>У</sup> - Разговаривайте с компьютером.  
+[[spells/all-spells/suggestion|Внушение (Suggestion)]] <sup>У</sup> - Предлагает порядок действий, которому должно следовать существо.  
+[[spells/all-spells/telepathy|Телепатия (Telepathy)]] <sup>У</sup> - Телепатически общаетесь с существами поблизости.  
+[[spells/all-spells/translocate|Транслокация (Translocate)]] <sup>У</sup> - Телепортирует на умеренное расстояние.  
+[[spells/all-spells/unfettered-movement|Несдерживаемое перемещение (Unfettered Movement)]] - Отметаете эффекты, которые удерживают существо на месте.  
+[[spells/all-spells/vapor-form|Парообразная форма (Vapor Form)]] - Превращает ваше тело в пар.  
+[[spells/all-spells/vision-of-death|Видение смерти (Vision of Death)]] <sup>У</sup> - Покажите цели видение её собственной смерти, вызывая страх и нанося ментальный урон.  
+[[spells/all-spells/wall-of-fire|Стена огня (Wall of Fire)]] <sup>У</sup> - Создайте пылающую стену, которая обжигает существ, проходящих сквозь неё.  
