@@ -13,6 +13,7 @@ source: Player Core
 
 ```
 
+[[rules/traits/uncommon|Необычный]]
 ### Признаки
 
 [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]]
@@ -66,17 +67,14 @@ source: Player Core
 [[rules/traits/wood|Дерево]]
 
 [[rules/traits/plant|Растение]] [[rules/traits/wood|Дерево]]
-
-[[rules/traits/uncommon|Необычный]]
-
 ### Свойства
 
 ```
 **Источник** Player Core  
 **Тип** Заклинание  
-**Ранг** 4  
+**Ранг** 5  
 **Сотворение** ◆◆  
-**Традиции** Оккультная Природная  
+**Традиции** Природная  
 **Дистанция** 30 футов  
 **Цели** 1 существо  
 **Защита** Воля  
@@ -90,8 +88,8 @@ source: Player Core
 **Божества** [[setting/deities/hylax|Хайлакс]]  
 **Божества** [[setting/deities/the-devourer|Пожиратель]]  
 **Божества** [[setting/deities/lao-shu-po|Лао Шу По]]  
-**Божества** [[setting/deities/triune|Триединый]]  
 **Божества** [[setting/deities/lambatuin|Ламбатуин]]  
+**Божества** [[setting/deities/triune|Триединый]]  
 **Божества** [[setting/deities/talavet|Талавет]]  
 **Божества** [[setting/deities/damoritosh|Даморитош]]  
 **Божества** [[setting/deities/pharasma|Фаразма]]  
@@ -102,11 +100,13 @@ source: Player Core
 (альтернативы)
 
 **Защита** простой / Воля / Рефлекс / Стойкость / КБ  
+простой Рефлекс или Воля (по выбору цели)  
 
 **Дистанция** касание  
 различается
+планетарная
 
-**Область** 200-футовая эманация  
+**Область** 20-футовая эманация  
 15-футовый конус
 30-футовая линия
 20-футовый взрыв
@@ -137,6 +137,7 @@ varies (различается)
 [[rules/player core/chapter-8-playing-the-game#Укрытие (Cover)|укрытие]]
 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]]
 [[rules/activities/basic-actions/specialty-basic-actions/sustain|Поддерживать (Sustain) ◆]]
+[[rules/player core/chapter-8-playing-the-game#Сопротивление (Resistance)|сопротивление]]
 [[rules/player core/chapter-8-playing-the-game#Слабость (Weakness)|слабость]]
 [[rules/conditions/enfeebled|ослаблен]]
 [[rules/conditions/off-guard|застигнута врасплох]]
@@ -146,7 +147,7 @@ varies (различается)
 [[rules/player core/chapter-8-playing-the-game#Противодействие (Counteracting)|противодействовать]]
 [[rules/player core/chapter-8-playing-the-game#Простые спасброски (Basic Saving Throws)|простым]]
 [[rules/player core/chapter-8-playing-the-game#Иммунитет (Immunity)|иммунитет]]
-[[rules/player core/chapter-8-playing-the-game#Сопротивление (Resistance)|сопротивление]]
+
 [[rules/player core/chapter-8-playing-the-game#Точный урон (Precision Damage)|точному урону]]
 [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложной местностью]]
 
@@ -172,6 +173,7 @@ varies (различается)
 
 ## туду
 
-- [ ] добавить пробелы на странице со всеми заклинаниями одного вида
-- [ ] пройти по всем заклинаниям, проверить поле "Цель" и "Цели". Там где то надо вставить "Цель", вместо "Цель"
+- [x] добавить пробелы на странице со всеми заклинаниями одного вида
+- [ ] пройти по всем заклинаниям, проверить поле "Цель" и "Цели". Везде поставить "Цели"
+- [ ] Пройти по всем заклинаниям формы (форма животного, растения и т.д. и поправить текст. там везде разные мелкие косяки)
 

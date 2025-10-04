@@ -53,7 +53,7 @@ title: Природные (Primal)
 [[spells/all-spells/hydraulic-push|Водный толчок (Hydraulic Push)]] <sup>У</sup> - Наносит урон и толкает существо ударом воды.  
 [[spells/all-spells/jump|Прыжок (Jump)]] <sup>У</sup> - Совершаете впечатляющий прыжок.  
 [[spells/all-spells/mending|Починка (Mending)]] <sup>У</sup> - Чинит один немагический предмет.  
-[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магическим доспехом.  
+[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магической бронёй.  
 [[spells/all-spells/overheat|Перегрев (Overheat)]] <sup>У</sup> - Нагреваете существо и удерживаемые им предметы.  
 [[spells/all-spells/pest-form|Форма вредителя (Pest Form)]] <sup>У</sup> - Превратитесь в неопасное животное.  
 [[spells/all-spells/pummeling-rubble|Бьющие обломки (Pummeling Rubble)]] <sup>У</sup> - Запускает конус камней, чтобы нанести урон существам.  
@@ -142,3 +142,22 @@ title: Природные (Primal)
 [[spells/all-spells/vapor-form|Парообразная форма (Vapor Form)]] - Превращает ваше тело в пар.  
 [[spells/all-spells/vital-beacon|Живительный маяк (Vital Beacon)]] <sup>У</sup> - Излучает жизненную силу, которая исцеляет существ прикасающихся к вам.  
 [[spells/all-spells/wall-of-fire|Стена огня (Wall of Fire)]] <sup>У</sup> - Создайте пылающую стену, которая обжигает существ, проходящих сквозь неё.  
+
+### 5-й ранг
+
+[[spells/all-spells/banishment|Изгнание (Banishment)]] <sup>У</sup> - Отправляет существо обратно на его родной план.  
+[[spells/all-spells/carcinization|Карцинизация (Carcinization)]] - Превращает цель в краба.  
+[[spells/all-spells/Elemental Form|Форма элементаля (Elemental Form)]] <sup>У</sup> - Превращает в элементаля.  
+[[spells/all-spells/howling-blizzard|Воющая метель (Howling Blizzard)]] <sup>У</sup> - Заполните конус или взрыв морозным ветром и сугробами.  
+[[spells/all-spells/impaling-spike|Пронзающий шип (Impaling Spike)]] <sup>У</sup> - Протыкает существо шипом из холодного железа.  
+[[spells/all-spells/magic-passage|Магический проход (Magic Passage)]] <sup>Н</sup> - Открывает временный проход через поверхность.  
+[[spells/all-spells/natures-pathway|Природная тропа (Nature's Pathway)]] <sup>У, Н</sup> - Телепортирует от дерева к дереву.  
+[[spells/all-spells/overload-systems|Перегрузка систем (Overload Systems)]] <sup>У</sup> - Выпустите заряд электричества, который выведет из строя техно снаряжение.  
+[[spells/all-spells/plant-form|Форма растения (Plant Form)]] <sup>У</sup> - Превращает в опасное растение.  
+[[spells/all-spells/speak-with-stones|Разговор с камнями (Speak with Stones)]] <sup>У</sup> - Общайтесь с натуральным и обработанным камнем.  
+[[spells/all-spells/summon-dragon|Призыв дракона (Summon Dragon)]] - Призывает дракона сражаться за вас.  
+[[spells/all-spells/summon-giant|Призыв гиганта (Summon Giant)]] <sup>У</sup> - Призывает гиганта сражаться за вас.  
+[[spells/all-spells/toxic-cloud|Токсичное облако (Toxic Cloud)]] <sup>У</sup> - Облако ядовитого тумана плывёт от вас.  
+[[spells/all-spells/wall-of-ice|Стена льда (Wall of Ice)]] <sup>У</sup> - Создайте стену изо льда толщиной в фут, которая блокирует обзор и может заморозить существ.  
+[[spells/all-spells/wall-of-stone|Стена из камня (Wall of Stone)]] <sup>У</sup> - Создает стену из камня.  
+[[spells/all-spells/wave-of-warning|Волна предупреждения (Wave of Warning)]] <sup>У</sup> - Волна враждебных намерений накрывает ваших врагов.  

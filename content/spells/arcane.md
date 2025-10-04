@@ -68,7 +68,7 @@ title: Арканные (Arcane)
 [[spells/all-spells/lock|Замок (Lock)]] <sup>У</sup> - Делает замок трудно открываемым.  
 [[spells/all-spells/mending|Починка (Mending)]] <sup>У</sup> - Чинит один немагический предмет.  
 [[spells/all-spells/mindlink|Мысленная связь (Mindlink)]] - Мысленно передаете объем информации на 10 минут за мгновение.  
-[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магическим доспехом.  
+[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магической бронёй.  
 [[spells/all-spells/overheat|Перегрев (Overheat)]] <sup>У</sup> - Нагреваете существо и удерживаемые им предметы.  
 [[spells/all-spells/pest-form|Форма вредителя (Pest Form)]] <sup>У</sup> - Превратитесь в неопасное животное.  
 [[spells/all-spells/phantasmal-minion|Призрачный миньон (Phantasmal Minion)]] - Создайте существо из силы для выполнения простых задач.  
@@ -189,3 +189,27 @@ title: Арканные (Arcane)
 [[spells/all-spells/vapor-form|Парообразная форма (Vapor Form)]] - Превращает ваше тело в пар.  
 [[spells/all-spells/vision-of-death|Видение смерти (Vision of Death)]] <sup>У</sup> - Покажите цели видение её собственной смерти, вызывая страх и нанося ментальный урон.  
 [[spells/all-spells/wall-of-fire|Стена огня (Wall of Fire)]] <sup>У</sup> - Создайте пылающую стену, которая обжигает существ, проходящих сквозь неё.  
+
+### 5-й ранг
+
+[[spells/all-spells/banishment|Изгнание (Banishment)]] <sup>У</sup> - Отправляет существо обратно на его родной план.  
+[[spells/all-spells/control-machine|Контроль машин (Control Machine)]] <sup>У, Н</sup> - Временно возьмите машину под контроль.  
+[[spells/all-spells/Elemental Form|Форма элементаля (Elemental Form)]] <sup>У</sup> - Превращает в элементаля.  
+[[spells/all-spells/false-vision|Ложное видение (False Vision)]] <sup>Н</sup> - Обманывает заклинания видения (scrying).  
+[[spells/all-spells/hallucination|Галлюцинация (Hallucination)]] <sup>У</sup> - Заставляет существо поверить, что одна вещь — это другая, заметить то, чего нет, или оказаться неспособным обнаружить что-то.  
+[[spells/all-spells/howling-blizzard|Воющая метель (Howling Blizzard)]] <sup>У</sup> - Заполните конус или взрыв морозным ветром и сугробами.  
+[[spells/all-spells/illusory-scene|Иллюзорная сцена (Illusory Scene)]] <sup>У</sup> - Создает воображаемую сцену состоящую из нескольких существ и объектов.  
+[[spells/all-spells/impaling-spike|Пронзающий шип (Impaling Spike)]] <sup>У</sup> - Протыкает существо шипом из холодного железа.  
+[[spells/all-spells/magic-passage|Магический проход (Magic Passage)]] <sup>Н</sup> - Открывает временный проход через поверхность.  
+[[spells/all-spells/mind-probe|Исследование разума (Mind Probe)]] <sup>Н</sup> - Раскрывает знания и воспоминания в разуме существа.  
+[[spells/all-spells/overload-systems|Перегрузка систем (Overload Systems)]] <sup>У</sup> - Выпустите заряд электричества, который выведет из строя техно снаряжение.  
+[[spells/all-spells/scouting-eye|Глаз-разведчик (Scouting Eye)]] - Невидимый глаз передаёт вам то, что видит.  
+[[spells/all-spells/sending|Послание (Sending)]] - Отправляет ментальное сообщение существу, куда угодно на планете, и получает ответ.  
+[[spells/all-spells/subconscious-suggestion|Подсознательное внушение (Subconscious Suggestion)]] <sup>У</sup> - Внедряет ментальное внушение, которое должно быть выполнено при срабатывании триггера.  
+[[spells/all-spells/summon-dragon|Призыв дракона (Summon Dragon)]] - Призывает дракона сражаться за вас.  
+[[spells/all-spells/telekinetic-haul|Телекинетическая перевозка (Telekinetic Haul)]] - Передвигает большой объект.  
+[[spells/all-spells/toxic-cloud|Токсичное облако (Toxic Cloud)]] <sup>У</sup> - Облако ядовитого тумана плывёт от вас.  
+[[spells/all-spells/truespeech|Истинная речь (Truespeech)]] <sup>У, Н</sup> - Позволяет существу понимать все языки и говорить на них.  
+[[spells/all-spells/wall-of-ice|Стена льда (Wall of Ice)]] <sup>У</sup> - Создайте стену изо льда толщиной в фут, которая блокирует обзор и может заморозить существ.  
+[[spells/all-spells/wall-of-stone|Стена из камня (Wall of Stone)]] <sup>У</sup> - Создает стену из камня.  
+[[spells/all-spells/wave-of-despair|Волна отчаяния (Wave of Despair)]] <sup>У</sup> - Довести существ в области до отчаяния.  

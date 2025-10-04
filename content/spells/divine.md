@@ -54,7 +54,7 @@ title: Сакральные (Divine)
 [[spells/all-spells/mending|Починка (Mending)]] <sup>У</sup> - Чинит один немагический предмет.  
 [[spells/all-spells/mind-skewer|Пронзание разума (Mind Skewer)]] <sup>У</sup> - Нанести ментальный урон цели.  
 [[spells/all-spells/motivating-ringtone|Мотивирующий рингтон (Motivating Ringtone)]] <sup>У</sup> - Заставьте коммуникатор проигрывать личную тему его владельца.  
-[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магическим доспехом.  
+[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магической бронёй.  
 [[spells/all-spells/protection|Защита (Protection)]] <sup>У</sup> - Увеличьте КБ существа.  
 [[spells/all-spells/sanctuary|Убежище (Sanctuary)]] - Защищает существо от атак.  
 [[spells/all-spells/spirit-link|Духовная связь (Spirit Link)]] <sup>У</sup> - Постоянно передавайте свое здоровье кому-то другому.  
@@ -131,3 +131,19 @@ title: Сакральные (Divine)
 [[spells/all-spells/unfettered-movement|Несдерживаемое перемещение (Unfettered Movement)]] - Отметаете эффекты, которые удерживают существо на месте.  
 [[spells/all-spells/vital-beacon|Живительный маяк (Vital Beacon)]] <sup>У</sup> - Излучает жизненную силу, которая исцеляет существ прикасающихся к вам.  
 [[spells/all-spells/weight-of-ages|Тяжесть веков (Weight of Ages)]] <sup>У</sup> - Отяготите цель болью и ментальным уроном, придавив её тяжестью жизни.  
+
+### 5-й ранг
+
+[[spells/all-spells/banishment|Изгнание (Banishment)]] <sup>У</sup> - Отправляет существо обратно на его родной план.  
+[[spells/all-spells/breath-of-life|Дыхание жизни (Breath of Life)]] <sup>У</sup> - Среагируйте, чтобы оживить существо в момент его смерти.  
+[[spells/all-spells/divine-immolation|Божественное сожжение (Divine Immolation)]] <sup>У</sup> - Призовите божественный огонь с небес.  
+[[spells/all-spells/scouting-eye|Глаз-разведчик (Scouting Eye)]] - Невидимый глаз передаёт вам то, что видит.  
+[[spells/all-spells/sending|Послание (Sending)]] - Отправляет ментальное сообщение существу, куда угодно на планете, и получает ответ.  
+[[spells/all-spells/shadow-blast|Теневой взрыв (Shadow Blast)]] <sup>У</sup> - Сформируйте разрушительный конус теневой субстанции, чтобы нанести урон выбранного вами типа.  
+[[spells/all-spells/speak-with-stones|Разговор с камнями (Speak with Stones)]] <sup>У</sup> - Общайтесь с натуральным и обработанным камнем.  
+[[spells/all-spells/summon-celestial|Призыв небожителя (Summon Celestial)]] <sup>У</sup> - Призывает небожителя сражаться за вас.  
+[[spells/all-spells/summon-dragon|Призыв дракона (Summon Dragon)]] - Призывает дракона сражаться за вас.  
+[[spells/all-spells/summon-fiend|Призыв беса (Summon Fiend)]] <sup>У</sup> - Призывает беса сражаться за вас.  
+[[spells/all-spells/summon-monitor|Призыв наблюдателя (Summon Monitor)]] <sup>У</sup> - Призывает планарного наблюдателя сражаться за вас.  
+[[spells/all-spells/truespeech|Истинная речь (Truespeech)]] <sup>У, Н</sup> - Позволяет существу понимать все языки и говорить на них.  
+[[spells/all-spells/wave-of-warning|Волна предупреждения (Wave of Warning)]] <sup>У</sup> - Волна враждебных намерений накрывает ваших врагов.  

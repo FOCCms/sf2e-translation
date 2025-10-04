@@ -60,7 +60,7 @@ title: Оккультные (Occult)
 [[spells/all-spells/mind-skewer|Пронзание разума (Mind Skewer)]] <sup>У</sup> - Нанести ментальный урон цели.  
 [[spells/all-spells/mindlink|Мысленная связь (Mindlink)]] - Мысленно передаете объем информации на 10 минут за мгновение.  
 [[spells/all-spells/motivating-ringtone|Мотивирующий рингтон (Motivating Ringtone)]] <sup>У</sup> - Заставьте коммуникатор проигрывать личную тему его владельца.  
-[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магическим доспехом.  
+[[spells/all-spells/mystic-armor|Мистическая броня (Mystic Armor)]] <sup>У</sup> - Защищаете себя магической бронёй.  
 [[spells/all-spells/phantasmal-minion|Призрачный миньон (Phantasmal Minion)]] - Создайте существо из силы для выполнения простых задач.  
 [[spells/all-spells/phantom-pain|Фантомная боль (Phantom Pain)]] <sup>У</sup> - Вызывает у существа постоянную боль, которая вызывает у него тошноту.  
 [[spells/all-spells/protection|Защита (Protection)]] <sup>У</sup> - Увеличьте КБ существа.  
@@ -168,3 +168,25 @@ Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.
 [[spells/all-spells/talking-corpse|Говорящий труп (Talking Corpse)]] <sup>Н</sup> - Заставляет труп ответить на 3 вопроса.  
 [[spells/all-spells/telepathy|Телепатия (Telepathy)]] <sup>У</sup> - Телепатически общаетесь с существами поблизости.  
 [[spells/all-spells/translocate|Транслокация (Translocate)]] <sup>У</sup> - Телепортирует на умеренное расстояние.  
+
+### 5-й ранг
+
+[[spells/all-spells/banishment|Изгнание (Banishment)]] <sup>У</sup> - Отправляет существо обратно на его родной план.  
+[[spells/all-spells/chrono-push|Временной толчок (Chrono Push)]] <sup>У</sup> - Отбросьте существо и нанесите урон существам возле него.  
+[[spells/all-spells/control-machine|Контроль машин (Control Machine)]] <sup>У, Н</sup> - Временно возьмите машину под контроль.  
+[[spells/all-spells/dreaming-potential|Спящий потенциал (Dreaming Potential)]] - Цель может переобучаться во время сна.  
+[[spells/all-spells/false-vision|Ложное видение (False Vision)]] <sup>Н</sup> - Обманывает заклинания видения (scrying).  
+[[spells/all-spells/hallucination|Галлюцинация (Hallucination)]] <sup>У</sup> - Заставляет существо поверить, что одна вещь — это другая, заметить то, чего нет, или оказаться неспособным обнаружить что-то.  
+[[spells/all-spells/mind-probe|Исследование разума (Mind Probe)]] <sup>Н</sup> - Раскрывает знания и воспоминания в разуме существа.  
+[[spells/all-spells/scouting-eye|Глаз-разведчик (Scouting Eye)]] - Невидимый глаз передаёт вам то, что видит.  
+[[spells/all-spells/sending|Послание (Sending)]] - Отправляет ментальное сообщение существу, куда угодно на планете, и получает ответ.  
+[[spells/all-spells/shadow-blast|Теневой взрыв (Shadow Blast)]] <sup>У</sup> - Сформируйте разрушительный конус теневой субстанции, чтобы нанести урон выбранного вами типа.  
+[[spells/all-spells/speak-with-stones|Разговор с камнями (Speak with Stones)]] <sup>У</sup> - Общайтесь с натуральным и обработанным камнем.  
+[[spells/all-spells/subconscious-suggestion|Подсознательное внушение (Subconscious Suggestion)]] <sup>У</sup> - Внедряет ментальное внушение, которое должно быть выполнено при срабатывании триггера.  
+[[spells/all-spells/subjective-reality|Субъективная реальность (Subjective Reality)]] - Убедите себя, что существо или объект не существует, поэтому вы не можете влиять друг на друга.  
+[[spells/all-spells/summon-dragon|Призыв дракона (Summon Dragon)]] - Призывает дракона сражаться за вас.  
+[[spells/all-spells/summon-entity|Призыв сущности (Summon Entity)]] <sup>У</sup> - Призывает аберрацию сражаться за вас.  
+[[spells/all-spells/synaptic-pulse|Синаптический импульс (Synaptic Pulse)]] - Замедляет существ ментальным взрывом.  
+[[spells/all-spells/telekinetic-haul|Телекинетическая перевозка (Telekinetic Haul)]] - Передвигает большой объект.  
+[[spells/all-spells/truespeech|Истинная речь (Truespeech)]] <sup>У, Н</sup> - Позволяет существу понимать все языки и говорить на них.  
+[[spells/all-spells/wave-of-despair|Волна отчаяния (Wave of Despair)]] <sup>У</sup> - Довести существ в области до отчаяния.  
