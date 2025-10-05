@@ -147,3 +147,18 @@ title: Сакральные (Divine)
 [[spells/all-spells/summon-monitor|Призыв наблюдателя (Summon Monitor)]] <sup>У</sup> - Призывает планарного наблюдателя сражаться за вас.  
 [[spells/all-spells/truespeech|Истинная речь (Truespeech)]] <sup>У, Н</sup> - Позволяет существу понимать все языки и говорить на них.  
 [[spells/all-spells/wave-of-warning|Волна предупреждения (Wave of Warning)]] <sup>У</sup> - Волна враждебных намерений накрывает ваших врагов.  
+
+### 6-й ранг
+
+[[spells/all-spells/dominate|Подчинение (Dominate)]] <sup>У, Н</sup> - Существо должно подчиняться вашим приказам.  
+[[spells/all-spells/dragon-form|Форма дракона (Dragon Form)]] <sup>У</sup> - Превращает в дракона.  
+[[spells/all-spells/field-of-life|Поле жизни (Field of Life)]] <sup>У</sup> - Создаёт поле витальной энергии которое исцеляет тех, кто остаётся внутри.  
+[[spells/all-spells/pocket-vacuum|Локальный вакуум (Pocket Vacuum)]] <sup>У</sup> - Создаёт внезапный вакуум в атмосфере, нанося урон существам декомпрессией.  
+[[spells/all-spells/raise-dead|Вернуть к жизни (Raise Dead)]] <sup>У, Н</sup> - Возвращает мертвое существо к жизни.  
+[[spells/all-spells/repulsion|Отторжение (Repulsion)]] - Не позволяет существам приближаться к вам.  
+[[spells/all-spells/slice-reality|Разрез реальности (Slice Reality)]] <sup>У</sup> - Создаёт расселину разрезающей энтропии, которая поражает ближайших существ.  
+[[spells/all-spells/spirit-blast|Духовный взрыв (Spirit Blast)]] <sup>У</sup> - Повреждает духовную сущность существа.  
+[[spells/all-spells/telekinetic-strangulation|Телекинетическая удавка (Telekinetic Strangulation)]] - Телекинетически душит цель и удерживает её на месте.  
+[[spells/all-spells/truesight|Истинное зрение (Truesight)]] - Смотрите через иллюзии и физические трансформации.  
+[[spells/all-spells/vampiric-exsanguination|Вампирское обескровливание (Vampiric Exsanguination)]] <sup>У</sup> - Вытягивайте кровь и жизненную силу из существ в конусе, нанося им вред и исцеляя себя.  
+[[spells/all-spells/x-ray-vision|Рентгеновское зрение (X-Ray Vision)]] <sup>Н</sup> - Видите сквозь большинство твёрдых материалов.  

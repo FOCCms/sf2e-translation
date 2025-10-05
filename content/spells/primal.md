@@ -161,3 +161,16 @@ title: Природные (Primal)
 [[spells/all-spells/wall-of-ice|Стена льда (Wall of Ice)]] <sup>У</sup> - Создайте стену изо льда толщиной в фут, которая блокирует обзор и может заморозить существ.  
 [[spells/all-spells/wall-of-stone|Стена из камня (Wall of Stone)]] <sup>У</sup> - Создает стену из камня.  
 [[spells/all-spells/wave-of-warning|Волна предупреждения (Wave of Warning)]] <sup>У</sup> - Волна враждебных намерений накрывает ваших врагов.  
+
+### 6-й ранг
+
+[[spells/all-spells/chain-lightning|Цепная молния (Chain Lightning)]] <sup>У</sup> - Молния перепрыгивает от существа к существу.  
+[[spells/all-spells/corrosive-haze|Коррозийная дымка (Corrosive Haze)]] <sup>У</sup> - Создаёт облако коррозийных нанитов.  
+[[spells/all-spells/cursed-metamorphosis|Проклятая метаморфоза (Cursed Metamorphosis)]] - Трансформирует цель в безвредное животное.  
+[[spells/all-spells/dragon-form|Форма дракона (Dragon Form)]] <sup>У</sup> - Превращает в дракона.  
+[[spells/all-spells/field-of-life|Поле жизни (Field of Life)]] <sup>У</sup> - Создаёт поле витальной энергии которое исцеляет тех, кто остаётся внутри.  
+[[spells/all-spells/petrify|Окаменей (Petrify)]] - Превращает существо в каменную статую.  
+[[spells/all-spells/pocket-vacuum|Локальный вакуум (Pocket Vacuum)]] <sup>У</sup> - Создаёт внезапный вакуум в атмосфере, нанося урон существам декомпрессией.  
+[[spells/all-spells/promession|Промессия (Promession)]] <sup>У</sup> - Мгновенно заморозить цель, а затем превратить её в пыль с помощью звуковых вибраций.  
+[[spells/all-spells/truesight|Истинное зрение (Truesight)]] - Смотрите через иллюзии и физические трансформации.  
+[[spells/all-spells/wall-of-plasma|Стена плазмы (Wall of Plasma)]] <sup>У</sup> - Создаёт стену из плазмы, наносящей урон энергией.  

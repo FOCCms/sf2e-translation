@@ -13,7 +13,7 @@ title: Арканные (Arcane)
 [[spells/all-spells/daze|Ступор (Daze)]]  <sup>У</sup> - Затуманьте разум существа и, возможно, оглушите его.  
 [[spells/all-spells/detect-magic|Обнаружение магии (Detect Magic)]] <sup>У</sup> - Определите, есть ли поблизости магия.  
 [[spells/all-spells/electric-arc|Электрическая дуга (Electric Arc)]] <sup>У</sup> - Поразите молнией одно или два существа.  
-[[spells/all-spells/figment|Обманка (Figment)]] - Создайте простую слуховую или визуальную иллюзию.  
+[[spells/all-spells/figment|Вымысел (Figment)]] - Создайте простую слуховую или визуальную иллюзию.  
 [[spells/all-spells/frostbite|Обморожение (Frostbite)]] <sup>У</sup> - Нанесите урон существу лютым холодом.  
 [[spells/all-spells/gouging-claw|Раздирающий коготь (Gouging Claw)]] <sup>У</sup> - Преобразуйте свою конечность в коготь и атакуйте им.  
 [[spells/all-spells/ignition|Воспламенение (Ignition)]] <sup>У</sup> - Сожгите существо вблизи или на расстоянии.  
@@ -213,3 +213,29 @@ title: Арканные (Arcane)
 [[spells/all-spells/wall-of-ice|Стена льда (Wall of Ice)]] <sup>У</sup> - Создайте стену изо льда толщиной в фут, которая блокирует обзор и может заморозить существ.  
 [[spells/all-spells/wall-of-stone|Стена из камня (Wall of Stone)]] <sup>У</sup> - Создает стену из камня.  
 [[spells/all-spells/wave-of-despair|Волна отчаяния (Wave of Despair)]] <sup>У</sup> - Довести существ в области до отчаяния.  
+
+### 6-й ранг
+
+[[spells/all-spells/chain-lightning|Цепная молния (Chain Lightning)]] <sup>У</sup> - Молния перепрыгивает от существа к существу.  
+[[spells/all-spells/corrosive-haze|Коррозийная дымка (Corrosive Haze)]] <sup>У</sup> - Создаёт облако коррозийных нанитов.  
+[[spells/all-spells/cursed-metamorphosis|Проклятая метаморфоза (Cursed Metamorphosis)]] - Трансформирует цель в безвредное животное.  
+[[spells/all-spells/disintegrate|Дезинтеграция (Disintegrate)]] <sup>У</sup> - Разрушает существо или предмет в пыль.  
+[[spells/all-spells/dominate|Подчинение (Dominate)]] <sup>У, Н</sup> - Существо должно подчиняться вашим приказам.  
+[[spells/all-spells/dragon-form|Форма дракона (Dragon Form)]] <sup>У</sup> - Превращает в дракона.  
+[[spells/all-spells/mislead|Обманка (Mislead)]] - Становитесь невидимым и создаете своего двойника, который действует как вы.  
+[[spells/all-spells/never-mind|Забудь (Never Mind)]] -  Одурманить существо навсегда.  
+[[spells/all-spells/petrify|Окаменей (Petrify)]] - Превращает существо в каменную статую.  
+[[spells/all-spells/phantasmal-calamity|Призрачное бедствие (Phantasmal Calamity)]] <sup>У</sup> - Ментально ранит существо с помощью видений апокалипсиса.  
+[[spells/all-spells/pocket-vacuum|Локальный вакуум (Pocket Vacuum)]] <sup>У</sup> - Создаёт внезапный вакуум в атмосфере, нанося урон существам декомпрессией.  
+[[spells/all-spells/promession|Промессия (Promession)]] <sup>У</sup> - Мгновенно заморозить цель, а затем превратить её в пыль с помощью звуковых вибраций.  
+[[spells/all-spells/repulsion|Отторжение (Repulsion)]] - Не позволяет существам приближаться к вам.  
+[[spells/all-spells/rocket-dash|Ракетный рывок (Rocket Dash)]] <sup>У</sup> - Превратитесь в пылающую ракету и мчитесь вперед, нанося урон всем на своём пути.  
+[[spells/all-spells/scrying|Видение (Scrying)]] <sup>Н</sup> - Шпионите за существом которое выбрали.  
+[[spells/all-spells/slice-reality|Разрез реальности (Slice Reality)]] <sup>У</sup> - Создаёт расселину разрезающей энтропии, которая поражает ближайших существ.  
+[[spells/all-spells/teleport|Телепорт (Teleport)]] <sup>У, Н</sup> - Перемещает вас и готовых существ на огромные расстояния.  
+[[spells/all-spells/truesight|Истинное зрение (Truesight)]] - Смотрите через иллюзии и физические трансформации.  
+[[spells/all-spells/vampiric-exsanguination|Вампирское обескровливание (Vampiric Exsanguination)]] <sup>У</sup> - Вытягивайте кровь и жизненную силу из существ в конусе, нанося им вред и исцеляя себя.  
+[[spells/all-spells/vibrant-pattern|Яркий узор (Vibrant Pattern)]] - Создает узор из света который ослепляет или делает слепым, входящих в область.  
+[[spells/all-spells/wall-of-force|Стена силы (Wall of Force)]] <sup>У</sup> - Create an invisible and durable plane of magical force.  
+[[spells/all-spells/wall-of-plasma|Стена плазмы (Wall of Plasma)]] <sup>У</sup> - Создаёт стену из плазмы, наносящей урон энергией.  
+[[spells/all-spells/x-ray-vision|Рентгеновское зрение (X-Ray Vision)]] <sup>Н</sup> - Видите сквозь большинство твёрдых материалов.  
