@@ -174,3 +174,20 @@ title: Природные (Primal)
 [[spells/all-spells/promession|Промессия (Promession)]] <sup>У</sup> - Мгновенно заморозить цель, а затем превратить её в пыль с помощью звуковых вибраций.  
 [[spells/all-spells/truesight|Истинное зрение (Truesight)]] - Смотрите через иллюзии и физические трансформации.  
 [[spells/all-spells/wall-of-plasma|Стена плазмы (Wall of Plasma)]] <sup>У</sup> - Создаёт стену из плазмы, наносящей урон энергией.  
+
+### 7-й ранг
+
+[[spells/all-spells/absolute-zero|Абсолютный ноль (Absolute Zero)]] <sup>У</sup> - Мгновенная заморозка и замедление существ.  
+[[spells/all-spells/death-sentence|Смертный приговор (Death Sentence)]] <sup>У</sup> - Приговаривает цель к изгнанию из реальности.  
+[[spells/all-spells/eclipse-burst|Взрыв затмения (Eclipse Burst)]] <sup>У</sup> - Сфера тьмы причиняет урон холодом, вредя живым и преодолевая свет.  
+[[spells/all-spells/energy-aegis|Энергетическая защита (Energy Aegis)]] <sup>У</sup> - Существо получает сопротивление к урону кислотой, холодом, электричеством, огнём, силой, звуком, витальностью и пустотой.  
+[[spells/all-spells/execute|Казнь (Execute)]] <sup>У</sup> - Влечёт живых к гибели, а нежить — к разрушению.  
+[[spells/all-spells/howl|Вой (Howl)]] - Вы издаете вибрирующий вой, который заставляет других присоединиться и наносит урон.  
+[[spells/all-spells/interplanar-teleport|Межпланарный телепорт (Interplanar Teleport)]] <sup>Н</sup> - Перемещает существ на другой план Мультивселенной.  
+[[spells/all-spells/mask-of-terror|Маска ужаса (Mask of Terror)]] <sup>У</sup> - Устрашающая иллюзорная внешность существа пугает наблюдателей.  
+[[spells/all-spells/regenerate|Регенерация (Regenerate)]] <sup>У</sup> - Заставляет существо исцеляться с течением времени, восстанавливать органы и присоединять отсеченные части тела.  
+[[spells/all-spells/root-of-all-pain|Корень всех страданий (Root of All Pain)]] - Вы вставляете корень, вызывающий боль, в нервную систему цели.  
+[[spells/all-spells/sunburst|Солнечная вспышка (Sunburst)]] <sup>У</sup> - Сфера солнечного света наносит урон огнем, вредит нежити и преодолевает тьму.  
+[[spells/all-spells/unfettered-pack|Вольная стая (Unfettered Pack)]] <sup>У</sup> - Позволяет существам избегать помех от окружающей среды.  
+[[spells/all-spells/void-scour|Очищение пустотой (Void Scour)]] <sup>У</sup> - Вы выжигаете жизнь в сфере опустошающей тьмы.  
+[[spells/all-spells/wall-of-steel|Стена из стали (Wall of Steel)]] <sup>У</sup> - Создаёт стену из прочной стали.  

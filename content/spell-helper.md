@@ -72,9 +72,9 @@ source: Player Core
 ```
 **Источник** Player Core  
 **Тип** Заклинание  
-**Ранг** 6  
+**Ранг** 7  
 **Сотворение** ◆◆  
-**Традиции** Сакральная Оккультная Природная  
+**Традиции** Природная  
 **Дистанция** 30 футов  
 **Цели** 1 существо  
 **Защита** Воля  
@@ -148,6 +148,7 @@ varies (различается)
 [[rules/player core/chapter-8-playing-the-game#Противодействие (Counteracting)|противодействовать]]
 [[rules/player core/chapter-8-playing-the-game#Простые спасброски (Basic Saving Throws)|простым]]
 [[rules/player core/chapter-8-playing-the-game#Иммунитет (Immunity)|иммунитет]]
+[[rules/player core/chapter-8-playing-the-game#|Глава 8. Ведение игры (Playing the Game)]]
 
 [[rules/player core/chapter-8-playing-the-game#Точный урон (Precision Damage)|точному урону]]
 [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложной местностью]]

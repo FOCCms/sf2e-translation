@@ -239,3 +239,19 @@ title: Арканные (Arcane)
 [[spells/all-spells/wall-of-force|Стена силы (Wall of Force)]] <sup>У</sup> - Create an invisible and durable plane of magical force.  
 [[spells/all-spells/wall-of-plasma|Стена плазмы (Wall of Plasma)]] <sup>У</sup> - Создаёт стену из плазмы, наносящей урон энергией.  
 [[spells/all-spells/x-ray-vision|Рентгеновское зрение (X-Ray Vision)]] <sup>Н</sup> - Видите сквозь большинство твёрдых материалов.  
+
+### 7-й ранг
+
+[[spells/all-spells/absolute-zero|Абсолютный ноль (Absolute Zero)]] <sup>У</sup> - Мгновенная заморозка и замедление существ.  
+[[spells/all-spells/contingency|Сопряженность (Contingency)]] <sup>У</sup> - Настройте заклинание, которое сработает позже при выбранных вами обстоятельствах.  
+[[spells/all-spells/eclipse-burst|Взрыв затмения (Eclipse Burst)]] <sup>У</sup> - Сфера тьмы причиняет урон холодом, вредя живым и преодолевая свет.  
+[[spells/all-spells/energy-aegis|Энергетическая защита (Energy Aegis)]] <sup>У</sup> - Существо получает сопротивление к урону кислотой, холодом, электричеством, огнём, силой, звуком, витальностью и пустотой.  
+[[spells/all-spells/interplanar-teleport|Межпланарный телепорт (Interplanar Teleport)]] <sup>Н</sup> - Перемещает существ на другой план Мультивселенной.  
+[[spells/all-spells/mask-of-terror|Маска ужаса (Mask of Terror)]] <sup>У</sup> - Устрашающая иллюзорная внешность существа пугает наблюдателей.  
+[[spells/all-spells/planar-palace|Планарный дворец (Planar Palace)]] <sup>Н</sup> - Создайте безопасное жилище в демиплане.  
+[[spells/all-spells/planar-seal|Планарная печать (Planar Seal)]] <sup>Н</sup> - Поставьте барьер против телепортации и призыва.  
+[[spells/all-spells/project-image|Проецирование образа (Project Image)]] <sup>У</sup> - Создаете иллюзию себя самого, через которую можете сотворять заклинания.  
+[[spells/all-spells/retrocognition|Видение прошлого (Retrocognition)]] <sup>У</sup> - Чувствует впечатления от прошедших событий в вашей локации.  
+[[spells/all-spells/true-target|Истинная цель (True Target)]] - Делает несколько атак по существу особенно точными.  
+[[spells/all-spells/wall-of-steel|Стена из стали (Wall of Steel)]] <sup>У</sup> - Создаёт стену из прочной стали.  
+[[spells/all-spells/warp-mind|Искривление разума (Warp Mind)]] - Приводит существо в замешательство, возможно даже навсегда.  
