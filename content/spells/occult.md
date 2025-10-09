@@ -233,3 +233,10 @@ Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.
 [[spells/all-spells/pinpoint|Локализация (Pinpoint)]] <sup>Н</sup> - Узнать точное местоположение существа или объекта.  
 [[spells/all-spells/uncontrollable-dance|Неудержимый танец (Uncontrollable Dance)]] - Переполняет цель всепоглощающим желанием танцевать.  
 [[spells/all-spells/void-vessel|Странник пустоты (Void Vessel)]] - Выживаете в вакууме и обретаете крылья, которые позволяют вам летать в космосе.  
+
+### 9-й ранг
+
+[[spells/all-spells/foresight|Предвидение (Foresight)]] - Ощущаете когда существо в опасности и реагируете, чтобы защитить его с помощью удачи.  
+[[spells/all-spells/phantasmagoria|Фантасмагория (Phantasmagoria)]] - Пугает, наносит ментальный урон и возможно убивает большое количество существ.  
+[[spells/all-spells/telekinetic-tantrum|Телекинетическая истерика (Telekinetic Tantrum)]] - Высвободите шквал мощной телекинетической энергии, оказывающей разнообразные эффекты.  
+[[spells/all-spells/wails-of-the-damned|Стенания проклятых (Wails of the Damned)]] - Крик, истощающий живых и наносящий урон пустотой.  

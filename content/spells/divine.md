@@ -184,3 +184,10 @@ title: Сакральные (Divine)
 [[spells/all-spells/pinpoint|Локализация (Pinpoint)]] <sup>Н</sup> - Узнать точное местоположение существа или объекта.  
 [[spells/all-spells/singularity-seed|Семя сингулярности (Singularity Seed)]] - Создайте плотное гравитационное семя, которое всё засасывает и наносит огромный урон пустотой.  
 [[spells/all-spells/void-vessel|Странник пустоты (Void Vessel)]] - Выживаете в вакууме и обретаете крылья, которые позволяют вам летать в космосе.  
+
+### 9-й ранг
+
+[[spells/all-spells/call-cosmos|Призыв космоса (Call Cosmos)]] <sup>У</sup> - Призовите столб космической материи, чтобы сжечь и заморозить.  
+[[spells/all-spells/foresight|Предвидение (Foresight)]] - Ощущаете когда существо в опасности и реагируете, чтобы защитить его с помощью удачи.  
+[[spells/all-spells/massacre|Резня (Massacre)]] <sup>У</sup> - Мгновенно убивает нескольких существ.  
+[[spells/all-spells/wails-of-the-damned|Стенания проклятых (Wails of the Damned)]] - Крик, истощающий живых и наносящий урон пустотой.  

@@ -203,3 +203,12 @@ title: Природные (Primal)
 [[spells/all-spells/punishing-winds|Суровые ветры (Punishing Winds)]] - Циклон мешает полету и ловит существ.  
 [[spells/all-spells/singularity-seed|Семя сингулярности (Singularity Seed)]] - Создайте плотное гравитационное семя, которое всё засасывает и наносит огромный урон пустотой.  
 [[spells/all-spells/void-vessel|Странник пустоты (Void Vessel)]] - Выживаете в вакууме и обретаете крылья, которые позволяют вам летать в космосе.  
+
+### 9-й ранг
+
+[[spells/all-spells/atomic-blast|Атомный взрыв (Atomic Blast)]] - Создайте ядерный взрыв с радиоактивными осадками.  
+[[spells/all-spells/call-cosmos|Призыв космоса (Call Cosmos)]] <sup>У</sup> - Призовите столб космической материи, чтобы сжечь и заморозить.  
+[[spells/all-spells/falling-stars|Падающие звёзды (Falling Stars)]] <sup>У</sup> - Призовите четыре осколка небес, чтобы нанести дробящий и стихийный урон.  
+[[spells/all-spells/implosion|Имплозия (Implosion)]] <sup>У</sup> - Вдавливает существо само в себя.  
+[[spells/all-spells/massacre|Резня (Massacre)]] <sup>У</sup> - Мгновенно убивает нескольких существ.  
+[[spells/all-spells/metamorphosis|Метаморфоза (Metamorphosis)]] - Можете легко переключаться между различными формами.  

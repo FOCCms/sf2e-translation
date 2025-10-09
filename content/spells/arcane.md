@@ -267,3 +267,14 @@ title: Арканные (Arcane)
 [[spells/all-spells/phantasmal-fleet|Призрачный флот (Phantasmal Fleet)]] - Создайте иллюзорный флот кораблей, который заставит существ прятаться в укрытии.  
 [[spells/all-spells/pinpoint|Локализация (Pinpoint)]] <sup>Н</sup> - Узнать точное местоположение существа или объекта.  
 [[spells/all-spells/uncontrollable-dance|Неудержимый танец (Uncontrollable Dance)]] - Переполняет цель всепоглощающим желанием танцевать.  
+
+### 9-й ранг
+
+[[spells/all-spells/atomic-blast|Атомный взрыв (Atomic Blast)]] - Создайте ядерный взрыв с радиоактивными осадками.  
+[[spells/all-spells/falling-stars|Падающие звёзды (Falling Stars)]] <sup>У</sup> - Призовите четыре осколка небес, чтобы нанести дробящий и стихийный урон.  
+[[spells/all-spells/foresight|Предвидение (Foresight)]] - Ощущаете когда существо в опасности и реагируете, чтобы защитить его с помощью удачи.  
+[[spells/all-spells/implosion|Имплозия (Implosion)]] <sup>У</sup> - Вдавливает существо само в себя.  
+[[spells/all-spells/massacre|Резня (Massacre)]] <sup>У</sup> - Мгновенно убивает нескольких существ.  
+[[spells/all-spells/metamorphosis|Метаморфоза (Metamorphosis)]] - Можете легко переключаться между различными формами.  
+[[spells/all-spells/phantasmagoria|Фантасмагория (Phantasmagoria)]] - Пугает, наносит ментальный урон и возможно убивает большое количество существ.  
+[[spells/all-spells/telekinetic-tantrum|Телекинетическая истерика (Telekinetic Tantrum)]] - Высвободите шквал мощной телекинетической энергии, оказывающей разнообразные эффекты.  
