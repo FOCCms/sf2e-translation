@@ -223,3 +223,13 @@ Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.
 [[spells/all-spells/project-image|Проецирование образа (Project Image)]] <sup>У</sup> - Создаете иллюзию себя самого, через которую можете сотворять заклинания.  
 [[spells/all-spells/true-target|Истинная цель (True Target)]] - Делает несколько атак по существу особенно точными.  
 [[spells/all-spells/warp-mind|Искривление разума (Warp Mind)]] - Приводит существо в замешательство, возможно даже навсегда.  
+
+### 8-й ранг
+
+[[spells/all-spells/akashic-revival|Возрождение Акаши (Akashic Revival)]] - Создайте запись о вашем теле на случай вашей смерти.  
+[[spells/all-spells/disappearance|Исчезновение (Disappearance)]] - Делает существо невидимым, тихим и необнаружимым любыми другими чувствами.  
+[[spells/all-spells/gravity-field|Гравитационное поле (Gravity Field)]] - Создайте поле повышенной гравитации в желаемой вами области.  
+[[spells/all-spells/phantasmal-fleet|Призрачный флот (Phantasmal Fleet)]] - Создайте иллюзорный флот кораблей, который заставит существ прятаться в укрытии.  
+[[spells/all-spells/pinpoint|Локализация (Pinpoint)]] <sup>Н</sup> - Узнать точное местоположение существа или объекта.  
+[[spells/all-spells/uncontrollable-dance|Неудержимый танец (Uncontrollable Dance)]] - Переполняет цель всепоглощающим желанием танцевать.  
+[[spells/all-spells/void-vessel|Странник пустоты (Void Vessel)]] - Выживаете в вакууме и обретаете крылья, которые позволяют вам летать в космосе.  

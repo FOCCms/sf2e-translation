@@ -255,3 +255,15 @@ title: Арканные (Arcane)
 [[spells/all-spells/true-target|Истинная цель (True Target)]] - Делает несколько атак по существу особенно точными.  
 [[spells/all-spells/wall-of-steel|Стена из стали (Wall of Steel)]] <sup>У</sup> - Создаёт стену из прочной стали.  
 [[spells/all-spells/warp-mind|Искривление разума (Warp Mind)]] - Приводит существо в замешательство, возможно даже навсегда.  
+
+### 8-й ранг
+
+[[spells/all-spells/arctic-rift|Ледяной разлом (Arctic Rift)]] <sup>У</sup> - Жгучий холод причиняет урон и замораживает существо.  
+[[spells/all-spells/desiccate|Иссушение (Desiccate)]] <sup>У</sup> - Вытягивает из существ влагу, нанося им урон.  
+[[spells/all-spells/disappearance|Исчезновение (Disappearance)]] - Делает существо невидимым, тихим и необнаружимым любыми другими чувствами.  
+[[spells/all-spells/earthquake|Землетрясение (Earthquake)]] <sup>У</sup> - Сотрясает землю разрушительным землетрясением.  
+[[spells/all-spells/gravity-field|Гравитационное поле (Gravity Field)]] - Создайте поле повышенной гравитации в желаемой вами области.  
+[[spells/all-spells/monstrosity-form|Чудовищная форма (Monstrosity Form)]] <sup>У</sup> - Превращает в мощного монстра.  
+[[spells/all-spells/phantasmal-fleet|Призрачный флот (Phantasmal Fleet)]] - Создайте иллюзорный флот кораблей, который заставит существ прятаться в укрытии.  
+[[spells/all-spells/pinpoint|Локализация (Pinpoint)]] <sup>Н</sup> - Узнать точное местоположение существа или объекта.  
+[[spells/all-spells/uncontrollable-dance|Неудержимый танец (Uncontrollable Dance)]] - Переполняет цель всепоглощающим желанием танцевать.  

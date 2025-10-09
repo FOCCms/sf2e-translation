@@ -175,3 +175,12 @@ title: Сакральные (Divine)
 [[spells/all-spells/regenerate|Регенерация (Regenerate)]] <sup>У</sup> - Заставляет существо исцеляться с течением времени, восстанавливать органы и присоединять отсеченные части тела.  
 [[spells/all-spells/sunburst|Солнечная вспышка (Sunburst)]] <sup>У</sup> - Сфера солнечного света наносит урон огнем, вредит нежити и преодолевает тьму.  
 [[spells/all-spells/void-scour|Очищение пустотой (Void Scour)]] <sup>У</sup> - Вы выжигаете жизнь в сфере опустошающей тьмы.  
+
+### 8-й ранг
+
+[[spells/all-spells/divine-inspiration|Божественное вдохновение (Divine Inspiration)]] - Духовная энергия восстанавливает израсходованное заклинание существа.  
+[[spells/all-spells/gravity-field|Гравитационное поле (Gravity Field)]] - Создайте поле повышенной гравитации в желаемой вами области.  
+[[spells/all-spells/moment-of-renewal|Момент восстановления (Moment of Renewal)]] - Мгновенно дает дневной отдых.  
+[[spells/all-spells/pinpoint|Локализация (Pinpoint)]] <sup>Н</sup> - Узнать точное местоположение существа или объекта.  
+[[spells/all-spells/singularity-seed|Семя сингулярности (Singularity Seed)]] - Создайте плотное гравитационное семя, которое всё засасывает и наносит огромный урон пустотой.  
+[[spells/all-spells/void-vessel|Странник пустоты (Void Vessel)]] - Выживаете в вакууме и обретаете крылья, которые позволяют вам летать в космосе.  

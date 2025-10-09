@@ -191,3 +191,15 @@ title: Природные (Primal)
 [[spells/all-spells/unfettered-pack|Вольная стая (Unfettered Pack)]] <sup>У</sup> - Позволяет существам избегать помех от окружающей среды.  
 [[spells/all-spells/void-scour|Очищение пустотой (Void Scour)]] <sup>У</sup> - Вы выжигаете жизнь в сфере опустошающей тьмы.  
 [[spells/all-spells/wall-of-steel|Стена из стали (Wall of Steel)]] <sup>У</sup> - Создаёт стену из прочной стали.  
+
+### 8-й ранг
+
+[[spells/all-spells/arctic-rift|Ледяной разлом (Arctic Rift)]] <sup>У</sup> - Жгучий холод причиняет урон и замораживает существо.  
+[[spells/all-spells/desiccate|Иссушение (Desiccate)]] <sup>У</sup> - Вытягивает из существ влагу, нанося им урон.  
+[[spells/all-spells/earthquake|Землетрясение (Earthquake)]] <sup>У</sup> - Сотрясает землю разрушительным землетрясением.  
+[[spells/all-spells/gravity-field|Гравитационное поле (Gravity Field)]] - Создайте поле повышенной гравитации в желаемой вами области.  
+[[spells/all-spells/moment-of-renewal|Момент восстановления (Moment of Renewal)]] - Мгновенно дает дневной отдых.  
+[[spells/all-spells/monstrosity-form|Чудовищная форма (Monstrosity Form)]] <sup>У</sup> - Превращает в мощного монстра.  
+[[spells/all-spells/punishing-winds|Суровые ветры (Punishing Winds)]] - Циклон мешает полету и ловит существ.  
+[[spells/all-spells/singularity-seed|Семя сингулярности (Singularity Seed)]] - Создайте плотное гравитационное семя, которое всё засасывает и наносит огромный урон пустотой.  
+[[spells/all-spells/void-vessel|Странник пустоты (Void Vessel)]] - Выживаете в вакууме и обретаете крылья, которые позволяют вам летать в космосе.  
