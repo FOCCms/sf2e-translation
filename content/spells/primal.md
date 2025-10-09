@@ -212,3 +212,13 @@ title: Природные (Primal)
 [[spells/all-spells/implosion|Имплозия (Implosion)]] <sup>У</sup> - Вдавливает существо само в себя.  
 [[spells/all-spells/massacre|Резня (Massacre)]] <sup>У</sup> - Мгновенно убивает нескольких существ.  
 [[spells/all-spells/metamorphosis|Метаморфоза (Metamorphosis)]] - Можете легко переключаться между различными формами.  
+
+### 10-й ранг
+
+[[spells/all-spells/cataclysm|Катаклизм (Cataclysm)]] - Вызывает мгновенный, разрушительный катаклизм.  
+[[spells/all-spells/event-horizon|Горизонт событий (Event Horizon)]] - Создать сверхмассивную черную дыру, которая сокрушит все, что находится рядом с ней.  
+[[spells/all-spells/indestructibility|Несокрушимость (Indestructibility)]] - Ненадолго становитесь иммунны ко всему.  
+[[spells/all-spells/manifestation|Манифестация (Manifestation)]] - Свободно сотворяете заклинание 9-го ранга вашей традиции.  
+[[spells/all-spells/nature-incarnate|Воплощение природы (Nature Incarnate)]] <sup>Н</sup> - Превращает в огромный аватар природы.  
+[[spells/all-spells/remake|Ремейк (Remake)]] <sup>Н</sup> - Воссоздаёт разрушенный объект.  
+[[spells/all-spells/revival|Возрождение (Revival)]] - Исцеляет существ в области и временно возвращает мертвых к жизни.  

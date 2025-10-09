@@ -27,7 +27,11 @@ charisma
 	- [x] добавить поле skill с навыком
 	- [x] проверить анкоммон скилы, что нет лишние
 
-- sprayflash
+- sprayflash - спрейплоть
+- Crossbolter - пневмоарбалет
+- Breaching Gun - пробойник
+- puzzleblade - составной клинок
+- Shock Pad - Шок-пластина
 
 Порядок проверки
 - Название

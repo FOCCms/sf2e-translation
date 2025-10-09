@@ -278,3 +278,13 @@ title: Арканные (Arcane)
 [[spells/all-spells/metamorphosis|Метаморфоза (Metamorphosis)]] - Можете легко переключаться между различными формами.  
 [[spells/all-spells/phantasmagoria|Фантасмагория (Phantasmagoria)]] - Пугает, наносит ментальный урон и возможно убивает большое количество существ.  
 [[spells/all-spells/telekinetic-tantrum|Телекинетическая истерика (Telekinetic Tantrum)]] - Высвободите шквал мощной телекинетической энергии, оказывающей разнообразные эффекты.  
+
+### 10-й ранг
+
+[[spells/all-spells/cataclysm|Катаклизм (Cataclysm)]] - Вызывает мгновенный, разрушительный катаклизм.  
+[[spells/all-spells/freeze-time|Остановка времени (Freeze Time)]] - Ненадолго останавливает время для всех, кроме вас.  
+[[spells/all-spells/gate|Врата (Gate)]] <sup>Н</sup> - Раскрывает портал на другой план.  
+[[spells/all-spells/indestructibility|Несокрушимость (Indestructibility)]] - Ненадолго становитесь иммунны ко всему.  
+[[spells/all-spells/manifestation|Манифестация (Manifestation)]] - Свободно сотворяете заклинание 9-го ранга вашей традиции.  
+[[spells/all-spells/new-game|Новая игра (New Game)]] - Втягивает существ в VR-игру — только на этот раз игра настоящая.  
+[[spells/all-spells/remake|Ремейк (Remake)]] <sup>Н</sup> - Воссоздаёт разрушенный объект.  

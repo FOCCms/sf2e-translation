@@ -191,3 +191,12 @@ title: Сакральные (Divine)
 [[spells/all-spells/foresight|Предвидение (Foresight)]] - Ощущаете когда существо в опасности и реагируете, чтобы защитить его с помощью удачи.  
 [[spells/all-spells/massacre|Резня (Massacre)]] <sup>У</sup> - Мгновенно убивает нескольких существ.  
 [[spells/all-spells/wails-of-the-damned|Стенания проклятых (Wails of the Damned)]] - Крик, истощающий живых и наносящий урон пустотой.  
+
+### 10-й ранг
+
+[[spells/all-spells/avatar|Аватар (Avatar)]] - Превращает в боевую форму с преимуществами, определяемыми вашим божеством.  
+[[spells/all-spells/gate|Врата (Gate)]] <sup>Н</sup> - Раскрывает портал на другой план.  
+[[spells/all-spells/indestructibility|Несокрушимость (Indestructibility)]] - Ненадолго становитесь иммунны ко всему.  
+[[spells/all-spells/manifestation|Манифестация (Manifestation)]] - Свободно сотворяете заклинание 9-го ранга вашей традиции.  
+[[spells/all-spells/remake|Ремейк (Remake)]] <sup>Н</sup> - Воссоздаёт разрушенный объект.  
+[[spells/all-spells/revival|Возрождение (Revival)]] - Исцеляет существ в области и временно возвращает мертвых к жизни.  

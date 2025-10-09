@@ -240,3 +240,12 @@ Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.
 [[spells/all-spells/phantasmagoria|Фантасмагория (Phantasmagoria)]] - Пугает, наносит ментальный урон и возможно убивает большое количество существ.  
 [[spells/all-spells/telekinetic-tantrum|Телекинетическая истерика (Telekinetic Tantrum)]] - Высвободите шквал мощной телекинетической энергии, оказывающей разнообразные эффекты.  
 [[spells/all-spells/wails-of-the-damned|Стенания проклятых (Wails of the Damned)]] - Крик, истощающий живых и наносящий урон пустотой.  
+
+### 10-й ранг
+
+[[spells/all-spells/fabricated-truth|Сфабрикованная правда (Fabricated Truth)]] - Заставляет существ поверить что что-то является правдой.  
+[[spells/all-spells/freeze-time|Остановка времени (Freeze Time)]] - Ненадолго останавливает время для всех, кроме вас.  
+[[spells/all-spells/gate|Врата (Gate)]] <sup>Н</sup> - Раскрывает портал на другой план.  
+[[spells/all-spells/indestructibility|Несокрушимость (Indestructibility)]] - Ненадолго становитесь иммунны ко всему.  
+[[spells/all-spells/manifestation|Манифестация (Manifestation)]] - Свободно сотворяете заклинание 9-го ранга вашей традиции.  
+[[spells/all-spells/remake|Ремейк (Remake)]] <sup>Н</sup> - Воссоздаёт разрушенный объект.  
