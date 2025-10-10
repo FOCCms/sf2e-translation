@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Божественное сожжение (Divine Immolation)
 
-[[rules/traits/concentrate|Концентрация]] [[rules/traits/fire|Огонь]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Освящённый]] [[rules/traits/spirit|Дух]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/fire|Огонь]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Свящённый]] [[rules/traits/spirit|Дух]]
 
 **Источник** Player Core  
 **Тип** Заклинание  

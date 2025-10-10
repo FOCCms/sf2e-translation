@@ -7,7 +7,7 @@ title: Перевод Starfinder 2e на русском
 
 На текущий момент готово:
 - [[rules/player core/index|Книга Игрока (Player Core)]] в черновом варианте. Много опечаток, нет множества ссылок, но в целом читабельно.
-- Все заклинания и чары из книги игрока, разбитые по категориям: [[spells/arcane|Арканные (Arcane)]], [[spells/divine|Сакральные (Divine)]], [[spells/occult|Оккультные (Occult)]], [[spells/primal|Природные (Primal)]]. Нет ритуалов и заклинаний фокусировки.
+- Все заклинания и чары из книги игрока, разбитые по категориям: [[spells/arcane|Арканные (Arcane)]], [[spells/divine|Сакральные (Divine)]], [[spells/occult|Оккультные (Occult)]], [[spells/primal|Природные (Primal)]]. Все [[spells/rituals|Ритуалы (Rituals)]] из книги игрока. Нет заклинаний фокусировки.
 - [[rules/activities/index|Активности (Activities)]] — всё что можно делать переведено целиком из книги игрока и разбито по разделам [[rules/activities/index|Простые и Специальные простые действия]] [[rules/activities/exploration/index|Исследование]] [[rules/activities/downtime/index|Отдых]]
 - [[rules/conditions/index|Состояния (Conditions)]] — все состояния из книги игрока
 - [[character-creation/backgrounds/index|Предыстории (Backgrounds)]] — все предыстории из книги игрока

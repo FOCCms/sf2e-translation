@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Божественный гнев (Divine Wrath)
 
-[[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Освящённый]] [[rules/traits/spirit|Дух]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/sanctified|Свящённый]] [[rules/traits/spirit|Дух]]
 
 **Источник** Player Core  
 **Тип** Заклинание  

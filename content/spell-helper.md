@@ -53,7 +53,7 @@ source: Player Core
 [[rules/traits/plant|Растение]]
 [[rules/traits/polymorph|Превращение]]
 [[rules/traits/prediction|Предсказание]]
-[[rules/traits/sanctified|Освящённый]]
+[[rules/traits/sanctified|Свящённый]]
 [[rules/traits/scrying|Видение]]
 [[rules/traits/sleep|Сон]]
 [[rules/traits/sonic|Звук]]
