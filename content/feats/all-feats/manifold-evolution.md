@@ -6,7 +6,7 @@ traits:
   - barathu
 rarity: common
 prerequisite: Конвергентная эволюция (Convergent Evolution)
-summary: SUMMMMARY.
+summary: Вы собрали генетические коды бесчисленных родословных, с которыми сталкивались, и можете использовать любую из них для усиления и развития своего тела.
 ---
 # Многообразная эволюция (Manifold Evolution)
 
