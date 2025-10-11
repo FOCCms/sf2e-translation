@@ -1,0 +1,20 @@
+---
+title: Многообразная эволюция (Manifold Evolution)
+source: Player Core
+level: 17
+traits:
+  - barathu
+rarity: common
+prerequisite: Конвергентная эволюция (Convergent Evolution)
+summary: SUMMMMARY.
+---
+# Многообразная эволюция (Manifold Evolution)
+
+[[rules/traits/barathu|Барату]]
+
+**Источник** Player Core  
+**Тип** Способность  
+**Уровень** 17  
+**Предварительные условия** [[feats/all-feats/convergent-evolution|Конвергентная эволюция (Convergent Evolution)]]
+
+Вы собрали генетические коды бесчисленных родословных, с которыми сталкивались, и можете использовать любую из них для усиления и развития своего тела. Увеличьте количество родословных, которые вы можете выбрать с помощью способности [[feats/all-feats/convergent-evolution|Конвергентная эволюция (Convergent Evolution)]], до шести. Вы получаете две дополнительные Способности родословной 13-го уровня или ниже, для которых соответствуете требованиям, выбранные из числа родословных, выбранных с помощью способности [[feats/all-feats/convergent-evolution|Конвергентная эволюция (Convergent Evolution)]]. Вы можете [[rules/player core/chapter-8-playing-the-game#Переобучение (Retraining)|переобучать]] одну или обе из этих выбранных Способностей один раз в день во время ваших ежедневных приготовлений.

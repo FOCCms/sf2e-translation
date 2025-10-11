@@ -10,7 +10,7 @@ summary: Ваши наниты невероятно эффективны и сп
 ---
 # Постоянный всплеск (Consistent Surge)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

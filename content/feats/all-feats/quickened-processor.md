@@ -9,7 +9,7 @@ summary: Вы можете быстро определять своё окруж
 ---
 # Ускоренный процессор (Quickened Processor)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

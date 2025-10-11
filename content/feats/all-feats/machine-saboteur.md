@@ -9,7 +9,7 @@ summary: Вы были созданы для борьбы с другими си
 ---
 # Машинный диверсант (Machine Saboteur)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

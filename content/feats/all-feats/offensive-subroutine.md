@@ -10,7 +10,7 @@ summary: Наниты усиливают ваши атаки.
 ---
 # Подпрограмма нападения (Offensive Subroutine)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

@@ -9,7 +9,7 @@ summary: Вы сохраняете инстинкты и обрывочные в
 ---
 # Восстановление памяти (Memory Recovery)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

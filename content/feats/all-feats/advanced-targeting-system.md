@@ -9,7 +9,7 @@ summary: Можете сотворять Верный удар (Sure Strike).
 ---
 # Улучшенная система наведения (Advanced Targeting System)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

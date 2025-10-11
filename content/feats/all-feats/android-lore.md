@@ -9,7 +9,7 @@ summary: Вы проявляете живой интерес к происхож
 ---
 # Знания андроидов (Android Lore)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

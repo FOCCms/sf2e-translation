@@ -9,7 +9,7 @@ summary: Вы можете спрятать небольшой предмет М
 ---
 # Внутренний отсек (Internal Compartment)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

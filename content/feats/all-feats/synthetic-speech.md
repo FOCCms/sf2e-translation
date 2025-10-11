@@ -10,7 +10,7 @@ summary: Вы можете сотворять Разговор с компьют
 ---
 # Синтетическая речь (Synthetic Speech)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

@@ -4,13 +4,15 @@ source: Player Core
 level: 17
 traits:
   - android
+  - concentraten
+  - polymorph
 rarity: common
 summary: Вы превращаетесь в рой нанитов.
 action: ◆◆
 ---
 # Нанитная форма (Nanite Form) ◆◆
 
-[[rules/traits/android|Андроид (Android)]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/polymorph|Превращение]]
+[[rules/traits/android|Андроид]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/polymorph|Превращение]]
 
 **Источник** Player Core  
 **Тип** Способность  

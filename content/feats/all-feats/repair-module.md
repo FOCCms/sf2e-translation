@@ -4,13 +4,14 @@ source: Player Core
 level: 9
 traits:
   - android
+  - concentrate
 rarity: common
 summary: Вы активируете программу самовосстановления тела.
 action: ◆
 ---
 # Ремонтный модуль (Repair Module) ◆
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]] [[rules/traits/concentrate|Концентрация]]
 
 **Источник** Player Core  
 **Тип** Способность  

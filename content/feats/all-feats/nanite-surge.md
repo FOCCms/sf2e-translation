@@ -10,7 +10,7 @@ action: ↩
 ---
 # Всплеск нанитов (Nanite Surge) ↩
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  
@@ -21,4 +21,4 @@ action: ↩
 
 ## Всплеск нанитов позволяет выбрать…
 
-==Consistent Surge==, ==Offensive Subroutine==, ==Protective Subroutine==
+[[feats/all-feats/consistent-surge|Постоянный всплеск (Consistent Surge)]], [[feats/all-feats/offensive-subroutine|Подпрограмма нападения (Offensive Subroutine)]], [[feats/all-feats/protective-subroutine|Подпрограмма защиты (Protective Subroutine)]]

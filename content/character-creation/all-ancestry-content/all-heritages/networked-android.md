@@ -12,5 +12,4 @@ rarity: common
 
 ## Способности, требующие наследие Сетевой андроид…
 
-==Synthetic Speech==
-
+[[feats/all-feats/synthetic-speech|Синтетическая речь (Synthetic Speech)]]

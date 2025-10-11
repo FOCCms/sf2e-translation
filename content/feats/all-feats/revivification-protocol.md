@@ -10,7 +10,7 @@ action: ◇
 ---
 # Протокол восстановления (Revivification Protocol) ◇
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

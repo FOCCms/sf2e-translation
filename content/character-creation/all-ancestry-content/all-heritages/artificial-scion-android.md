@@ -12,4 +12,4 @@ rarity: common
 
 ## Способности, требующие наследие Андроид-отпрыск…
 
-==Synthetic Speech==
+[[feats/all-feats/synthetic-speech|Синтетическая речь (Synthetic Speech)]]

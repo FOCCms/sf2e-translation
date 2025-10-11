@@ -9,7 +9,7 @@ summary: Наниты в ваших глазных процессорах ада
 ---
 # Адаптивное ночное зрение (Nightvision Adaptation)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  

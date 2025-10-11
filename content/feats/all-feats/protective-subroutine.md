@@ -10,7 +10,7 @@ summary: Ваши наниты усиливают вашу защиту.
 ---
 # Подпрограмма защиты (Protective Subroutine)
 
-[[rules/traits/android|Андроид (Android)]]
+[[rules/traits/android|Андроид]]
 
 **Источник** Player Core  
 **Тип** Способность  
