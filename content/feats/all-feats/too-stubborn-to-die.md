@@ -1,7 +1,7 @@
 ---
 title: Слишком упрям, чтобы умереть (Too Stubborn to Die) ↩
 source: Player Core
-level: 13
+level: 17
 traits:
   - human
 rarity: common
@@ -14,7 +14,7 @@ action: ↩
 
 **Источник** Player Core  
 **Тип** Способность  
-**Уровень** 13  
+**Уровень** 17  
 **Частота** раз в день  
 **Триггер** Вы должны умереть.  
 

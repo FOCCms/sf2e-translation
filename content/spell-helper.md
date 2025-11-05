@@ -138,7 +138,7 @@ varies (различается)
 
 [[rules/player core/chapter-8-playing-the-game#Укрытие (Cover)|укрытие]]
 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]]
-[[rules/activities/basic-actions/specialty-basic-actions/sustain|Поддерживать (Sustain) ◆]]
+[[rules/activities/all-activities/sustain|Поддерживать (Sustain) ◆]]
 [[rules/player core/chapter-8-playing-the-game#Сопротивление (Resistance)|сопротивление]]
 [[rules/player core/chapter-8-playing-the-game#Слабость (Weakness)|слабость]]
 [[rules/conditions/enfeebled|ослаблен]]
@@ -153,6 +153,8 @@ varies (различается)
 
 [[rules/player core/chapter-8-playing-the-game#Точный урон (Precision Damage)|точному урону]]
 [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложной местностью]]
+
+[[rules/player core/chapter-8-playing-the-game#Сумеречное зрение (Low-Light Vision)|сумеречное зрение]]
 
 [[rules/player core/chapter-8-playing-the-game#Нюх (Scent)|нюх]]
 [[rules/player core/chapter-8-playing-the-game#Неточные чувства (Imprecise Senses)|неточное чувство]]

@@ -23,6 +23,6 @@ skill: performance
 **Тип** Способность  
 **Уровень** 1  
 **Предварительные условия** Тренирован Выступлению  
-**Триггер** Союзник критически проваливает [[rules/activities/exploration/coerce|Принуждение (Coerce)]], [[rules/activities/exploration/make-an-impression|Произвести впечатление (Make an Impression)]] или [[rules/activities/request|Просьба (Request) ◆]]  
+**Триггер** Союзник критически проваливает [[rules/activities/all-activities/coerce|Принуждение (Coerce)]], [[rules/activities/all-activities/make-an-impression|Произвести впечатление (Make an Impression)]] или [[rules/activities/all-activities/request|Просьба (Request) ◆]]  
 
 Вы пытаетесь выдать социальную оплошность за шутку. Совершите проверку Выступления против того же КС, что и проверка вашего союзника. При успехе ваш союзник считает свой критический провал обычным провалом.

@@ -19,4 +19,4 @@ skill: athletics
 **Уровень** 1  
 **Предварительные условия** Тренирован Атлетике  
 
-Вы можете использовать [[rules/activities/high-jump|Прыжок в высоту (High Jump) ◆◆]] и [[rules/activities/long-jump|Прыжок в длину (Long Jump) ◆◆]] как одиночное действие, вместо 2 действий. Если вы так делаете, то не выполняете начальное [[rules/activities/basic-actions/stride|Перемещение (Stride) ◆]] (и вы не получите провал, если не Переместитесь на 10 футов).
+Вы можете использовать [[rules/activities/all-activities/high-jump|Прыжок в высоту (High Jump) ◆◆]] и [[rules/activities/all-activities/long-jump|Прыжок в длину (Long Jump) ◆◆]] как одиночное действие, вместо 2 действий. Если вы так делаете, то не выполняете начальное [[rules/activities/all-activities/stride|Перемещение (Stride) ◆]] (и вы не получите провал, если не Переместитесь на 10 футов).

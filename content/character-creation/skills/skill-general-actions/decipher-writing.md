@@ -14,4 +14,4 @@ title: Расшифровка текста
 - Религия — для священных текстов, аллегорий и пословиц
 - Общество — для зашифрованных сообщений, архаичных текстов или (в некоторых случаях) инопланетных языков
 
-![[rules/activities/exploration/decipher-writing#Расшифровка текста (Decipher Writing)]]
+![[rules/activities/all-activities/decipher-writing#Расшифровка текста (Decipher Writing)]]

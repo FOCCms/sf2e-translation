@@ -13,6 +13,7 @@ title: Перевод Starfinder 2e на русском
 - [[character-creation/Предыстории (Backgrounds)/index|Предыстории (Backgrounds)]] — все предыстории из книги игрока
 - [[character-creation/skills/index|Навыки (Skills)]] — все навыки и действия навыков из книги игрока
 - [[feats/general-feats|Общие способности (General Feats)]] — все общие способности из книги игрока
+- [[equipment/adventuring-gear|Снаряжение для приключений (Adventuring Gear)]], [[equipment/armor|Броня (Armor)]], [[equipment/augmentations|Аугментации (Augmentations)]], [[equipment/grenades|Гранаты (Grenades)]], [[equipment/magic-items|Магические предметы (Magic Items)]], [[equipment/medical-items|Медицинские предметы (Medical Items)]], [[equipment/precious-materials|Драгоценные материалы (Precious Materials)]], [[equipment/shields|Щиты (Shields)]], [[equipment/solarian-crystals|Соларианские кристаллы (Solarian Crystals)]] (кроме орбитальных), [[equipment/upgrades|Улучшения (Upgrades)]], [[equipment/weapons|Оружие (Weapons)]]
 
 Также рекомендую использовать следующие ресурсы
 
@@ -20,4 +21,4 @@ title: Перевод Starfinder 2e на русском
 - перевод правил плейтеста https://boosty.to/riazlar где можно найти описания родословных, классов и т.д. (названия могут не совпадать и сильно отличаться от того, что здесь)
 - оригинальные срд правила на английском https://2e.aonsrd.com/ или https://app.demiplane.com/nexus/starfinder2e
 
-[Telegram чат](https://t.me/sf2Eru/1)
+[Telegram чат](https://t.me/sf2Eru/1) где вы можете сообщить об ошибках перевода

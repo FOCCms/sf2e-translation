@@ -4,45 +4,56 @@ title: Помогалка по фитам
 ---
 # Помогалка по фитам
 
+
 ```
 ---
 title: NAME (ORIG_NAME)
 source: Player Core
-level: 13
+level: 17
 traits:
-  - human
+  - prismeni
 rarity: common
 summary: SUMMMMARY.
 ---
 # NAME (ORIG_NAME)
 
-[[rules/traits/human|Человек]]
+[[rules/traits/prismeni|Присмени]]
 
 **Источник** Player Core  
 **Тип** Способность  
-**Уровень** 13  
+**Уровень** 17  
 
 ```
 
+
+
 под редкостью
 
+prerequisite: 
 prerequisite: Легенда Воровства, Карманник (Pickpocket)
 Всплеск нанитов (Nanite Surge)
 
-**Предварительные условия** Легенда Воровства, [[feats/all-feats/pickpocket|Карманник (Pickpocket)]]
+**Предварительные условия**   
+Легенда Воровства, [[feats/all-feats/pickpocket|Карманник (Pickpocket)]]
 [[feats/all-feats/nanite-surge|Всплеск нанитов (Nanite Surge) ↩]]
 
 **Частота** 
 **Частота** раз в час  
 **Частота** раз в день  
 **Частота** раз в 10 минут  
+**Частота** раз в раунд  
 
-**Триггер**
-Противник получает критический успех против вас используя [[rules/activities/basic-actions/strike|Удар (Strike) ◆]]
+**Триггер**   
+Противник получает критический успех против вас используя [[rules/activities/all-activities/strike|Удар (Strike) ◆]]
 
+**Требования**   
+
+**Особенность**
 
 action: ◇
-↩ ◆ ◇
+action: ◆
+action: ↩
+
 
 [[rules/player core/chapter-7-spells#Врожденные заклинания (Innate Spells)|врождённое]]
 

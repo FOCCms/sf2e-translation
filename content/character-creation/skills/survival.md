@@ -12,12 +12,12 @@ title: Выживание (Survival)
 
 Даже если вы нетренированы Выживанию, вы можете использовать его для следующих общих действий навыка.
 
-- **[[rules/activities/downtime/subsist|Проживание (Subsist)]]** в дикой местности путём добычи пищи и строительства укрытия.
+- **[[rules/activities/all-activities/subsist|Проживание (Subsist)]]** в дикой местности путём добычи пищи и строительства укрытия.
 
-![[rules/activities/exploration/sense-direction#Определить направление (Sense Direction)]]
+![[rules/activities/all-activities/sense-direction#Определить направление (Sense Direction)]]
 
 ### Тренированные действия Выживания (Society Trained Actions)
 
-![[rules/activities/exploration/cover-tracks#Заметать следы (Cover Tracks)]]
+![[rules/activities/all-activities/cover-tracks#Заметать следы (Cover Tracks)]]
 
-![[rules/activities/exploration/track#Выслеживание (Track)]]
+![[rules/activities/all-activities/track#Выслеживание (Track)]]

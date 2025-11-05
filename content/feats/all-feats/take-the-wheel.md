@@ -20,4 +20,4 @@ skill: piloting
 **Уровень** 3  
 **Предварительные условия** Эксперт Пилотирования  
 
-Вы выполняете ==Посадку (Board)== и [[rules/activities/take-control|Взять управление (Take Control) ◆]] соседнего транспортного средства.
+Вы выполняете ==Посадку (Board)== и [[rules/activities/all-activities/take-control|Взять управление (Take Control) ◆]] соседнего транспортного средства.

@@ -72,10 +72,10 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(),
     // , Component.ArticleTitle(), Component.ContentMeta()
-    Component.ConditionalRender({
-      component: Component.FeatsBrowser(),
-      condition: (page) => page.fileData.slug === "feats/index",
-    })
+    // Component.ConditionalRender({
+    //   component: Component.FeatsBrowser(),
+    //   condition: (page) => page.fileData.slug === "feats/index",
+    // })
   ],
   left: [
     Component.PageTitle(),

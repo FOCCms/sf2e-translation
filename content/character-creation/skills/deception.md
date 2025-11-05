@@ -11,14 +11,14 @@ title: Обман (Deception)
 
 ### Нетренированные действия Обмана (Deception Untrained Actions)
 
-![[rules/activities/create-a-diversion#Отвлечь внимание (Create a Diversion) ◆]]
+![[rules/activities/all-activities/create-a-diversion#Отвлечь внимание (Create a Diversion) ◆]]
 
-![[rules/activities/exploration/impersonate#Перевоплотиться (Impersonate)]]
+![[rules/activities/all-activities/impersonate#Перевоплотиться (Impersonate)]]
 
-![[rules/activities/lie#Лгать (Lie)]]
+![[rules/activities/all-activities/lie#Лгать (Lie)]]
 
 ### Тренированные действия Обмана (Deception Trained Actions)
 
-![[rules/activities/feint#Финт (Feint) ◆]]
+![[rules/activities/all-activities/feint#Финт (Feint) ◆]]
 
 ![[character-creation/skills/diplomacy#Анонимность в Инфосфере (Infosphere Anonymity)]]

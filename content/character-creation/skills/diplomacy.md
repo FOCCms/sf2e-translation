@@ -10,12 +10,12 @@ title: Дипломатия (Diplomacy)
 
 ### Нетренированные действия Дипломатии (Diplomacy Untrained Actions)
 
-![[rules/activities/exploration/gather-information#Собрать информацию (Gather Information)]]
+![[rules/activities/all-activities/gather-information#Собрать информацию (Gather Information)]]
 
-![[rules/activities/exploration/make-an-impression#Произвести впечатление (Make an Impression)]]
+![[rules/activities/all-activities/make-an-impression#Произвести впечатление (Make an Impression)]]
 
-![[rules/activities/request#Просьба (Request) ◆]]
+![[rules/activities/all-activities/request#Просьба (Request) ◆]]
 
 ## Анонимность в Инфосфере (Infosphere Anonymity)
 
-Проверки с использованием Дипломатии становятся сложнее при анонимных публикациях в инфосфере. В большинстве случаев рассматривайте все проверки с использованием этих навыков в инфосфере как на одну [[rules/player core/chapter-8-playing-the-game#Шаг 4 Степени Успешности (Degrees of Success)|степень успешности]] ниже, в зависимости от обстоятельств проверки и вероятности того, что кто-то воспримет ваши сообщения всерьёз. Это особенно справедливо для попыток [[rules/activities/exploration/make-an-impression|Произвести впечатление (Make an Impression)]]. Рассматривайте успех как обычный, если у вас есть реальные или поддельные учетные данные, например публикация с официального аккаунта или предоставление доказательств ваших утверждений.
+Проверки с использованием Дипломатии становятся сложнее при анонимных публикациях в инфосфере. В большинстве случаев рассматривайте все проверки с использованием этих навыков в инфосфере как на одну [[rules/player core/chapter-8-playing-the-game#Шаг 4 Степени Успешности (Degrees of Success)|степень успешности]] ниже, в зависимости от обстоятельств проверки и вероятности того, что кто-то воспримет ваши сообщения всерьёз. Это особенно справедливо для попыток [[rules/activities/all-activities/make-an-impression|Произвести впечатление (Make an Impression)]]. Рассматривайте успех как обычный, если у вас есть реальные или поддельные учетные данные, например публикация с официального аккаунта или предоставление доказательств ваших утверждений.

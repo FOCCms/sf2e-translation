@@ -19,4 +19,4 @@ skill: crafting
 **Уровень** 1  
 **Предварительные условия** Тренирован Ремеслу  
 
-Вы тратите всего 1 минуту, чтобы [[rules/activities/exploration/install-upgrade|Установить улучшение (Install Upgrade)]]. Если вы легенда Ремесла, вы можете [[rules/activities/exploration/install-upgrade|Установить улучшение (Install Upgrade)]] как активность из 3-х действий.
+Вы тратите всего 1 минуту, чтобы [[rules/activities/all-activities/install-upgrade|Установить улучшение (Install Upgrade)]]. Если вы легенда Ремесла, вы можете [[rules/activities/all-activities/install-upgrade|Установить улучшение (Install Upgrade)]] как активность из 3-х действий.

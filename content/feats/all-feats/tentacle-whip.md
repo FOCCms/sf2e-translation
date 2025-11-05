@@ -15,4 +15,4 @@ summary: Вы отращиваете щупальце, которое может
 **Тип** Способность  
 **Уровень** 1  
 
-Вы отращиваете щупальце, которое может хлестать, как кнут. Вы получаете безоружную атаку щупальцем, наносящую 1d6 дробящего урона. Ваше щупальце относится к [[rules/player core/chapter-6-equipment#Группа (Group (weapon))|группе]] [[equipment/all-specialization-effects/brawling|Драка]] и имеет признаки [[rules/traits/barathu|барату]], [[rules/traits/finesse|точное]], [[rules/traits/reach|досягаемость]] и [[rules/traits/unarmed|безоружное]].
+Вы отращиваете щупальце, которое может хлестать, как кнут. Вы получаете безоружную атаку щупальцем, наносящую 1d6 дробящего урона. Ваше щупальце относится к [[rules/player core/chapter-6-equipment#Группа (Group (weapon))|группе]] [[equipment/all-equipment/all-specialization-effects/brawling|Драка]] и имеет признаки [[rules/traits/barathu|барату]], [[rules/traits/finesse|точное]], [[rules/traits/reach|досягаемость]] и [[rules/traits/unarmed|безоружное]].

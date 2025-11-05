@@ -16,8 +16,8 @@ summary: Используете Вспомнить информацию (Recall 
 **Источник** Player Core  
 **Тип** Способность  
 **Уровень** 2  
-**Предварительные условия** Эксперт в навыке с действием [[rules/activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]], [[feats/all-feats/assurance|Уверенность (Assurance)]] в этом навыке  
+**Предварительные условия** Эксперт в навыке с действием [[rules/activities/all-activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]], [[feats/all-feats/assurance|Уверенность (Assurance)]] в этом навыке  
 
-Вы знаете базовые факты сходу. Выберите Навык, в котором вы эксперт, который имеет действие [[rules/activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]] и для которого у вас есть способность [[feats/all-feats/assurance|Уверенность (Assurance)]]. Вы можете использовать действие [[rules/activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]] с этим Навыком как свободное действие (◇) раз в раунд. Если вы делаете это, вы должны использовать [[feats/all-feats/assurance|Уверенность (Assurance)]] для проверки Навыка.
+Вы знаете базовые факты сходу. Выберите Навык, в котором вы эксперт, который имеет действие [[rules/activities/all-activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]] и для которого у вас есть способность [[feats/all-feats/assurance|Уверенность (Assurance)]]. Вы можете использовать действие [[rules/activities/all-activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]] с этим Навыком как свободное действие (◇) раз в раунд. Если вы делаете это, вы должны использовать [[feats/all-feats/assurance|Уверенность (Assurance)]] для проверки Навыка.
 
 **Особенность** Вы можете выбрать эту способность несколько раз, каждый раз выбирая другой Навык. Вы можете использовать Автоматическое знание с любым из выбранных Навыков, но все еще только 1 раз в раунд.

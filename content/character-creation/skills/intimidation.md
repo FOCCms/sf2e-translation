@@ -10,8 +10,8 @@ title: Запугивание (Intimidation)
 
 ### Нетренированные действия Запугивания (Intimidation Untrained Actions)
 
-![[rules/activities/exploration/coerce#Принуждение (Coerce)]]
+![[rules/activities/all-activities/coerce#Принуждение (Coerce)]]
 
-![[rules/activities/demoralize#Деморализовать (Demoralize) ◆]]
+![[rules/activities/all-activities/demoralize#Деморализовать (Demoralize) ◆]]
 
 ![[character-creation/skills/diplomacy#Анонимность в Инфосфере (Infosphere Anonymity)]]

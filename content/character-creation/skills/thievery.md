@@ -10,12 +10,12 @@ title: Воровство (Thievery)
 
 ### Нетренированные действия Воровства (Thievery Untrained Actions)
 
-![[rules/activities/palm-an-object#Ловкость рук (Palm an Object) ◆]]
+![[rules/activities/all-activities/palm-an-object#Ловкость рук (Palm an Object) ◆]]
 
-![[rules/activities/steal#Украсть (Steal) ◆]]
+![[rules/activities/all-activities/steal#Украсть (Steal) ◆]]
 
 ### Тренированные действия Воровства (Thievery Trained Actions)
 
-![[rules/activities/disable-a-device#Отключение устройства (Disable a Device) ◆◆]]
+![[rules/activities/all-activities/disable-a-device#Отключение устройства (Disable a Device) ◆◆]]
 
-![[rules/activities/pick-a-lock#Вскрытие замка (Pick a Lock) ◆]]
+![[rules/activities/all-activities/pick-a-lock#Вскрытие замка (Pick a Lock) ◆]]

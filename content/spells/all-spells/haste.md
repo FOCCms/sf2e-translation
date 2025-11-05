@@ -15,6 +15,6 @@ source: Player Core
 **Цели** 1 существо  
 **Продолжительность** 1 минута  
 
-Магия наделяет цель возможностью действовать быстрее. Она получает состояние [[rules/conditions/quickened|ускорен]] и может использовать дополнительное действие каждый раунд только для действий [[rules/activities/basic-actions/strike|Удар (Strike) ◆]] и [[rules/activities/basic-actions/stride|Перемещение (Stride) ◆]].
+Магия наделяет цель возможностью действовать быстрее. Она получает состояние [[rules/conditions/quickened|ускорен]] и может использовать дополнительное действие каждый раунд только для действий [[rules/activities/all-activities/strike|Удар (Strike) ◆]] и [[rules/activities/all-activities/stride|Перемещение (Stride) ◆]].
 
 **Усиление (7-й)** Вы можете выбрать до 6 существ.

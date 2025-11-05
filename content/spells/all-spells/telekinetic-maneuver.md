@@ -14,4 +14,4 @@ source: Player Core
 **Дистанция** 60 футов  
 **Цели** 1 существо  
 
-С приливом телекинетической силы вы перемещаете противника или что-то из его снаряжения. Вы можете попытаться [[rules/activities/disarm|Разоружить (Disarm) ◆]], [[rules/activities/reposition|Сместить (Reposition) ◆]], [[rules/activities/shove|Толкнуть (Shove) ◆]] или [[rules/activities/trip|Опрокинуть (Trip) ◆]] цель, используя бросок атаки заклинанием вместо проверки Атлетики.
+С приливом телекинетической силы вы перемещаете противника или что-то из его снаряжения. Вы можете попытаться [[rules/activities/all-activities/disarm|Разоружить (Disarm) ◆]], [[rules/activities/all-activities/reposition|Сместить (Reposition) ◆]], [[rules/activities/all-activities/shove|Толкнуть (Shove) ◆]] или [[rules/activities/all-activities/trip|Опрокинуть (Trip) ◆]] цель, используя бросок атаки заклинанием вместо проверки Атлетики.

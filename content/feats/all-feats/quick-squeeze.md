@@ -19,4 +19,4 @@ skill: acrobatics
 **Уровень** 1  
 **Предварительные условия** Тренирован Акробатике  
 
-Вы можете [[rules/activities/exploration/squeeze|Протиснуться (Squeeze)]] на 5 футов за раунд (10 футов при критическом успехе). Если вы легенда Акробатики, то Протискиваетесь используя свою полную [[rules/player core/chapter-8-playing-the-game#Скорость (Speed)|Скорость]].
+Вы можете [[rules/activities/all-activities/squeeze|Протиснуться (Squeeze)]] на 5 футов за раунд (10 футов при критическом успехе). Если вы легенда Акробатики, то Протискиваетесь используя свою полную [[rules/player core/chapter-8-playing-the-game#Скорость (Speed)|Скорость]].

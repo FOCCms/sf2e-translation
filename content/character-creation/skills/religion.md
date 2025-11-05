@@ -12,12 +12,12 @@ title: Религия (Religion)
 
 Даже если вы нетренированы Религии, вы можете использовать его для следующих общих действий навыка.
 
-- **[[rules/activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]]** о богах, их эдиктах и анафемах, божественных агентах, теологии, мифах, существах религиозного значения (таких как небожители, исчадия и нежить), Кузнице сотворения, Пустоте и Внешних Сферах.
+- **[[rules/activities/all-activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]]** о богах, их эдиктах и анафемах, божественных агентах, теологии, мифах, существах религиозного значения (таких как небожители, исчадия и нежить), Кузнице сотворения, Пустоте и Внешних Сферах.
 
 ### Тренированные действия Религии (Religion Trained Actions)
 
 Вы должны быть тренированы Религии, чтобы использовать следующие общие действия навыков.
 
-- **[[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]]** религиозного характера, включая аллегории, поучения и пословицы.
-- **[[rules/activities/exploration/identify-magic|Идентификация магии (Identify Magic)]]**, в частности сакральной
-- **[[rules/activities/exploration/learn-a-spell|Выучить заклинание (Learn a Spell)]]** сакральной магической традиции
+- **[[rules/activities/all-activities/decipher-writing|Расшифровка текста (Decipher Writing)]]** религиозного характера, включая аллегории, поучения и пословицы.
+- **[[rules/activities/all-activities/identify-magic|Идентификация магии (Identify Magic)]]**, в частности сакральной
+- **[[rules/activities/all-activities/learn-a-spell|Выучить заклинание (Learn a Spell)]]** сакральной магической традиции

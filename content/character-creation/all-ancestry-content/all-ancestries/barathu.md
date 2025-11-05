@@ -33,7 +33,7 @@ rarity: common
 Бреседский  
 Общий  
 
-Дополнительные языки равные 1 + ваш модификатор Интеллекта (если он положительный). Выберите из списка [[rules/player core/chapter-2-ancestries-and-backgrounds#Обычные языки родословной (Common Ancestry Languages)|обычных языков]] и любых других языков, к которым у вас есть доступ (например, языков, распространённых на вашей родной планете).
+Дополнительные языки равные вашему модификатору Интеллекта (если он положительный). Выберите из списка [[rules/player core/chapter-2-ancestries-and-backgrounds#Обычные языки родословной (Common Ancestry Languages)|обычных языков]] и любых других языков, к которым у вас есть доступ (например, языков, распространённых на вашей родной планете).
 
 ### Генетическая адаптация (Genetic Adaptation)
 Вы можете изменять и настраивать своё тело, приспосабливаясь к новым условиям. Вы можете [[rules/player core/chapter-8-playing-the-game#Переобучение (Retraining)|переобучить]] [[character-creation/all-ancestry-content/all-ancestries/barathu#Способности родословной Барату (Barathu Ancestry Feats)|Способность родословной]] за 1 день [[rules/player core/chapter-8-playing-the-game#Режим отдыха (Downtime Mode)|отдыха]] вместо 1 недели. Вы можете переобучать любую Способность родословной, включая [[rules/player core/chapter-2-ancestries-and-backgrounds#Способности рода (Lineage feats)|Способности рода]].

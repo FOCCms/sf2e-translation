@@ -19,4 +19,4 @@ skill: athletics
 **Уровень** 1  
 **Предварительные условия** Тренирован Атлетике  
 
-Вы можете попытаться [[rules/activities/disarm|Разоружить (Disarm) ◆]], [[rules/activities/grapple|Захватить (Grapple) ◆]], [[rules/activities/shove|Толкнуть (Shove) ◆]] или [[rules/activities/trip|Опрокинуть (Trip) ◆]] существо вплоть до 2-х размеров больше вас или, если вы легенда Атлетики, то вплоть до 3-х размеров больше вас.
+Вы можете попытаться [[rules/activities/all-activities/disarm|Разоружить (Disarm) ◆]], [[rules/activities/all-activities/grapple|Захватить (Grapple) ◆]], [[rules/activities/all-activities/shove|Толкнуть (Shove) ◆]] или [[rules/activities/all-activities/trip|Опрокинуть (Trip) ◆]] существо вплоть до 2-х размеров больше вас или, если вы легенда Атлетики, то вплоть до 3-х размеров больше вас.

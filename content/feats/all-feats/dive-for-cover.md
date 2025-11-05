@@ -20,4 +20,4 @@ skill: acrobatics
 **Уровень** 2  
 **Предварительные условия** Эксперт Акробатики  
 
-Когда вам угрожают, вы можете быстро нырнуть и найти, где укрыться. Вы делаете [[rules/activities/basic-actions/leap|Прыжок (Leap) ◆]], падаете [[rules/conditions/prone|ничком]] и сразу же пытаетесь [[rules/activities/basic-actions/take-cover|Укрыться (Take Cover) ◆]], что позволяет вам спрятаться и получить [[rules/player core/chapter-8-playing-the-game#Укрытие (Cover)|большое укрытие]] от дальнобойных атак.
+Когда вам угрожают, вы можете быстро нырнуть и найти, где укрыться. Вы делаете [[rules/activities/all-activities/leap|Прыжок (Leap) ◆]], падаете [[rules/conditions/prone|ничком]] и сразу же пытаетесь [[rules/activities/all-activities/take-cover|Укрыться (Take Cover) ◆]], что позволяет вам спрятаться и получить [[rules/player core/chapter-8-playing-the-game#Укрытие (Cover)|большое укрытие]] от дальнобойных атак.

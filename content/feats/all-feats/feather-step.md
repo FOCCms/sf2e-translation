@@ -17,4 +17,4 @@ summary: Шагаете на сложную местность
 **Уровень** 1  
 **Предварительные условия** Ловкость +2  
 
-Вы шагаете быстро и осторожно. Вы можете сделать [[rules/activities/basic-actions/step|Шаг (Step) ◆]] на [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложную местность]].
+Вы шагаете быстро и осторожно. Вы можете сделать [[rules/activities/all-activities/step|Шаг (Step) ◆]] на [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложную местность]].

@@ -12,18 +12,18 @@ title: Компьютеры (Computers)
 
 Даже если вы нетренированы Компьютерам, вы можете использовать его для следующих общих действий навыка.
 
-- **[[rules/activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]]** о цифровом и виртуальном оборудовании, цифровых опасностях, компьютерных программах и видеоиграх.
+- **[[rules/activities/all-activities/recall-knowledge|Вспомнить информацию (Recall Knowledge) ◆]]** о цифровом и виртуальном оборудовании, цифровых опасностях, компьютерных программах и видеоиграх.
 
-![[rules/activities/exploration/access-infosphere#Доступ к Инфосфере (Access Infosphere)]]
+![[rules/activities/all-activities/access-infosphere#Доступ к Инфосфере (Access Infosphere)]]
 
-![[rules/activities/exploration/operate-device#Управлять устройством (Operate Device)]]
+![[rules/activities/all-activities/operate-device#Управлять устройством (Operate Device)]]
 
 ### Тренированные действия Компьютеров (Computers Trained Actions)
 
 Вы должны быть тренированы Компьютерам, чтобы использовать следующие общие действия навыков.ь
 
-- **[[rules/activities/exploration/decipher-writing|Расшифровка текста (Decipher Writing)]]** который запрограммирован.
+- **[[rules/activities/all-activities/decipher-writing|Расшифровка текста (Decipher Writing)]]** который запрограммирован.
 
-![[rules/activities/disable-a-device#Отключение устройства (Disable a Device) ◆◆]]
+![[rules/activities/all-activities/disable-a-device#Отключение устройства (Disable a Device) ◆◆]]
 
-![[rules/activities/exploration/hack#Взломать (Hack)]]
+![[rules/activities/all-activities/hack#Взломать (Hack)]]

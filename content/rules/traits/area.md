@@ -5,6 +5,6 @@ title: Область (Area)
 
 **Источник** Player Core
 
-Оружие с этим признаком может стрелять только с использованием действия [[rules/activities/basic-actions/specialty-basic-actions/area-fire|Огонь по области (Area Fire) ◆◆]].
+Оружие с этим признаком может стрелять только с использованием действия [[rules/activities/all-activities/area-fire|Огонь по области (Area Fire) ◆◆]].
 
-![[rules/activities/basic-actions/specialty-basic-actions/area-fire#Огонь по области (Area Fire) ◆◆|Огонь по области (Area Fire) ◆◆]]
+![[rules/activities/all-activities/area-fire#Огонь по области (Area Fire) ◆◆|Огонь по области (Area Fire) ◆◆]]

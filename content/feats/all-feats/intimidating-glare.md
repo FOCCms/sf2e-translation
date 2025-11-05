@@ -19,4 +19,4 @@ skill: intimidation
 **Уровень** 1  
 **Предварительные условия** Тренирован Запугиванию  
 
-Вы можете [[rules/activities/demoralize|Деморализовать (Demoralize) ◆]] одним лишь взглядом. Когда вы это делаете, действие [[rules/activities/demoralize|Деморализовать (Demoralize) ◆]] теряет признак [[rules/traits/auditory|слуховой]] и получает признак [[rules/traits/visual|визуальный]], и вы не получаете штраф, если существо не понимает ваш язык.
+Вы можете [[rules/activities/all-activities/demoralize|Деморализовать (Demoralize) ◆]] одним лишь взглядом. Когда вы это делаете, действие [[rules/activities/all-activities/demoralize|Деморализовать (Demoralize) ◆]] теряет признак [[rules/traits/auditory|слуховой]] и получает признак [[rules/traits/visual|визуальный]], и вы не получаете штраф, если существо не понимает ваш язык.
