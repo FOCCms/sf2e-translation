@@ -24,27 +24,68 @@ async function mouseEnterHandler(
     })
   }
 
+  // function showPopover(popoverElement: HTMLElement) {
+  //   clearActivePopover()
+  //   popoverElement.classList.add("active-popover")
+  //   setPosition(popoverElement as HTMLElement)
+
+  //   if (hash !== "") {
+  //     const targetAnchor = `#popover-internal-${hash.slice(1)}`
+  //     const heading = popoverInner.querySelector(targetAnchor) as HTMLElement | null
+  //     if (heading) {
+  //       // leave ~12px of buffer when scrolling to a heading
+  //       popoverInner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
+  //     }
+  //   }
+  // }
+
   function showPopover(popoverElement: HTMLElement) {
+    // убираем активный класс у старых поповеров
     clearActivePopover()
+
+    // 🧹 удалить все старые поповеры, кроме текущего
+    document.querySelectorAll(".popover").forEach((p) => {
+      if (p !== popoverElement) p.remove()
+    })
+
+    // делаем новый поповер активным
     popoverElement.classList.add("active-popover")
+
+    // позиционируем относительно курсора
     setPosition(popoverElement as HTMLElement)
 
+    // если есть hash — прокручиваем превью до нужного якоря
     if (hash !== "") {
       const targetAnchor = `#popover-internal-${hash.slice(1)}`
       const heading = popoverInner.querySelector(targetAnchor) as HTMLElement | null
       if (heading) {
-        // leave ~12px of buffer when scrolling to a heading
-        popoverInner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
+        // небольшой отступ сверху, чтобы заголовок не прилипал
+        popoverInner.scroll({
+          top: heading.offsetTop - 12,
+          behavior: "instant",
+        })
       }
     }
   }
 
-  const targetUrl = new URL(link.href)
-  const hash = decodeURIComponent(targetUrl.hash)
-  targetUrl.hash = ""
-  targetUrl.search = ""
-  const popoverId = `popover-${link.pathname}`
-  const prevPopoverElement = document.getElementById(popoverId)
+
+  // const targetUrl = new URL(link.href)
+  // const hash = decodeURIComponent(targetUrl.hash)
+  // targetUrl.hash = ""
+  // targetUrl.search = ""
+  // const popoverId = `popover-${link.pathname}`
+  // const prevPopoverElement = document.getElementById(popoverId)
+
+const targetUrl = new URL(link.href)
+const hash = decodeURIComponent(targetUrl.hash)
+targetUrl.search = ""
+
+// включаем hash в ID, если он есть
+const anchorPart = hash ? `#${hash.slice(1)}` : ""
+const popoverId = `popover-${link.pathname}${anchorPart}`
+  .replace(/[^\w-]/g, "_") // безопасно для id
+const prevPopoverElement = document.getElementById(popoverId)
+
 
   // dont refetch if there's already a popover
   if (!!document.getElementById(popoverId)) {

@@ -10,5 +10,5 @@ export { ComponentResources } from "./componentResources"
 export { NotFoundPage } from "./404"
 export { CNAME } from "./cname"
 export { CustomOgImages } from "./ogImage"
-export { FeatsIndex } from "./featJson"
+// export { FeatsIndex } from "./featJson" // отключено пока все фиты не будут иметь метаданные
 export { TraitsIndex } from "./traitJson" 
