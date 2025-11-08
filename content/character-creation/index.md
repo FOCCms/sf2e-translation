@@ -4,4 +4,8 @@ order: 1
 ---
 # Создание персонажа (Character Creation)
 
+[[character-creation/ancestries|Родословные (Ancestries)]]
+
 [[character-creation/backgrounds|Предыстории (Backgrounds)]]
+
+[[character-creation/classes|Классы (Classes)]]

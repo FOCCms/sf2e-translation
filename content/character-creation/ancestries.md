@@ -19,9 +19,9 @@ title: Родословные (Ancestries)
 
 [[character-creation/all-ancestry-content/all-ancestries/skittermander|Скиттермандер (Skittermander)]]
 
-[[rules/traits/vesk|Веск (Vesk)]]
+[[character-creation/all-ancestry-content/all-ancestries/vesk|Веск (Vesk)]]
 
-[[rules/traits/ysoki|Йсоки (Ysoki)]]
+[[character-creation/all-ancestry-content/all-ancestries/ysoki|Йсоки (Ysoki)]]
 
 ## Универсальные Наследия (Versatile Heritages)
 

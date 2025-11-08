@@ -3,28 +3,25 @@ draft: true
 title: Помогалка по фитам
 ---
 # Помогалка по фитам
-
-
+◇
+◆
+↩
 ```
 ---
 title: NAME (ORIG_NAME)
 source: Player Core
-level: 17
-traits:
-  - prismeni
-rarity: common
-summary: SUMMMMARY.
 ---
 # NAME (ORIG_NAME)
 
-[[rules/traits/prismeni|Присмени]]
+[[rules/traits/operative|Оперативник]]
 
 **Источник** Player Core  
 **Тип** Способность  
-**Уровень** 17  
+**Уровень** 20  
 
 ```
 
+Вы выполняете [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]], а затем совершаете дистанционный [[rules/activities/all-activities/strike|Удар (Strike) ◆]] по своей метке. Если Удар попадает
 
 
 под редкостью
@@ -58,3 +55,27 @@ action: ↩
 [[rules/player core/chapter-7-spells#Врожденные заклинания (Innate Spells)|врождённое]]
 
 ## feat_name позволяет выбрать…
+
+
+
+
+
+```
+---
+title: NAME (ORIG_NAME)
+source: Player Core
+level: 17
+traits:
+  - prismeni
+rarity: common
+summary: SUMMMMARY.
+---
+# NAME (ORIG_NAME)
+
+[[rules/traits/prismeni|Присмени]]
+
+**Источник** Player Core  
+**Тип** Способность  
+**Уровень** 17  
+
+```
