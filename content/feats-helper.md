@@ -6,6 +6,7 @@ title: Помогалка по фитам
 ◇
 ◆
 ↩
+◆ или ◆◆
 ```
 ---
 title: NAME (ORIG_NAME)
@@ -13,7 +14,7 @@ source: Player Core
 ---
 # NAME (ORIG_NAME)
 
-[[rules/traits/operative|Оперативник]]
+[[rules/traits/envoy|Посланник]]
 
 **Источник** Player Core  
 **Тип** Способность  
@@ -23,6 +24,7 @@ source: Player Core
 
 Вы выполняете [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]], а затем совершаете дистанционный [[rules/activities/all-activities/strike|Удар (Strike) ◆]] по своей метке. Если Удар попадает
 
+**Подать пример**
 
 под редкостью
 
