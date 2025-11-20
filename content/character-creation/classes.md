@@ -13,4 +13,4 @@ Solarian
 
 [[character-creation/all-classes-content/all-classes/soldier|Солдат (Soldier)]]
 
-Witchwarper
+[[character-creation/all-classes-content/all-classes/witchwarper|Исказитель (Witchwarper)]]

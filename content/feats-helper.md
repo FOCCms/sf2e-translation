@@ -13,7 +13,7 @@ source: Player Core
 ---
 # NAME (ORIG_NAME)
 
-[[rules/traits/mystic|Мистик]]
+[[rules/traits/witchwarper|Исказитель]]
 
 **Источник** Player Core  
 **Тип** Способность  

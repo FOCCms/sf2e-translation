@@ -15,13 +15,15 @@ source: Player Core
 
 [[rules/traits/uncommon|Необычный]]
 
+[[rules/traits/anchoring|Привязка]]
 [[rules/traits/focus|Фокусировка]]
-[[rules/traits/mystic|Мистик]]
+[[rules/traits/witchwarper|Исказитель]]
+
 ### Признаки
 
 [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]]
 [[rules/traits/concentrate|Концентрация]] [[rules/traits/focus|Фокусировка]] [[rules/traits/manipulate|Манипуляция]]
-
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/focus|Фокусировка]] [[rules/traits/witchwarper|Исказитель]]
 [[rules/traits/acid|Кислота]]
 [[rules/traits/air|Воздух]]
 [[rules/traits/animal|Животное]]
@@ -202,13 +204,14 @@ varies (различается)
 
 ### Традиция (Tradition)
 
-Природная
+[[rules/player core/chapter-7-spells#Арканная (Arcane)|Арканная]]
+[[rules/player core/chapter-7-spells#Оккультная (Occult)|Оккультная]]
 
-### Навык связи (Connection Skill)
+### Навык парадокса (Paradox Skill)
 
 [[character-creation/skills/nature|Природа (Nature)]]
 
-### Заклинания связи (Connection Spells)
+### Заклинания парадокса (Paradox Spells)
 
 - чары: 
 - 1й: 
@@ -221,14 +224,11 @@ varies (различается)
 - 8й: 
 - 9й: 
 
-### Заклинания прозрения (Epiphany Spells)
+### Искажающие заклинания (Warp Spells)
 
 - начальное: 
 - продвинутое: 
 - высшее: 
 
-### Гармония (Harmony)
+### Квантовое поле (Quantum Field)
 
-
-
-### Совершенная гармония (Perfect Harmony)
