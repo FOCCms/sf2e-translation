@@ -14,9 +14,13 @@ source: Player Core
 ```
 
 [[rules/traits/uncommon|Необычный]]
+
+[[rules/traits/focus|Фокусировка]]
+[[rules/traits/mystic|Мистик]]
 ### Признаки
 
 [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/focus|Фокусировка]] [[rules/traits/manipulate|Манипуляция]]
 
 [[rules/traits/acid|Кислота]]
 [[rules/traits/air|Воздух]]
@@ -71,12 +75,11 @@ source: Player Core
 
 ```
 **Источник** Player Core  
-**Тип** Заклинание  
-**Ранг** 10  
-**Сотворение** ◆◆  
-**Традиции** Арканная Сакральная Оккультная Природная  
+**Тип** Фокусировка  
+**Ранг** 6  
+**Сотворение** ◆  
 **Дистанция** 30 футов  
-**Цели** 1 существо  
+**Цели** 1 существо в узах  
 **Защита** Воля  
 **Продолжительность** 1 минута  
 ```
@@ -85,15 +88,15 @@ source: Player Core
 
 
 
-**Божества** [[setting/deities/hylax|Хайлакс]]  
-**Божества** [[setting/deities/the-devourer|Пожиратель]]  
-**Божества** [[setting/deities/lao-shu-po|Лао Шу По]]  
-**Божества** [[setting/deities/lambatuin|Ламбатуин]]  
-**Божества** [[setting/deities/triune|Триединый]]  
-**Божества** [[setting/deities/talavet|Талавет]]  
-**Божества** [[setting/deities/damoritosh|Даморитош]]  
-**Божества** [[setting/deities/pharasma|Фаразма]]  
-**Божества** [[setting/deities/meyel|Мейель]]  
+**Божества** [[setting/all-deities/hylax|Хайлакс]]  
+**Божества** [[setting/all-deities/the-devourer|Пожиратель]]  
+**Божества** [[setting/all-deities/lao-shu-po|Лао Шу По]]  
+**Божества** [[setting/all-deities/lambatuin|Ламбатуин]]  
+**Божества** [[setting/all-deities/triune|Триединый]]  
+**Божества** [[setting/all-deities/talavet|Талавет]]  
+**Божества** [[setting/all-deities/damoritosh|Даморитош]]  
+**Божества** [[setting/all-deities/pharasma|Фаразма]]  
+**Божества** [[setting/all-deities/meyel|Мейель]]  
 
 **Стоимость**
 
@@ -182,3 +185,50 @@ varies (различается)
 - [ ] пройти по всем заклинаниям, проверить поле "Цель" и "Цели". Везде поставить "Цели"
 - [ ] Пройти по всем заклинаниям формы (форма животного, растения и т.д. и поправить текст. там везде разные мелкие косяки)
 
+
+
+```
+**Источник** Player Core  
+**Тип** Заклинание  
+**Ранг** 10  
+**Сотворение** ◆◆  
+**Традиции** Арканная Сакральная Оккультная Природная  
+**Дистанция** 30 футов  
+**Цели** 1 существо  
+**Защита** Воля  
+**Продолжительность** 1 минута  
+```
+
+
+### Традиция (Tradition)
+
+Природная
+
+### Навык связи (Connection Skill)
+
+[[character-creation/skills/nature|Природа (Nature)]]
+
+### Заклинания связи (Connection Spells)
+
+- чары: 
+- 1й: 
+- 2й: 
+- 3й: 
+- 4й: 
+- 5й: 
+- 6й: 
+- 7й: 
+- 8й: 
+- 9й: 
+
+### Заклинания прозрения (Epiphany Spells)
+
+- начальное: 
+- продвинутое: 
+- высшее: 
+
+### Гармония (Harmony)
+
+
+
+### Совершенная гармония (Perfect Harmony)

@@ -6,7 +6,6 @@ title: Помогалка по фитам
 ◇
 ◆
 ↩
-◆ или ◆◆
 ```
 ---
 title: NAME (ORIG_NAME)
@@ -14,7 +13,7 @@ source: Player Core
 ---
 # NAME (ORIG_NAME)
 
-[[rules/traits/envoy|Посланник]]
+[[rules/traits/mystic|Мистик]]
 
 **Источник** Player Core  
 **Тип** Способность  
@@ -22,9 +21,11 @@ source: Player Core
 
 ```
 
-Вы выполняете [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]], а затем совершаете дистанционный [[rules/activities/all-activities/strike|Удар (Strike) ◆]] по своей метке. Если Удар попадает
+**Предварительные условия**   
 
 **Подать пример**
+
+[[rules/player core/chapter-7-spells#Усиленные спонтанные заклинания (Heightened Spontaneous Spells)|коронные заклинания]]
 
 под редкостью
 
@@ -32,7 +33,7 @@ prerequisite:
 prerequisite: Легенда Воровства, Карманник (Pickpocket)
 Всплеск нанитов (Nanite Surge)
 
-**Предварительные условия**   
+
 Легенда Воровства, [[feats/all-feats/pickpocket|Карманник (Pickpocket)]]
 [[feats/all-feats/nanite-surge|Всплеск нанитов (Nanite Surge) ↩]]
 

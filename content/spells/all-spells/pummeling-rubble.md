@@ -11,7 +11,7 @@ source: Player Core
 **Ранг** 1  
 **Сотворение** ◆◆  
 **Традиции** Арканная Природная  
-**Божества** [[setting/deities/the-devourer|Пожиратель (The Devourer)]]  
+**Божества** [[setting/all-deities/the-devourer|Пожиратель (The Devourer)]]  
 **Область** 15-футовый конус  
 **Защита** Рефлекс  
 

@@ -11,7 +11,7 @@ source: Player Core
 **Ранг** 3  
 **Сотворение** ◆◆  
 **Традиции** Арканная Оккультная  
-**Божества** [[setting/deities/lissala|Лиссала]] [[setting/deities/zon-shelyn|Зон-Шелин]]  
+**Божества** [[setting/all-deities/lissala|Лиссала]] [[setting/all-deities/zon-shelyn|Зон-Шелин]]  
 **Дистанция** 120 футов  
 **Цели** все существа в дистанции  
 **Защита** Воля  

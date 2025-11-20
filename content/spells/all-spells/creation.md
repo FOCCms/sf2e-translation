@@ -11,7 +11,7 @@ source: Player Core
 **Ранг** 4  
 **Сотворение** 1 минута  
 **Традиции** Арканная Природная  
-**Божества** [[setting/deities/abadar|Абадар]] [[setting/deities/zon-shelyn|Зон-Шелин]]  
+**Божества** [[setting/all-deities/abadar|Абадар]] [[setting/all-deities/zon-shelyn|Зон-Шелин]]  
 **Дистанция** 0 футов  
 **Продолжительность** 1 час  
 

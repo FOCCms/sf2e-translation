@@ -1,7 +1,7 @@
 ---
 title: Поддержание (Sustain) ◆
 ---
-|# Поддержание (Sustain) ◆
+# Поддержание (Sustain) ◆
 
 [[rules/traits/concentrate|Концентрация]]
 

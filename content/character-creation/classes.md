@@ -3,9 +3,9 @@ title: Классы (Classes)
 ---
 # Классы (Classes)
 
-Envoy
+[[character-creation/all-classes-content/all-classes/envoy|Посланник (Envoy)]]
 
-Mystic
+[[character-creation/all-classes-content/all-classes/mystic|Мистик (Mystic)]]
 
 [[character-creation/all-classes-content/all-classes/operative|Оперативник (Operative)]]
 
