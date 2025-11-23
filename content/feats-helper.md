@@ -13,7 +13,7 @@ source: Player Core
 ---
 # NAME (ORIG_NAME)
 
-[[rules/traits/witchwarper|Исказитель]]
+[[rules/traits/solarian|Солариан]]
 
 **Источник** Player Core  
 **Тип** Способность  
@@ -24,8 +24,10 @@ source: Player Core
 **Предварительные условия**   
 
 **Подать пример**
+[[character-creation/all-classes-content/all-classes-options/solar-weapon|солнечное оружие]]
+[[character-creation/all-classes-content/all-classes-options/solar-flare|солнечной вспышкой]]
 
-[[rules/player core/chapter-7-spells#Усиленные спонтанные заклинания (Heightened Spontaneous Spells)|коронные заклинания]]
+[[rules/activities/all-activities/strike|Удар (Strike) ◆]] [[character-creation/all-classes-content/all-classes-options/solar-weapon|солнечным оружием]]
 
 под редкостью
 
@@ -47,6 +49,7 @@ prerequisite: Легенда Воровства, Карманник (Pickpocket)
 Противник получает критический успех против вас используя [[rules/activities/all-activities/strike|Удар (Strike) ◆]]
 
 **Требования**   
+**Требования** Вы фотон-сонастроены  
 
 **Особенность**
 
@@ -59,9 +62,20 @@ action: ↩
 
 ## feat_name позволяет выбрать…
 
+[[rules/traits/attuned|Сонастроен]],
 
 
+[[rules/traits/cycle|Цикл]],
+[[rules/traits/flourish|Размах]],
 
+[[rules/traits/manifestation|Проявление]], 
+[[rules/traits/solarian|Солариан]]
+
+[[rules/traits/attuned|Сонастроен]], [[rules/traits/cycle|Цикл]], [[rules/traits/flourish|Размах]], [[rules/traits/solarian|Солариан]]
+[[rules/traits/attuned|Сонастроен]], [[rules/traits/disharmony|Дисгармония]], [[rules/traits/flourish|Размах]], [[rules/traits/solarian|Солариан]]
+[[rules/traits/manifestation|Проявление]], [[rules/traits/solarian|Солариан]]
+[[rules/traits/attuned|Сонастроен]], [[rules/traits/solarian|Солариан]]
+[[rules/traits/attuned|Сонастроен]], [[rules/traits/manifestation|Проявление]], [[rules/traits/solarian|Солариан]]
 
 ```
 ---

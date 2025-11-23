@@ -71,6 +71,6 @@ title: Исследование (Exploration)
 
 [[rules/activities/all-activities/track|Выслеживание (Track)]]
 
-[[rules/activities/all-activities/re-forge-solar-weapon|Перековка Солнечного Оружия (Re-Forge Solar Weapon)]]
+[[rules/activities/all-activities/re-forge-solar-weapon|Перековка солнечного оружия (Re-Forge Solar Weapon)]]
 
 [[rules/activities/all-activities/refocus|Сфокусироваться (Refocus)]]

@@ -5,4 +5,4 @@ title: Солариан (Solarian)
 
 **Источник** Player Core
 
-Это указывает на умения класса ==солариан (solarian)==.
+Указывает на умения класса [[character-creation/all-classes-content/all-classes/solarian|Солариан (Solarian)]].

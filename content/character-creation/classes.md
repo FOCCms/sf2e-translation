@@ -9,7 +9,7 @@ title: Классы (Classes)
 
 [[character-creation/all-classes-content/all-classes/operative|Оперативник (Operative)]]
 
-Solarian
+[[character-creation/all-classes-content/all-classes/solarian|Солариан (Solarian)]]
 
 [[character-creation/all-classes-content/all-classes/soldier|Солдат (Soldier)]]
 
