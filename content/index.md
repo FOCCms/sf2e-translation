@@ -17,7 +17,7 @@ title: Перевод Starfinder 2e на русском
 - [[character-creation/ancestries|Родословные (Ancestries)]] — все родословные из книги игрока
 - [[character-creation/skills/index|Навыки (Skills)]] — все навыки и действия навыков из книги игрока
 - [[feats/general-feats|Общие способности (General Feats)]] — все общие способности из книги игрока
-- [[equipment/adventuring-gear|Снаряжение для приключений (Adventuring Gear)]], [[equipment/armor|Броня (Armor)]], [[equipment/augmentations|Аугментации (Augmentations)]], [[equipment/grenades|Гранаты (Grenades)]], [[equipment/magic-items|Магические предметы (Magic Items)]], [[equipment/medical-items|Медицинские предметы (Medical Items)]], [[equipment/precious-materials|Драгоценные материалы (Precious Materials)]], [[equipment/shields|Щиты (Shields)]], [[equipment/solarian-crystals|Соларианские кристаллы (Solarian Crystals)]] (кроме орбитальных), [[equipment/upgrades|Улучшения (Upgrades)]], [[equipment/weapons|Оружие (Weapons)]]
+- [[equipment/adventuring-gear|Снаряжение для приключений (Adventuring Gear)]], [[equipment/armor|Броня (Armor)]], [[equipment/augmentations|Аугментации (Augmentations)]], [[equipment/grenades|Гранаты (Grenades)]], [[equipment/magic-items|Магические предметы (Magic Items)]], [[equipment/medical-items|Медицинские предметы (Medical Items)]], [[equipment/precious-materials|Драгоценные материалы (Precious Materials)]], [[equipment/shields|Щиты (Shields)]], [[equipment/solarian-crystals|Соларианские кристаллы (Solarian Crystals)]], [[equipment/upgrades|Улучшения (Upgrades)]], [[equipment/weapons|Оружие (Weapons)]]
 
 Также рекомендую использовать следующие ресурсы
 

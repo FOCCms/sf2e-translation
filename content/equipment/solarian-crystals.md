@@ -16,15 +16,15 @@ title: Соларианские кристаллы (Solarian Crystals)
 
 ## Орбитальные кристаллы (Orbital crystals)
 
-| Название             | Источник    | Редкость | Уровень | Цена  |
-| -------------------- | ----------- | -------- | ------- | ----- |
-| Cycling              | Player Core | Обычный  | 6       | 2000  |
-| Gluon, commercial    | Player Core | Обычный  | 6       | 2360  |
-| Graviton, commercial | Player Core | Обычный  | 7       | 3600  |
-| Photon, commercial   | Player Core | Обычный  | 7       | 3600  |
-| Gluon, tactical      | Player Core | Обычный  | 9       | 6600  |
-| Gluon, advanced      | Player Core | Обычный  | 12      | 18900 |
-| Quasar<sup>Н</sup>   | Player Core | Обычный  | 13      | 30000 |
-| Graviton, tactical   | Player Core | Обычный  | 14      | 45000 |
-| Photon, tactical     | Player Core | Обычный  | 14      | 45000 |
-| Gluon, superior      | Player Core | Обычный  | 15      | 61400 |
+| Название                                                                             | Источник    | Редкость | Уровень | Цена  |
+| ------------------------------------------------------------------------------------ | ----------- | -------- | ------- | ----- |
+| [[equipment/all-equipment/all-crystals/cycling\|Цикличный (Cycling)]]                | Player Core | Обычный  | 6       | 2000  |
+| [[equipment/all-equipment/all-crystals/gluon\|Глюон (Gluon)]], коммерческий          | Player Core | Обычный  | 6       | 2360  |
+| [[equipment/all-equipment/all-crystals/graviton\|Гравитон (Graviton)]], коммерческий | Player Core | Обычный  | 7       | 3600  |
+| [[equipment/all-equipment/all-crystals/photon\|Фотон (Photon)]], коммерческий        | Player Core | Обычный  | 7       | 3600  |
+| [[equipment/all-equipment/all-crystals/gluon\|Глюон (Gluon)]], тактический           | Player Core | Обычный  | 9       | 6600  |
+| [[equipment/all-equipment/all-crystals/gluon\|Глюон (Gluon)]], улучшенный            | Player Core | Обычный  | 12      | 18900 |
+| [[equipment/all-equipment/all-crystals/quasar\|Квазар (Quasar)]]<sup>Н</sup>         | Player Core | Обычный  | 13      | 30000 |
+| [[equipment/all-equipment/all-crystals/graviton\|Гравитон (Graviton)]], тактический  | Player Core | Обычный  | 14      | 45000 |
+| [[equipment/all-equipment/all-crystals/photon\|Фотон (Photon)]], тактический         | Player Core | Обычный  | 14      | 45000 |
+| [[equipment/all-equipment/all-crystals/gluon\|Глюон (Gluon)]], превосходный          | Player Core | Обычный  | 15      | 61400 |
