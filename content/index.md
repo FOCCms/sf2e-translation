@@ -75,9 +75,11 @@ title: Перевод Starfinder 2e на русском
 - [[rules/player core/chapter-6-equipment|Глава 6. Снаряжение (Equipment)]]
 - [[rules/player core/chapter-7-spells|Глава 7. Заклинания (Spells)]]
 - [[rules/player core/chapter-8-playing-the-game|Глава 8. Ведение игры (Playing the Game)]]
+- [[rules/player core/conditions-appendix|Приложение состояний (Conditions Appendix)]]
 
 ## Ссылки
 
 - [Telegram чат](https://t.me/sf2Eru/1) где вы можете сообщить об ошибках перевода
+- [Starfinder2e ЧАТ 🪐 goblin pod](https://t.me/stargoblin_chat) — Чат для обсуждения Starfinder2e
 - Перевод правил PF2E https://pf2e-ru-translation.readthedocs.io/ru/latest/index.html 
 - Оригинальные srd правила на английском https://2e.aonsrd.com/ или https://app.demiplane.com/nexus/starfinder2e
