@@ -12,4 +12,4 @@ rarity: common
 
 ## Способности, требующие наследие Лашунта дамая…
 
-==Psychic Scholar==
+[[feats/all-feats/psychic-scholar|Псионический учёный (Psychic Scholar)]]

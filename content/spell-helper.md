@@ -160,7 +160,7 @@ varies (различается)
 [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложной местностью]]
 
 [[rules/player core/chapter-8-playing-the-game#Сумеречное зрение (Low-Light Vision)|сумеречное зрение]]
-
+[[rules/player core/chapter-8-playing-the-game#Штраф множественной атаки (Multiple Attack Penalty)|штраф множественной атаки]]
 [[rules/player core/chapter-8-playing-the-game#Нюх (Scent)|нюх]]
 [[rules/player core/chapter-8-playing-the-game#Неточные чувства (Imprecise Senses)|неточное чувство]]
 

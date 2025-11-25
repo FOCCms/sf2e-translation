@@ -21,4 +21,4 @@ summary: Вы получаете доступ ко всему необычном
 
 ## Знакомство с оружием Весков позволяет выбрать…
 
-==Plated Deflection==
+[[feats/all-feats/plated-deflection|Панцирное отражение (Plated Deflection)]]

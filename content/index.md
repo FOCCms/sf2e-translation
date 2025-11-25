@@ -6,22 +6,78 @@ title: Перевод Starfinder 2e на русском
 > [!warning] 
 > Перевод в процессе
 
-На текущий момент готово:
-- [[rules/player core/index|Книга Игрока (Player Core)]] в черновом варианте. Много опечаток, нет множества ссылок, но в целом читабельно.
-- Все [[character-creation/classes|Классы (Classes)]] из книги игрока.
-- Все [[character-creation/archetypes|Архетипы (Archetypes)]] из книги игрока.
-- Все заклинания и чары из книги игрока, разбитые по категориям: [[spells/arcane|Арканные (Arcane)]], [[spells/divine|Сакральные (Divine)]], [[spells/occult|Оккультные (Occult)]], [[spells/primal|Природные (Primal)]]. Все [[spells/rituals|Ритуалы (Rituals)]] из книги игрока. Все [[spells/focus-spells|Заклинания фокусировки (Focus Spells)]] из книги игрока.
-- [[rules/activities/index|Активности (Activities)]] — все активности из книги игрока
-- [[rules/conditions/index|Состояния (Conditions)]] — все состояния из книги игрока
-- [[character-creation/backgrounds|Предыстории (Backgrounds)]] — все предыстории из книги игрока
-- [[character-creation/ancestries|Родословные (Ancestries)]] — все родословные из книги игрока
-- [[character-creation/skills/index|Навыки (Skills)]] — все навыки и действия навыков из книги игрока
-- [[feats/general-feats|Общие способности (General Feats)]] — все общие способности из книги игрока
-- [[equipment/adventuring-gear|Снаряжение для приключений (Adventuring Gear)]], [[equipment/armor|Броня (Armor)]], [[equipment/augmentations|Аугментации (Augmentations)]], [[equipment/grenades|Гранаты (Grenades)]], [[equipment/magic-items|Магические предметы (Magic Items)]], [[equipment/medical-items|Медицинские предметы (Medical Items)]], [[equipment/precious-materials|Драгоценные материалы (Precious Materials)]], [[equipment/shields|Щиты (Shields)]], [[equipment/solarian-crystals|Соларианские кристаллы (Solarian Crystals)]], [[equipment/upgrades|Улучшения (Upgrades)]], [[equipment/weapons|Оружие (Weapons)]]
+## Классы
 
-Также рекомендую использовать следующие ресурсы
+- [[character-creation/all-classes-content/all-classes/envoy|Посланник (Envoy)]]
+- [[character-creation/all-classes-content/all-classes/mystic|Мистик (Mystic)]]
+- [[character-creation/all-classes-content/all-classes/operative|Оперативник (Operative)]]
+- [[character-creation/all-classes-content/all-classes/solarian|Солариан (Solarian)]]
+- [[character-creation/all-classes-content/all-classes/soldier|Солдат (Soldier)]]
+- [[character-creation/all-classes-content/all-classes/witchwarper|Исказитель (Witchwarper)]]
 
-- Перевод правил ПФ2Е https://pf2e-ru-translation.readthedocs.io/ru/latest/index.html ведь основные правила совместимы. Но будьте внимательны: некоторые заклинания, активности и пр. поменяли описание и могут отличаться от тех, что были в пф.
-- оригинальные срд правила на английском https://2e.aonsrd.com/ или https://app.demiplane.com/nexus/starfinder2e
+[[character-creation/archetypes|Архетипы]]
 
-[Telegram чат](https://t.me/sf2Eru/1) где вы можете сообщить об ошибках перевода
+## Родословные
+
+- [[character-creation/all-ancestry-content/all-ancestries/android|Андроид (Android)]]
+- [[character-creation/all-ancestry-content/all-ancestries/barathu|Барату (Barathu)]]
+- [[character-creation/all-ancestry-content/all-ancestries/human|Человек (Human)]]
+- [[character-creation/all-ancestry-content/all-ancestries/kasatha|Касата (Kasatha)]]
+- [[character-creation/all-ancestry-content/all-ancestries/lashunta|Лашунта (Lashunta)]]
+- [[character-creation/all-ancestry-content/all-ancestries/pahtra|Патра (Pahtra)]]
+- [[character-creation/all-ancestry-content/all-ancestries/shirren|Ширрен (Shirren)]]
+- [[character-creation/all-ancestry-content/all-ancestries/skittermander|Скиттермандер (Skittermander)]]
+- [[character-creation/all-ancestry-content/all-ancestries/vesk|Веск (Vesk)]]
+- [[character-creation/all-ancestry-content/all-ancestries/ysoki|Йсоки (Ysoki)]]
+
+- [[character-creation/all-ancestry-content/all-ancestries/borai|Бораи (Borai)]]
+- [[character-creation/all-ancestry-content/all-ancestries/prismeni|Присмени (Prismeni)]]
+
+## Предыстории
+
+Полный список на странице [[character-creation/backgrounds|Предыстории]]
+
+## Снаряжение
+
+- [[equipment/adventuring-gear|Снаряжение для приключений (Adventuring Gear)]]
+- [[equipment/armor|Броня (Armor)]]
+- [[equipment/augmentations|Аугментации (Augmentations)]]
+- [[equipment/grenades|Гранаты (Grenades)]]
+- [[equipment/magic-items|Магические предметы (Magic Items)]]
+- [[equipment/medical-items|Медицинские предметы (Medical Items)]]
+- [[equipment/precious-materials|Драгоценные материалы (Precious Materials)]]
+- [[equipment/shields|Щиты (Shields)]]
+- [[equipment/solarian-crystals|Соларианские кристаллы (Solarian Crystals)]]
+- [[equipment/upgrades|Улучшения (Upgrades)]]
+- [[equipment/weapons|Оружие (Weapons)]]
+
+## Общие способности
+
+Полный список на странице [[feats/general-feats|Общие способности (General Feats)]]
+
+## Заклинания
+
+- [[spells/arcane|Арканные (Arcane)]]
+- [[spells/divine|Сакральные (Divine)]]
+- [[spells/occult|Оккультные (Occult)]]
+- [[spells/primal|Природные (Primal)]]
+
+- [[spells/focus-spells|Заклинания фокусировки (Focus Spells)]]
+- [[spells/rituals|Ритуалы (Rituals)]]
+
+## Книга игрока
+
+- [[rules/player core/chapter-1-introduction|Глава 1. Введение (Introduction)]]
+- [[rules/player core/chapter-2-ancestries-and-backgrounds|Глава 2. Родословные и предыстории (Ancestries & Backgrounds)]]
+- [[rules/player core/chapter-3-classes|Глава 3. Классы (Classes)]]
+- [[rules/player core/chapter-4-skills|Глава 4. Навыки (Skills)]]
+- [[rules/player core/chapter-5-feats|Глава 5. Способности (Feats)]]
+- [[rules/player core/chapter-6-equipment|Глава 6. Снаряжение (Equipment)]]
+- [[rules/player core/chapter-7-spells|Глава 7. Заклинания (Spells)]]
+- [[rules/player core/chapter-8-playing-the-game|Глава 8. Ведение игры (Playing the Game)]]
+
+## Ссылки
+
+- [Telegram чат](https://t.me/sf2Eru/1) где вы можете сообщить об ошибках перевода
+- Перевод правил PF2E https://pf2e-ru-translation.readthedocs.io/ru/latest/index.html 
+- Оригинальные srd правила на английском https://2e.aonsrd.com/ или https://app.demiplane.com/nexus/starfinder2e

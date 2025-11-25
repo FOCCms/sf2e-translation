@@ -147,9 +147,9 @@ title: Оружие (Weapons)
 
 | Амуниция                                                                                         | Уровень | Цена | Магазин | Масса |
 | ------------------------------------------------------------------------------------------------ | ------- | ---- | ------- | ----- |
-| [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (коммерческий) | 0       | 10   | 10      | –     |
-| [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (тактический)  | 2       | 20   | 20      | –     |
-| [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (улучшенный)   | 4       | 40   | 40      | –     |
+| [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (коммерческий) | 0       | 10   | 10      | —     |
+| [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (тактический)  | 2       | 20   | 20      | —     |
+| [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (улучшенный)   | 4       | 40   | 40      | —     |
 | [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (превосходный) | 10      | 60   | 60      | Л     |
 | [[equipment/all-equipment/all-ammunition/batteries#Батареи (Batteries)\|Батарея]] (элитный)      | 12      | 100  | 100     | Л     |
 
@@ -157,8 +157,8 @@ title: Оружие (Weapons)
 
 | Амуниция                                                                        | Уровень | Цена | Магазин | Масса |
 | ------------------------------------------------------------------------------- | ------- | ---- | ------- | ----- |
-| [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (коммерческий) | 0       | 5    | 8       | –     |
-| [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (тактический)  | 2       | 10   | 16      | –     |
-| [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (улучшенный)   | 4       | 20   | 40      | –     |
+| [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (коммерческий) | 0       | 5    | 8       | —     |
+| [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (тактический)  | 2       | 10   | 16      | —     |
+| [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (улучшенный)   | 4       | 20   | 40      | —     |
 | [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (превосходный) | 10      | 30   | 48      | Л     |
 | [[equipment/all-equipment/all-ammunition/chem-tanks\|Химбаллон]] (элитный)      | 12      | 50   | 64      | Л     |
