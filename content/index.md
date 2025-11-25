@@ -3,9 +3,6 @@ title: Перевод Starfinder 2e на русском
 ---
 # Перевод Starfinder 2e на русском
 
-> [!warning] 
-> Перевод в процессе
-
 ## Классы
 
 - [[character-creation/all-classes-content/all-classes/envoy|Посланник (Envoy)]]
