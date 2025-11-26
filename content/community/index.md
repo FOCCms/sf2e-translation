@@ -1,5 +1,5 @@
 ---
 title: Сообщество (Community)
-order: 1000
+order: 7
 ---
 # Сообщество (Community)
