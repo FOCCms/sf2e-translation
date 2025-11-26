@@ -3,6 +3,9 @@ title: Перевод Starfinder 2e на русском
 ---
 # Перевод Starfinder 2e на русском
 
+> [!warning] Перевод в режиме вычитки
+> О найденных ошибках просьба сообщать в [ТГ](https://t.me/sf2Eru/1) или [ГитХаб](https://github.com/FOCCms/sf2e-translation/issues). Подробнее: [[community/report-bug|Сообщить об ошибке]]
+
 ## Классы
 
 - [[character-creation/all-classes-content/all-classes/envoy|Посланник (Envoy)]]
