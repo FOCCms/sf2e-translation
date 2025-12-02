@@ -10,6 +10,6 @@ source: Player Core
 **Тип** Способность  
 **Уровень** 14  
 **Предварительные условия** [[feats/all-feats/parkour|Паркур (Parkour) ◆]]  
-**Требования** Вы держите ствол.  
+**Требования** Вы держите [[character-creation/all-classes-content/all-classes/operative#Ключевые термины|ствол]].  
 
-Вы совершаете эффектный выстрел как часть отчаянного трюка. Вы выполняете [[feats/all-feats/parkour|Паркур (Parkour) ◆]]. Во время этого движения, включая момент падения, вы можете [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]], а затем совершить дистанционный [[rules/activities/all-activities/strike|Удар (Strike) ◆]] из удерживаемого ствола.
+Вы совершаете эффектный выстрел как часть отчаянного трюка. Вы выполняете [[feats/all-feats/parkour|Паркур (Parkour) ◆]]. Во время этого движения, включая момент падения, вы можете [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]], а затем совершить дистанционный [[rules/activities/all-activities/strike|Удар (Strike) ◆]] из удерживаемого [[character-creation/all-classes-content/all-classes/operative#Ключевые термины|ствола]].

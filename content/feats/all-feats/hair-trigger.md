@@ -10,6 +10,6 @@ source: Player Core
 **Тип** Способность  
 **Уровень** 6  
 **Частота** Последнее существо, в которое вы выполнили [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]] с начала вашего прошлого хода, выполняет действие [[rules/traits/manipulate|манипуляция]] или [[rules/traits/move|движение]], совершает дистанционную [[rules/traits/attack|атаку]] или покидает клетку во время действия движения.  
-**Требования** Вы держите ствол.  
+**Требования** Вы держите [[character-creation/all-classes-content/all-classes/operative#Ключевые термины|ствол]].  
 
 Вы совершаете дистанционный [[rules/activities/all-activities/strike|Удар (Strike) ◆]] по спровоцировавшему существу. Этот [[rules/activities/all-activities/strike|Удар (Strike) ◆]] не засчитывается в ваш штраф множественной атаки, и штраф множественной атаки не применяется к этому Удару.

@@ -10,4 +10,4 @@ source: Player Core
 **Тип** Способность  
 **Уровень** 1  
 
-Вы достаёте свой ствол и прицеливаетесь одним движением. Вы выполняете [[rules/activities/all-activities/interact|Взаимодействовать (Interact) ◆]], чтобы достать дистанционное оружие или [[rules/activities/all-activities/switch-hands|Сменить Руки (Switch Hands) ◆]], а затем [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]] с этим дистанционным оружием.
+Вы достаёте свой [[character-creation/all-classes-content/all-classes/operative#Ключевые термины|ствол]] и прицеливаетесь одним движением. Вы выполняете [[rules/activities/all-activities/interact|Взаимодействовать (Interact) ◆]], чтобы достать дистанционное оружие или [[rules/activities/all-activities/switch-hands|Сменить Руки (Switch Hands) ◆]], а затем [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]] с этим дистанционным оружием.

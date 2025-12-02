@@ -9,6 +9,6 @@ source: Player Core
 **Источник** Player Core  
 **Тип** Способность  
 **Уровень** 12  
-**Требования** Вы держите ствол.  
+**Требования** Вы держите [[character-creation/all-classes-content/all-classes/operative#Ключевые термины|ствол]].  
 
 Вы бросаетесь вперёд, совершая точно выверенный выстрел по противнику на ходу. Выполните [[rules/activities/all-activities/aim|Прицелиться (Aim) ◆]], а затем [[rules/activities/all-activities/stride|Перемещение (Stride) ◆]] со своей Скоростью. В любой момент этого движения вы можете совершить дистанционный [[rules/activities/all-activities/strike|Удар (Strike) ◆]] из удерживаемого ствола.
