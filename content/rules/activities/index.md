@@ -7,6 +7,6 @@ title: Активности (Activities)
 
 [[rules/activities/basic-actions#Специальные простые действия (Specialty Basic Actions)|Специальные простые действия (Specialty Basic Actions)]]
 
-[[rules/traits/exploration|Исследование (Exploration)]]
+[[rules/activities/exploration|Исследование (Exploration)]]
 
 [[rules/activities/downtime|Отдых (Downtime)]]

@@ -68,8 +68,8 @@ title: Оккультные (Occult)
 [[spells/all-spells/shifting-surge|Стихийный всплеск (Shifting Surge)]] <sup>У</sup> - Изменяет тип урона оружия и наносит дополнительный урон исходным типом урона.  
 [[spells/all-spells/sleep|Сон (Sleep)]] <sup>У</sup> - Заставляет заснуть существ в небольшой области.  
 [[spells/all-spells/sonic-scream|Звуковой крик (Sonic Scream)]] <sup>У</sup> - Издайте крик, который повлияет на существ в конусе.  
-Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.  
-[[spells/all-spells/spirit-link|Духовная связь (Spirit Link)]] <sup>У</sup> - Постоянно передавайте свое здоровье кому-то другому.   
+[[spells/all-spells/soothe|Успокоение (Soothe)]] <sup>У</sup> - Исцеляет цель и укрепляет ее против ментальных атак..  
+[[spells/all-spells/spirit-link|Духовная связь (Spirit Link)]] <sup>У</sup> - Постоянно передавайте свое здоровье кому-то другому.  
 [[spells/all-spells/summon-fey|Призыв феи (Summon Fey)]] <sup>У</sup> - Призывает фею, которая сражается за вас.  
 [[spells/all-spells/summon-undead|Призыв нежити (Summon Undead)]] - Призывает нежить, которая сражается за вас.  
 [[spells/all-spells/sure-strike|Верный удар (Sure Strike)]] - Делает вашу следующую атаку особенно точной.  
@@ -249,3 +249,4 @@ Soothe <sup>У</sup> - Heal the target and bolster them against mental attacks.
 [[spells/all-spells/indestructibility|Несокрушимость (Indestructibility)]] - Ненадолго становитесь иммунны ко всему.  
 [[spells/all-spells/manifestation|Манифестация (Manifestation)]] - Свободно сотворяете заклинание 9-го ранга вашей традиции.  
 [[spells/all-spells/remake|Ремейк (Remake)]] <sup>Н</sup> - Воссоздаёт разрушенный объект.  
+w
