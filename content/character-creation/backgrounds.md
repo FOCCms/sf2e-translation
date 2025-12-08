@@ -40,4 +40,5 @@ title: Предыстории (Backgrounds)
 [[character-creation/all-backgrounds/teacher|Учитель (Teacher)]]  
 [[character-creation/all-backgrounds/tech-support|Техподдержка (Tech Support)]]  
 [[character-creation/all-backgrounds/timelost|Потерянный во Времени (Timelost)]]  
+[[character-creation/all-backgrounds/trooper|Штурмовик (Trooper)]]  
 [[character-creation/all-backgrounds/vidgamer|Видеогеймер (Vidgamer)]]  
