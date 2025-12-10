@@ -11,7 +11,7 @@ action: ↩
 ---
 # Удар из-под тишка (Skulking Strike) ↩
 
-[[rules/traits/ysoki|Йсоки]]
+[[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Способность  

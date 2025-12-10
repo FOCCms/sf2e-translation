@@ -1,9 +1,9 @@
 ---
-title: Акитонский йсоки (Akitonian Ysoki)
+title: Акитонский исоки (Akitonian Ysoki)
 source: Player Core
 rarity: common
 ---
-# Акитонский йсоки (Akitonian Ysoki)
+# Акитонский исоки (Akitonian Ysoki)
 
 **Источник** Player Core  
 **Тип** Наследие  

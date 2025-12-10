@@ -9,7 +9,7 @@ summary: Ваша непоколебимая вера в Бабушку Крыс
 ---
 # Бабушкин любимчик (Grandmother's Favorite)
 
-[[rules/traits/ysoki|Йсоки]]
+[[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Способность  

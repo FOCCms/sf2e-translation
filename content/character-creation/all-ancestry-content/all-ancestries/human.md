@@ -71,13 +71,13 @@ rarity: common
 
 У людей нет значительных физиологических различий, определяемых их происхождением. Вместо этого их наследия отражают их потенциал как народа. Во многих случаях эти наследия могут представлять собой ответвления, сформировавшиеся на мирах, находящихся далеко за пределами Миров Пакта. Выберите одно из следующих наследий человека на 1-м уровне.
 
-[[character-creation/all-ancestry-content/all-heritages/golarion-survivor-human|Голарионский выживший человек (Golarion Survivor Human)]]
+[[character-creation/all-ancestry-content/all-heritages/golarion-survivor-human|Выживший c Голариона (Golarion Survivor Human)]]
 
 [[character-creation/all-ancestry-content/all-heritages/skilled-human|Умелый человек (Skilled Human)]]
 
 [[character-creation/all-ancestry-content/all-heritages/urbanite-human|Городской человек (Urbanite Human)]]
 
-[[character-creation/all-ancestry-content/all-heritages/versatile-human|Универсальный человек (Versatile Human)]]
+[[character-creation/all-ancestry-content/all-heritages/versatile-human|Разносторонний человек (Versatile Human)]]
 
 ## Способности родословной Человек (Human Ancestry Feats)
 

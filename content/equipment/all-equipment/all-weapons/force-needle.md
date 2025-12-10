@@ -3,7 +3,7 @@ title: Игла силы (Force needle)
 ---
 # Игла силы (Force needle)
 
-[[rules/traits/agile|Быстрое]] [[rules/traits/backstabber|Предательское]] [[rules/traits/concealable|Скрываемое]] [[rules/traits/finesse|Точное]] [[rules/traits/injection|Инъекционное]] [[rules/traits/tech|Техно]] [[rules/traits/ysoki|Йсоки]]
+[[rules/traits/agile|Быстрое]] [[rules/traits/backstabber|Предательское]] [[rules/traits/concealable|Скрываемое]] [[rules/traits/finesse|Точное]] [[rules/traits/injection|Инъекционное]] [[rules/traits/tech|Техно]] [[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Оружие  

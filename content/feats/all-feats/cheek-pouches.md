@@ -9,7 +9,7 @@ summary: Ваши щёки эластичны, и вы можете хранит
 ---
 # Защёчные мешки (Cheek Pouches)
 
-[[rules/traits/ysoki|Йсоки]]
+[[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Способность  

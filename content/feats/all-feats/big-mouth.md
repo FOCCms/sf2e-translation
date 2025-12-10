@@ -10,7 +10,7 @@ summary: Ваши защёчные мешки особенно большие и
 ---
 # Большой рот (Big Mouth)
 
-[[rules/traits/ysoki|Йсоки]]
+[[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Способность  

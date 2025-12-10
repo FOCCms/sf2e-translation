@@ -1,9 +1,9 @@
 ---
-title: Глубинный йсоки (Deep Ysoki)
+title: Глубинный исоки (Deep Ysoki)
 source: Player Core
 rarity: common
 ---
-# Глубинный йсоки (Deep Ysoki)
+# Глубинный исоки (Deep Ysoki)
 
 **Источник** Player Core  
 **Тип** Наследие  

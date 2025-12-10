@@ -21,7 +21,7 @@ title: Родословные (Ancestries)
 
 [[character-creation/all-ancestry-content/all-ancestries/vesk|Веск (Vesk)]]
 
-[[character-creation/all-ancestry-content/all-ancestries/ysoki|Йсоки (Ysoki)]]
+[[character-creation/all-ancestry-content/all-ancestries/ysoki|Исоки (Ysoki)]]
 
 ## Универсальные Наследия (Versatile Heritages)
 

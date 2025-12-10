@@ -1,9 +1,9 @@
 ---
-title: Кораблерождённый йсоки (Shipborn Ysoki)
+title: Кораблерождённый исоки (Shipborn Ysoki)
 source: Player Core
 rarity: common
 ---
-# Кораблерождённый йсоки (Shipborn Ysoki)
+# Кораблерождённый исоки (Shipborn Ysoki)
 
 **Источник** Player Core  
 **Тип** Наследие  
@@ -12,6 +12,6 @@ rarity: common
 
 Вы приспособились к маневрированию в тесных пространствах. Вы получаете бонус обстоятельства +1 к проверкам Акробатики, чтобы [[rules/activities/all-activities/tumble-through|Проскочить (Tumble Through) ◆]] сквозь клетки противников среднего или большего размера, и присутствие противника не делает такие клетки [[rules/player core/chapter-8-playing-the-game#Сложная местность (Difficult Terrain)|сложной местностью]].
 
-## Способности, требующие наследие Кораблерождённый йсоки…
+## Способности, требующие наследие Кораблерождённый исоки…
 
 [[feats/all-feats/underfoot|Под ногами (Underfoot)]]

@@ -10,7 +10,7 @@ action: ◇
 ---
 # Исчезновение из виду (Slip From Sight) ◇
 
-[[rules/traits/ysoki|Йсоки]]
+[[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Способность  

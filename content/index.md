@@ -28,7 +28,7 @@ title: Перевод Starfinder 2e на русском
 - [[character-creation/all-ancestry-content/all-ancestries/shirren|Ширрен (Shirren)]]
 - [[character-creation/all-ancestry-content/all-ancestries/skittermander|Скиттермандер (Skittermander)]]
 - [[character-creation/all-ancestry-content/all-ancestries/vesk|Веск (Vesk)]]
-- [[character-creation/all-ancestry-content/all-ancestries/ysoki|Йсоки (Ysoki)]]
+- [[character-creation/all-ancestry-content/all-ancestries/ysoki|Исоки (Ysoki)]]
 
 - [[character-creation/all-ancestry-content/all-ancestries/borai|Бораи (Borai)]]
 - [[character-creation/all-ancestry-content/all-ancestries/prismeni|Присмени (Prismeni)]]

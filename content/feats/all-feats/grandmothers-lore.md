@@ -9,7 +9,7 @@ summary: Вы следуете учению Лао Шу По.
 ---
 # Знания бабушки (Grandmother's Lore)
 
-[[rules/traits/ysoki|Йсоки]]
+[[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Способность  

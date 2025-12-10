@@ -9,7 +9,7 @@ summary: Вы умеете ютиться в ограниченном прост
 ---
 # Тесная компания (Overcrowd)
 
-[[rules/traits/ysoki|Йсоки]]
+[[rules/traits/ysoki|Исоки]]
 
 **Источник** Player Core  
 **Тип** Способность  
