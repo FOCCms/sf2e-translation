@@ -77,7 +77,7 @@ title: Перевод Starfinder 2e на русском
 - [[rules/player core/chapter-8-playing-the-game|Глава 8. Ведение игры (Playing the Game)]]
 - [[rules/player core/conditions-appendix|Приложение состояний (Conditions Appendix)]]
 
-## Ссылки
+## Полезные ссылки
 
 - [Telegram чат](https://t.me/sf2Eru/1) где вы можете сообщить об ошибках перевода
 - [Starfinder2e ЧАТ 🪐 goblin pod](https://t.me/stargoblin_chat) — Чат для обсуждения Starfinder2e
