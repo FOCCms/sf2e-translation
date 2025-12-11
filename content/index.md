@@ -80,6 +80,7 @@ title: Перевод Starfinder 2e на русском
 ## Полезные ссылки
 
 - [Telegram чат](https://t.me/sf2Eru/1) где вы можете сообщить об ошибках перевода
+- [Discord сервер GM Marty](https://discord.com/invite/FCgGCVHbF6) — Если хотите обсудить игру, найти игроков или мастера, то вам сюда
 - [Starfinder2e ЧАТ 🪐 goblin pod](https://t.me/stargoblin_chat) — Чат для обсуждения Starfinder2e
 - Перевод правил PF2E https://pf2e-ru-translation.readthedocs.io/ru/latest/index.html 
 - Оригинальные srd правила на английском https://2e.aonsrd.com/ или https://app.demiplane.com/nexus/starfinder2e
