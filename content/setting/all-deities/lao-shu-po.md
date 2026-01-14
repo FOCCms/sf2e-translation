@@ -22,4 +22,4 @@ title: Лао Шу По (Lao Shu Po)
 **Божественный навык** [[character-creation/skills/thievery|Воровство]]  
 **Предпочитаемое оружие** Кинжал (Dagger) или [[equipment/all-equipment/all-weapons/shuriken-drone|Дрон-сюрикен (Shuriken Drone)]]  
 **Домены** Тьма (Darkness), Везение (Luck), Рой (Swarm), Хитрость (Trickery)  
-**Заклинания жреца** 1-й: [[spells/all-spells/summon-animal|Призыв животного (Summon Animal)]]; 2-й: [[spells/all-spells/knock|Стук (Knock)]]; 4-й: [[spells/all-spells/veil-of-privacy|Завеса приватности (Veil of Privacy)]]  
+**Заклинания жреца** 1-й: [[spells/all-spells/summon-animal|Призыв животного (Summon Animal)]]; 2-й: [[spells/all-spells/knock|Стук (Knock)]]; 3-й: [[spells/all-spells/veil-of-privacy|Завеса приватности (Veil of Privacy)]]  

@@ -3,7 +3,7 @@ title: Боевая лента (Battle Ribbon)
 ---
 # Боевая лента (Battle Ribbon)
 
-[[rules/traits/analog|Аналоговое]] [[rules/traits/finesse|Точное]] [[rules/traits/nonlethal|Несмертельное]] [[rules/traits/reach|Досягаемость]] [[rules/traits/trip|Опрокидывание]]
+[[rules/traits/analog|Аналоговое]] [[rules/traits/disarm|Разоружение]] [[rules/traits/finesse|Точное]] [[rules/traits/nonlethal|Несмертельное]] [[rules/traits/reach|Досягаемость]] [[rules/traits/trip|Опрокидывание]]
 
 **Источник** Player Core  
 **Тип** Оружие  

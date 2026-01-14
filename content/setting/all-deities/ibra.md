@@ -21,5 +21,5 @@ title: Ибра (Ibra)
 **Божественное священие** можно выбрать [[rules/traits/holy|святой]] или [[rules/traits/unholy|нечестивый]]  
 **Божественный навык** [[character-creation/skills/thievery|Воровство]]  
 **Предпочитаемое оружие** [[equipment/all-equipment/all-weapons/plasma-caster|Плазмомёт (Plasma caster)]]  
-**Домены** Знания (Knowledge), Звезда (Star), Солнце (Sun), Пустота (Void)  
+**Домены** Знания (Knowledge), Небытие (Nothingness), Звезда (Star), Солнце (Sun)  
 **Заклинания жреца** 1-й: [[spells/all-spells/shifting-surge|Стихийный всплеск (Shifting Surge)]]; 3-й: [[spells/all-spells/personal-gravity|Личная гравитация (Personal Gravity)]]; 6-й: [[spells/all-spells/wall-of-plasma|Стена плазмы (Wall of Plasma)]]  

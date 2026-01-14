@@ -18,3 +18,5 @@ title: Архетипы (Archetypes)
 [[character-creation/all-classes-content/all-archetypes/soldier|Солдат (Soldier)]]
 
 [[character-creation/all-classes-content/all-archetypes/witchwarper|Исказитель (Witchwarper)]]
+
+[[character-creation/all-classes-content/all-archetypes/starfinder-field-agent|Полевой агент Starfinder (Starfinder Field Agent)]]

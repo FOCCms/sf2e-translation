@@ -15,7 +15,7 @@ title: Огнемёт (Flamethrower)
 **Перезарядка** 1  
 **Масса** 2  
 **Руки** 2  
-**Магазин** 10 порций  
+**Магазин** 8 порций  
 **Расход** 2  
 **Улучшения** 1  
 **Группа** [[equipment/all-equipment/all-specialization-effects/flame|Пламя]]  

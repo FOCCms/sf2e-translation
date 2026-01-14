@@ -3,7 +3,7 @@ title: Винтовка ассасина (Assassin rifle)
 ---
 # Винтовка ассасина (Assassin rifle)
 
-[[rules/traits/analog|Аналоговое]] [[rules/traits/backstabber|Предательское]] [[rules/traits/fatal|Фатальное d12]] [[rules/traits/kickback|Отдача]] [[rules/traits/unwieldy|Громоздкий]] [[rules/traits/volley|Залповое 30 фт.]]
+[[rules/traits/analog|Аналоговое]] [[rules/traits/backstabber|Предательское]] [[rules/traits/breakdown|Разборное]] [[rules/traits/deadly|Смертельное d10]] [[rules/traits/kickback|Отдача]] [[rules/traits/unwieldy|Громоздкий]] [[rules/traits/volley|Залповое 30 фт.]]
 
 **Источник** Player Core  
 **Тип** Оружие  

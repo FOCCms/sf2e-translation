@@ -22,4 +22,4 @@ title: Даморитош (Damoritosh)
 **Божественный навык** [[character-creation/skills/intimidation|Запугивание]]  
 **Предпочитаемое оружие** [[equipment/all-equipment/all-weapons/doshko|Дошко (Doshko)]]  
 **Домены** Разрушение (Destruction), Долг (Duty), Магия (Magic), Тирания (Tyranny)  
-**Заклинания жреца** 1-й: [[spells/all-spells/supercharge-weapon|Перегрузка оружия (Supercharge Weapon)]]; 3-й: [[spells/all-spells/entropy-strike|Удар энтропии (Entropy Strike)]]; 6-й: [[spells/all-spells/rocket-dash|Ракетный рывок (Rocket Dash)]]  
+**Заклинания жреца** 1-й: [[spells/all-spells/supercharge-weapon|Перегрузка оружия (Supercharge Weapon)]]; 3-й: [[spells/all-spells/haste|Ускорение (Haste)]]; 6-й: [[spells/all-spells/rocket-dash|Ракетный рывок (Rocket Dash)]]  

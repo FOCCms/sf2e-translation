@@ -6,6 +6,10 @@ title: Перевод Starfinder 2e на русском
 > [!warning] Перевод в режиме вычитки
 > О найденных ошибках просьба сообщать в [ТГ](https://t.me/sf2Eru/1) или [ГитХаб](https://github.com/FOCCms/sf2e-translation/issues). Подробнее: [[zone-of-community/report-bug|Сообщить об ошибке]]
 
+## Новости
+
+[[zone-of-community/all-news/2026-01-13-starfinder-player-core-errata|Эррата Starfinder Player Core Errata]] — перевод зимней эрраты. Все изменения уже на сайте! Подробности внутри.
+
 ## Классы
 
 - [[character-creation/all-classes-content/all-classes/envoy|Посланник (Envoy)]]
@@ -76,6 +80,10 @@ title: Перевод Starfinder 2e на русском
 - [[rules/player core/chapter-7-spells|Глава 7. Заклинания (Spells)]]
 - [[rules/player core/chapter-8-playing-the-game|Глава 8. Ведение игры (Playing the Game)]]
 - [[rules/player core/conditions-appendix|Приложение состояний (Conditions Appendix)]]
+
+---
+
+[[rules/faq|Частые вопросы (FAQ)]]
 
 ## Полезные ссылки
 

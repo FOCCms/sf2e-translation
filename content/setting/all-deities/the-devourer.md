@@ -21,5 +21,5 @@ title: Пожиратель (The Devourer)
 **Божественное священие** можно выбрать [[rules/traits/unholy|нечестивый]]  
 **Божественный навык** [[character-creation/skills/athletics|Атлетика]]  
 **Предпочитаемое оружие** [[equipment/all-equipment/all-weapons/disintegration-lash|Плеть дезинтеграции (Disintegration lash)]] или Кувалда (Maul)  
-**Домены** Разрушение (Destruction), Звезда (Star), Пустота (Void), Рвение (Zeal)  
+**Домены** Разрушение (Destruction), Небытие (Nothingness), Звезда (Star), Рвение (Zeal)  
 **Заклинания жреца** 1-й: [[spells/all-spells/pummeling-rubble|Бьющие обломки (Pummeling Rubble)]]; 2-й: [[spells/all-spells/acid-grip|Кислотная хватка (Acid Grip)]]; 6-й: [[spells/all-spells/disintegrate|Дезинтеграция (Disintegrate)]]  

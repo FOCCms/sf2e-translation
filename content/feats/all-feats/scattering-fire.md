@@ -1,8 +1,8 @@
 ---
-title: Разбрасывающий огонь (Scattering Fire) ◆◆
+title: Разбрасывающий огонь (Scattering Fire)
 source: Player Core
 ---
-# Разбрасывающий огонь (Scattering Fire) ◆◆
+# Разбрасывающий огонь (Scattering Fire)
 
 [[rules/traits/soldier|Солдат]]
 
@@ -11,4 +11,4 @@ source: Player Core
 **Уровень** 14  
 **Предварительные условия** [[feats/all-feats/shoving-shot|Толкающий выстрел (Shoving Shot) ◆◆]]  
 
-Ваш сокрушительный обстрел разбрасывает врагов, как листья на ветру. Когда вы используете [[feats/all-feats/shoving-shot|Толкающий выстрел (Shoving Shot) ◆◆]], все существа в области совершают спасбросок Стойкости, чтобы избежать принудительного перемещения, а не только ваша [[character-creation/all-classes-content/all-classes/soldier#Приоритетная цель (Primary Target)|приоритетная цель]].
+Ваш сокрушительный обстрел разбрасывает врагов, как листья на ветру. Когда вы используете [[feats/all-feats/shoving-shot|Толкающий выстрел (Shoving Shot) ◆◆]], все существа в области совершают спасбросок Стойкости, чтобы избежать [[rules/player core/chapter-8-playing-the-game#Принудительное передвижение (Forced Movement)|принудительного перемещения]], а не только ваша [[character-creation/all-classes-content/all-classes/soldier#Приоритетная цель (Primary Target)|приоритетная цель]].

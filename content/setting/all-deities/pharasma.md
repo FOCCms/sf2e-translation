@@ -22,4 +22,4 @@ title: Фаразма (Pharasma)
 **Божественный навык** [[character-creation/skills/medicine|Медицина]]  
 **Предпочитаемое оружие** Кинжал (Dagger) или [[equipment/all-equipment/all-weapons/zero-knife|Нуль нож (Zero knife)]]  
 **Домены** Смерть (Death), Судьба (Fate), Исцеление (Healing), Знания (Knowledge)  
-**Заклинания жреца** 1-й: [[spells/all-spells/mindlink|Мысленная связь (Mindlink)]]; 3-й: [[spells/all-spells/ghost-killer-weapon|Оружие убийцы призраков (Ghost Killer Weapon)]]; 6-й: [[spells/all-spells/vision-of-death|Видение смерти (Vision of Death)]]  
+**Заклинания жреца** 1-й: [[spells/all-spells/mindlink|Мысленная связь (Mindlink)]]; 3-й: [Призрачное оружие (Ghostly Weapon)](https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/G/ghostly-weapon.html); 4-й: [[spells/all-spells/vision-of-death|Видение смерти (Vision of Death)]]  

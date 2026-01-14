@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Мечты о доме (Dream of Home)
 
-[[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/mental|Ментальный]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/mental|Ментальный]] [[rules/traits/subtle|Скрытный]]
 
 **Источник** Player Core  
 **Тип** Заклинание  

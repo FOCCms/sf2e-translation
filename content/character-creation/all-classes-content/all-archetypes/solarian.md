@@ -26,7 +26,7 @@ rarity: common
 **Уровень** 2  
 **Предварительные условия** Сила +2  
 
-Вы получаете особенность класса [[character-creation/all-classes-content/all-classes/solarian#Звёздная сонастройка (Stellar Attunement)|звёздная сонастройка]], но вы не выполняете [[rules/activities/all-activities/attune|Сонастроиться (Attune) ◆]] свободным действием, когда делаете бросок инициативы. Вы становитесь тренированы КС класса солариан.
+Вы получаете особенность класса [[character-creation/all-classes-content/all-classes/solarian#Звёздная сонастройка (Stellar Attunement)|звёздная сонастройка]], но вы не выполняете [[rules/activities/all-activities/attune|Сонастроиться (Attune) ◆]] свободным действием, когда делаете бросок инициативы. Вы становитесь тренированы [[character-creation/all-classes-content/all-classes-options/solar-flare|Солнечной вспышке (Solar Flare)]], [[character-creation/all-classes-content/all-classes-options/solar-weapon|Солнечному оружию (Solar Weapon)]] и КС класса солариан.
 
 Вы можете проявлять [[character-creation/all-classes-content/all-classes-options/solar-weapon|Солнечное оружие (Solar Weapon)]]. Ваше оружие имеет признаки [[rules/traits/attuned|сонастроен]] и [[rules/traits/solarian|солариан]], но вы не можете выбирать дополнительные признаки, и оно не получает преимуществ на основе вашей сонастройки. Вы получаете действие [[rules/activities/all-activities/re-forge-solar-weapon|Перековка солнечного оружия (Re-Forge Solar Weapon)]].
 
@@ -96,4 +96,4 @@ rarity: common
 **Уровень** 12  
 **Предварительные условия** [[character-creation/all-classes-content/all-archetypes/solarian#Посвящение солариана (Solarian Dedication)|Посвящение солариана]]; эксперт в любом виде оружия или безоружной атаке  
 
-Ваши ранги мастерства для солнечной вспышки и солнечного оружия повышаются до эксперта.
+Ваши ранги мастерства для солнечной вспышки, солнечного оружия и КС класса солариан повышаются до эксперта.

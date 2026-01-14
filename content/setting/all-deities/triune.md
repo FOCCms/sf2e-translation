@@ -21,5 +21,5 @@ title: Триединый (Triune)
 **Божественное священие** —
 **Божественный навык** [[character-creation/skills/computers|Компьютеры]]  
 **Предпочитаемое оружие** [[equipment/all-equipment/all-weapons/pulse-gauntlet|Импульсная рукавица (Pulse gauntlet)]]  
-**Домены** Изменения (Change), Знания (Knowledge), Пустота (Void), Технология (Technology)  
+**Домены** Изменения (Change), Знания (Knowledge), Небытие (Nothingness), Технология (Technology)  
 **Заклинания жреца** 1-й: [[spells/all-spells/mending|Починка (Mending)]]; 2-й: [[spells/all-spells/logic-bomb|Логическая бомба (Logic Bomb)]]; 5-й: [[spells/all-spells/control-machine|Контроль машин (Control Machine)]]  

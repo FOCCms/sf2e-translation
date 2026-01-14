@@ -3,7 +3,7 @@ title: Фазовая абордажная сабля (Phase cutlass)
 ---
 # Фазовая абордажная сабля (Phase cutlass)
 
-[[rules/traits/analog|Аналоговое]] [[rules/traits/deadly|Смертельное d6]] [[rules/traits/modular|Модульное]] (Р и [[rules/traits/analog|Аналоговое]], или П, [[rules/traits/powered|Питаемое]] и [[rules/traits/tech|Техно]]) [[rules/traits/sweep|Размах]]
+[[rules/traits/agile|Быстрое]] [[rules/traits/analog|Аналоговое]] [[rules/traits/finesse|Точное]] [[rules/traits/modular|Модульное]] (Р и [[rules/traits/analog|Аналоговое]], или П, [[rules/traits/powered|Питаемое]] и [[rules/traits/tech|Техно]]) [[rules/traits/sweep|Размах]]
 
 **Источник** Player Core  
 **Тип** Оружие  

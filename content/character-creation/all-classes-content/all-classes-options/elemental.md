@@ -27,7 +27,7 @@ rarity: common
 - 4й: [[spells/all-spells/wall-of-fire|Стена огня (Wall of Fire)]]<sup>*</sup>
 - 5й: [[spells/all-spells/Elemental Form|Форма элементаля (Elemental Form)]]
 - 6й: [[spells/all-spells/promession|Промессия (Promession)]]
-- 7й: [[spells/all-spells/absolute-zero|Абсолютный ноль (Absolute Zero)]]
+- 7й: [[spells/all-spells/absolute-zero|Абсолютный ноль (Absolute Zero)]]<sup>*</sup>
 - 8й: [[spells/all-spells/earthquake|Землетрясение (Earthquake)]]
 - 9й: [[spells/all-spells/falling-stars|Падающие звёзды (Falling Stars)]]
 

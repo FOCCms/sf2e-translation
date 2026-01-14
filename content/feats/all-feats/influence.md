@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Влияние (Influence) ↩
 
-[[rules/traits/envoy|Посланник]]
+[[rules/traits/envoy|Посланник]] [[rules/traits/fortune|Удача]]
 
 **Источник** Player Core  
 **Тип** Способность  

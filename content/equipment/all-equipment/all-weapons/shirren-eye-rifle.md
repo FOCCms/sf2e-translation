@@ -3,14 +3,14 @@ title: Винтовка Ширренский глаз (Shirren-Eye Rifle)
 ---
 # Винтовка Ширренский глаз (Shirren-Eye Rifle)
 
-[[rules/traits/analog|Аналоговое]] [[rules/traits/deadly|Смертельное d12]] [[rules/traits/kickback|Отдача]] [[rules/traits/unwieldy|Громоздкий]] [[rules/traits/volley|Залповое 30 фт.]]
+[[rules/traits/analog|Аналоговое]] [[rules/traits/fatal|Фатальное d10]] [[rules/traits/kickback|Отдача]] [[rules/traits/unwieldy|Громоздкий]] [[rules/traits/volley|Залповое 30 фт.]]
 
 **Источник** Player Core  
 **Тип** Оружие  
 **Категория** Дистанционное (Воинское)  
 **Уровень** 0  
 **Цена** 80  
-**Урон** 1d10 К  
+**Урон** 1d8 К  
 **Дистанция** 120 фт.  
 **Перезарядка** 1  
 **Масса** 1  

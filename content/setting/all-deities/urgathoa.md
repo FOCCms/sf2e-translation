@@ -22,4 +22,4 @@ title: Ургатоа (Urgathoa)
 **Божественный навык** [[character-creation/skills/intimidation|Запугивание]]  
 **Предпочитаемое оружие** [[equipment/all-equipment/all-weapons/bone-scepter|Костяной скипетр (Bone scepter)]] или Коса (Scythe)  
 **Домены** Потворство (Indulgence), Магия (Magic), Мощь (Might), Нежить (Undeath)  
-**Заклинания жреца** 1-й: [[spells/all-spells/grim-tendrils|Мрачные щупальца (Grim Tendrils)]]; 2-й: [[spells/all-spells/instant-virus|Мгновенный вирус (Instant Virus)]]; 5-й: [[spells/all-spells/mask-of-terror|Маска ужаса (Mask of Terror)]]  
+**Заклинания жреца** 1-й: [Гоблинская оспа (Goblin Pox)](https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/G/goblin-pox.html); 2-й: [[spells/all-spells/false-vitality|Ложная витальность (False Vitality)]]; 7-й: [[spells/all-spells/mask-of-terror|Маска ужаса (Mask of Terror)]]  

@@ -1,9 +1,8 @@
 ---
-title: Коллапс звёздного щита (Stellar Shield Collapse) ↩
+title: Коллапс звёздного щита (Stellar Shield Collapse) ◇
 source: Player Core
 ---
-
-# Коллапс звёздного щита (Stellar Shield Collapse) ↩
+# Коллапс звёздного щита (Stellar Shield Collapse) ◇
 
 [[rules/traits/attuned|Сонастроен]] [[rules/traits/solarian|Солариан]]
 

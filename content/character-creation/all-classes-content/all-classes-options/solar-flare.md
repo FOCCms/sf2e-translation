@@ -12,8 +12,7 @@ rarity: common
 
 ### Гравитон-сонастроен
 
-1d8 дробящий, [[rules/player core/chapter-6-equipment#Дистанция (Range)|шаг дистанции]] 15 футов. При критическом успехе вы можете попытаться [[rules/activities/all-activities/trip|Опрокинуть (Trip) ◆]] цель [[rules/player core/chapter-1-introduction#Свободные действия ◇ (Free Actions)|свободным действием]], даже если у вас нет свободной руки или вы не смежны с целью.
-
+1d8 дробящий, [[rules/player core/chapter-6-equipment#Дистанция (Range)|шаг дистанции]] 15 футов. При критическом успехе вы можете попытаться [[rules/activities/all-activities/trip|Опрокинуть (Trip) ◆]] цель [[rules/player core/chapter-1-introduction#Свободные действия ◇ (Free Actions)|свободным действием]], игнорируя [[rules/player core/chapter-6-equipment#Дистанция (Range)|штраф дистанции]] и [[rules/player core/chapter-8-playing-the-game#Штраф множественной атаки (Multiple Attack Penalty)|штраф множественной атаки]], даже если у вас нет свободной руки.
 ### Фотон-сонастроен
 
 1d6 огненный, [[rules/player core/chapter-6-equipment#Дистанция (Range)|шаг дистанции]] 30 футов. При критическом успехе цель дополнительно получает 1d6 [[rules/player core/chapter-8-playing-the-game#Продолжительный урон (Persistent Damage)|продолжительного урона]] огнём.

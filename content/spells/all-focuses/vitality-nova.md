@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Витальная нова (Vitality Nova)
 
-[[rules/traits/uncommon|Необычный]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/focus|Фокусировка]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/mystic|Мистик]] [[rules/traits/vitality|Витальность]]
+[[rules/traits/uncommon|Необычный]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/focus|Фокусировка]] [[rules/traits/healing|Исцеление]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/mystic|Мистик]] [[rules/traits/vitality|Витальность]]
 
 **Источник** Player Core  
 **Тип** Фокусировка  

@@ -155,7 +155,7 @@ rarity: common
 
 ### Cфокусирован (Focused) (3-й)
 
-Вы крайне сфокусированы на своей цели и способны распознавать её движения. Когда вы получаете успех при спасброске Рефлекса против вашей метки, вы вместо этого получаете критический успех.
+Вы крайне сфокусированы на своей цели и способны распознавать её движения. Когда вы получаете успех при спасброске Рефлекса или Воли против вашей метки, вы вместо этого получаете критический успех.
 
 ### Общие способности (3-й)
 
@@ -177,7 +177,7 @@ rarity: common
 
 ### Мастер стволов (Master Gunner) (5-й)
 
-Вы высококвалифицированный меткий стрелок и никогда не расстаетесь со своим стволом. Ваш ранг мастерства повышается до мастера с простыми и воинскими стволами и до эксперта с продвинутыми стволами. Вы получаете доступ к [[rules/player core/chapter-6-equipment#Эффекты критической специализации (Critical Specialization Effects)|эффектам критической специализации]] для всех стволов, в которых имеете ранг мастерства не ниже эксперта.
+Вы высококвалифицированный меткий стрелок и никогда не расстаетесь со своим стволом. Ваш ранг мастерства повышается до мастера с простыми и воинскими стволами и до эксперта с продвинутыми стволами. Вы получаете доступ к [[rules/player core/chapter-6-equipment#Эффекты критической специализации (Critical Specialization Effects)|эффектам критической специализации]] для всех оружий, в которых имеете ранг мастерства не ниже эксперта.
 
 ### Городской оперативник (Urban Operator) (5-й)
 
@@ -296,7 +296,7 @@ rarity: common
 | [[feats/all-feats/follow-up-fire\|Последующий огонь (Follow-Up Fire) ◇]]                         | Player Core | Обычный  | [[rules/traits/flourish\|Размах]], [[rules/traits/operative\|Оперативник]]                                                                         | 14      | —                                                                                              |
 | [[feats/all-feats/burst-fire\|Огонь очередями (Burst Fire)]]                                     | Player Core | Обычный  | [[rules/traits/operative\|Оперативник]]                                                                                                            | 16      | [[feats/all-feats/double-tap\|Двойной выстрел (Double Tap) ◆◆]]                                |
 | [[feats/all-feats/cloaking-field\|Маскировочное поле (Cloaking Field) ◆◆]]                       | Player Core | Обычный  | [[rules/traits/operative\|Оперативник]]                                                                                                            | 16      | —                                                                                              |
-| [[feats/all-feats/explosive-deflection\|Взрывное отражение (Explosive Deflection)]]              | Player Core | Обычный  | [[rules/traits/operative\|Оперативник]]                                                                                                            | 16      | —                                                                                              |
+| [[feats/all-feats/explosive-deflection\|Взрывное отражение (Explosive Deflection) ↩]]            | Player Core | Обычный  | [[rules/traits/operative\|Оперативник]]                                                                                                            | 16      | —                                                                                              |
 | [[feats/all-feats/extreme-accuracy\|Экстремальная точность (Extreme Accuracy)]]                  | Player Core | Обычный  | [[rules/traits/operative\|Оперативник]]                                                                                                            | 16      | [[feats/all-feats/keep-them-in-your-sights\|Держать в поле зрения (Keep Them In Your Sights)]] |
 | [[feats/all-feats/bullet-dance\|Танец пуль (Bullet Dance) ◆◆◆]]                                  | Player Core | Обычный  | [[rules/traits/flourish\|Размах]], [[rules/traits/operative\|Оперативник]], [[rules/traits/traversal\|Вседорога]]                                  | 18      | —                                                                                              |
 | [[feats/all-feats/kill-shot\|Смертельный выстрел (Kill Shot) ◆◆ или ◆◆◆]]                        | Player Core | Обычный  | [[rules/traits/flourish\|Размах]], [[rules/traits/operative\|Оперативник]]                                                                         | 18      | —                                                                                              |

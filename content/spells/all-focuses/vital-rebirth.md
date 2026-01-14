@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Витальное возрождение (Vital Rebirth)
 
-[[rules/traits/uncommon|Необычный]] [[rules/traits/focus|Фокусировка]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/mystic|Мистик]] [[rules/traits/vitality|Витальность]]
+[[rules/traits/uncommon|Необычный]] [[rules/traits/focus|Фокусировка]] [[rules/traits/healing|Исцеление]] [[rules/traits/manipulate|Манипуляция]] [[rules/traits/mystic|Мистик]] [[rules/traits/vitality|Витальность]]
 
 **Источник** Player Core  
 **Тип** Фокусировка  

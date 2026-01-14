@@ -23,7 +23,7 @@ title: Исследование (Exploration)
 
 [[rules/activities/all-activities/live-stream|Прямая трансляция (Live Stream)]]
 
-[[rules/activities/all-activities/recharge|Перезарядить (Recharge)]]
+[[rules/activities/all-activities/recharge|Перезарядить батарею (Recharge)]]
 
 [[rules/activities/all-activities/repeat-a-spell|Повторять заклинание (Repeat a Spell)]]
 

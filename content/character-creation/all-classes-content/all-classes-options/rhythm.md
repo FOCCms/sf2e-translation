@@ -29,7 +29,7 @@ rarity: common
 - 6й: [[spells/all-spells/vibrant-pattern|Яркий узор (Vibrant Pattern)]]
 - 7й: [[spells/all-spells/howl|Вой (Howl)]]
 - 8й: [[spells/all-spells/uncontrollable-dance|Неудержимый танец (Uncontrollable Dance)]]
-- 9й: [Непостижимая песня (Unfathomable Song)](https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/U/unfathomable-song.html?highlight=unfathomable%20song)
+- 9й: [Непостижимая песня (Unfathomable Song)](https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/U/unfathomable-song.html)
 
 ### Заклинания прозрения (Epiphany Spells)
 

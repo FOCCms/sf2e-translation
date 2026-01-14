@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Тяжесть веков (Weight of Ages)
 
-[[rules/traits/attack|Атака]] [[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]]
+[[rules/traits/concentrate|Концентрация]] [[rules/traits/manipulate|Манипуляция]]
 
 **Источник** Player Core  
 **Тип** Заклинание  
