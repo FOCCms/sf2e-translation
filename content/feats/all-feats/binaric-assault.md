@@ -4,7 +4,7 @@ source: Player Core
 ---
 # Бинарное нападение (Binaric Assault) ◆◆
 
-[[rules/traits/attuned|Сонастроен]] [[rules/traits/flourish|Размах]] [[rules/traits/soldier|Солдат]]
+[[rules/traits/attuned|Сонастроен]] [[rules/traits/flourish|Размах]] [[rules/traits/solarian|Солариан]]
 
 **Источник** Player Core  
 **Тип** Способность  
