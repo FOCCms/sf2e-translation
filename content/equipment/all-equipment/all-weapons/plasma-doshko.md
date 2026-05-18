@@ -12,7 +12,7 @@ title: Плазменный дошко (Plasma doshko)
 **Цена** 30  
 **Урон** 1d10 О  
 **Масса** 1  
-**Руки** 1  
+**Руки** 2  
 **Улучшения** 1  
 **Группа** [[equipment/all-equipment/all-specialization-effects/axe|Топор]]  
 
